@@ -1,0 +1,6 @@
+requests==2.9.1
+click==6.6
+pyquery==1.2.13
+ipython
+ipdb
+user_agent
