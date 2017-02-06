@@ -52,6 +52,7 @@ def parse():
                 pq_detail.html().
                     replace('<br/>', '\n').
                     replace('&#13;', '').
+                    replace(' ? ', ' - ').
                     strip()
             )
             joke_id = pq_meta.find('a')[1].text.strip()
