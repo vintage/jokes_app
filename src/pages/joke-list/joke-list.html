@@ -35,6 +35,9 @@
       <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)" #tappable>
         <ion-card>
           <ion-card-content class="joke-content">
+            <ion-note class="joke-date">
+              {{ joke.date|date:'dd.MM.yyyy' }}
+            </ion-note>
             <div [innerHTML]="joke.contentHTML"></div>
           </ion-card-content>
           

@@ -1,4 +1,9 @@
 page-joke-detail {
+  .joke-date {
+    display: block;
+    text-align: right;
+  }
+
   .joke-content {
     color: color($colors, light);
     line-height: 3rem;

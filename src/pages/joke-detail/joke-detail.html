@@ -14,6 +14,9 @@
 <ion-content padding>
   <ion-card>
     <ion-card-content class="joke-content">
+      <ion-note class="joke-date">
+        {{ joke.date|date:'dd.MM.yyyy' }}
+      </ion-note>
       <div [innerHTML]="joke.contentHTML"></div>
     </ion-card-content>
 

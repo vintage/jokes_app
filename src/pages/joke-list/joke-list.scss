@@ -12,6 +12,11 @@ page-joke-list {
     .jokes-list__item {
       width: 100%;
 
+      .joke-date {
+        display: block;
+        text-align: right;
+      }
+
       .joke-content {
         color: color($colors, light);
         line-height: 2.6rem;
