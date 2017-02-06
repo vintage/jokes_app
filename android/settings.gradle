@@ -1,3 +1,0 @@
-rootProject.name = 'jokes_app'
-
-include ':app'
