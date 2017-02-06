@@ -18,6 +18,7 @@
     <ion-select
       [(ngModel)]="sortBy"
       interface="action-sheet"
+      cancelText="Anuluj"
       (ionChange)="sortByChange()"
       class="sort-jokes"
       *ngIf="jokes.length > 0">
