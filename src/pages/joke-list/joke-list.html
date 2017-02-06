@@ -14,11 +14,30 @@
 <ion-content padding>
   <ion-spinner color="yellow" name="dots" *ngIf="jokes.length === 0" class="loading-spinner"></ion-spinner>
 
-  <div class="jokes-wrapper" *ngIf="jokes.length > 0">
-    <ion-list class="jokes-list">
-      <ion-item class="jokes-list__item" *ngFor="let joke of jokes" (click)="openJoke(joke)">
-        <p>{{ joke }}</p>
-      </ion-item>
+  <div class="jokes-wrapper">
+    <ion-list class="jokes-list" [virtualScroll]="jokes" approxItemHeight="250px">
+      <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)">
+        <ion-card>
+          <ion-card-content class="joke-content">
+            <p [innerHTML]="joke.contentHTML"></p>
+          </ion-card-content>
+
+          <ion-row>
+            <ion-col>
+              <button ion-button icon-left clear small color="light">
+                <ion-icon name="thumbs-up" color="yellow"></ion-icon>
+                <div>{{ joke.rate }}</div>
+              </button>
+            </ion-col>
+            <ion-col text-right>
+              <button ion-button icon-left clear small color="light">
+                <ion-icon name="contact" color="yellow"></ion-icon>
+                <div>{{ joke.author }}</div>
+              </button>
+            </ion-col>
+          </ion-row>
+        </ion-card>
+      </div>
     </ion-list>
   </div>
 </ion-content>

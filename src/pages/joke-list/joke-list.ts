@@ -12,13 +12,13 @@ import { AboutPage } from '../about/about';
 })
 export class JokeListPage {
   coins: number;
-  jokes: Joke[] = [];
+  jokes: Joke[];
 
   constructor(
     public navCtrl: NavController,
     private jokeService: JokeService,
   ) {
-    
+    this.jokes = [];
   }
 
   ionViewWillEnter() { 

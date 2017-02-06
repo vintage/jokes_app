@@ -29,4 +29,8 @@ export class Joke {
     
     return null;
   }
+
+  get contentHTML(): string {
+    return this.content.replace(/\n/g, '<br />');
+  }
 }

@@ -14,7 +14,7 @@ export class AboutPage {
 
   showContactAlert() {
     let alert = this.alertCtrl.create({
-      title: 'Zgadula',
+      title: 'Perełki',
       message: 'Skontaktuj się z nami na puppy.box@outlook.com'
     });
 
@@ -45,7 +45,7 @@ export class AboutPage {
       if (available) {
         let email = {
           to: 'puppy.box@outlook.com',
-          subject: '[Zgadula] Formularz kontaktowy'
+          subject: '[Perełki] Formularz kontaktowy'
         };
         EmailComposer.open(email);
       } else {

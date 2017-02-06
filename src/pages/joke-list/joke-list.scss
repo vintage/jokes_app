@@ -3,4 +3,30 @@ page-joke-list {
     display: block;
     margin: 0 auto;
   }
+
+  ion-card {
+    background: none !important;
+
+    ion-card-header {
+      color: color($colors, light) !important;
+      text-align: center;
+    }
+
+    border: 3px solid #fff;
+    
+    p {
+      color: color($colors, light) !important;
+    }
+  }
+
+  .jokes-list {
+    .jokes-list__item {
+      width: 100%;
+
+      .joke-content {
+        max-height: 200px;
+        overflow: hidden;
+      }
+    }
+  }
 }

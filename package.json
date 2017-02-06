@@ -1,8 +1,8 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
-  "private": true,
+  "name": "perelki",
+  "author": "PuppyBox",
+  "homepage": "http://puppybox.pl/",
+  "private": false,
   "scripts": {
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
@@ -40,15 +40,23 @@
     "cordova-plugin-statusbar",
     "cordova-plugin-device",
     "cordova-plugin-splashscreen",
-    "ionic-plugin-keyboard"
+    "cordova-sqlite-storage",
+    "ionic-plugin-keyboard",
+    "cordova-plugin-inappbrowser",
+    "cordova-plugin-email",
+    "cordova-plugin-crosswalk-webview",
+    {
+      "locator": "https://github.com/jwall149/cordova-multidex",
+      "id": "cordova-multidex"
+    },
+    {
+      "locator": "https://github.com/appodeal/appodeal-cordova-plugin.git",
+      "id": "appodeal-cordova-plugin"
+    }
   ],
   "cordovaPlatforms": [
     "ios",
-    {
-      "platform": "ios",
-      "version": "",
-      "locator": "ios"
-    }
+    "android"
   ],
-  "description": "jokes_app: An Ionic project"
+  "description": "Najlepsze Polskie kawały aby zabłysnąć w towarzystwie - Perełki"
 }

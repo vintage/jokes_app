@@ -1,6 +1,9 @@
 page-about {
   ion-card {
+    background: none !important;
+
     ion-card-header {
+      color: color($colors, light) !important;
       text-align: center;
     }
 
@@ -8,6 +11,7 @@ page-about {
     
     color: color($colors, light) !important;
     ion-item {
+      background: none !important;
       color: color($colors, light) !important;
     }
   }
