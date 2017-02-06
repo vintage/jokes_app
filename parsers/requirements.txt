@@ -4,3 +4,4 @@ pyquery==1.2.13
 ipython
 ipdb
 user_agent
+tqdm

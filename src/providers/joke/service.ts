@@ -12,10 +12,12 @@ export class JokeService {
   constructor(
     public http: Http,
     private storage: Storage
-  ) {}
+  ) {
+    this.items = [];
+  }
 
   ready() {
-    if (this.items) {
+    if (this.items.length > 0) {
       return Promise.resolve(true);
     }
 

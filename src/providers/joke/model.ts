@@ -32,4 +32,8 @@ export class Joke {
   get contentHTML(): string {
     return this.content.replace(/\n/g, '<br />');
   }
+
+  get authorName(): string {
+    return this.author || 'nieznany';
+  }
 }

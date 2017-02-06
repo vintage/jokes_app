@@ -8,6 +8,7 @@ from lxml import etree
 from user_agent import generate_user_agent
 from pyquery import PyQuery as pq
 import requests
+from tqdm import tqdm
 
 
 @click.group()
@@ -25,10 +26,10 @@ def parse():
     btree = etree.HTML(response.content)
 
     first_page = 1
-    last_page = 2 # int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
+    last_page = int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
 
     jokes = []
-    for page_nr in range(first_page, last_page + 1):
+    for page_nr in tqdm(range(first_page, last_page + 1), 'Parsing jokes'):
         page_url = base_url + '?ps={}'.format(page_nr)
         page_response = requests.get(page_url, headers={'User-Agent': generate_user_agent()})
         ptree = etree.HTML(page_response.content)

@@ -13,12 +13,20 @@ import { AboutPage } from '../about/about';
 })
 export class JokeListPage {
   jokes: Joke[] = [];
+  sortBy: string;
+  sortByOptions: Object[] = [
+    {title: 'Najlepsze',id: '-rate'},
+    {title: 'Najnowsze',id: '-date'},
+    {title: 'Najgorsze',id: 'rate',},
+    {title: 'Najstarsze',id: 'date'},
+  ];
 
   constructor(
     public navCtrl: NavController,
     private jokeService: JokeService,
   ) {
     this.jokes = [];
+    this.sortBy = '-rate';
   }
 
   ionViewWillEnter() { 
@@ -28,6 +36,7 @@ export class JokeListPage {
   updateJokes() {
     this.jokeService.getAll().then(jokes => {
       this.jokes = jokes;
+      this.sortJokes();
     });
   }
 
@@ -51,5 +60,25 @@ export class JokeListPage {
 
   removeFavorite(joke: Joke) {    
     this.jokeService.removeFavorite(joke);
+  }
+
+  sortJokes() {
+    let sortField = this.sortBy;
+    let isReverse = sortField.startsWith('-');
+    
+    if (isReverse) {
+      sortField = sortField.slice(1);
+    }
+
+    let jokes = _.sortBy(this.jokes, sortField);
+    if (isReverse) {
+      jokes.reverse();
+    }
+
+    this.jokes = jokes;
+  }
+
+  sortByChange() {
+    this.sortJokes();
   }
 }

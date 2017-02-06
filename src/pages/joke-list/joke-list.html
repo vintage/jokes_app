@@ -12,10 +12,29 @@
 </ion-header>
 
 <ion-content padding>
-  <ion-spinner color="yellow" name="dots" *ngIf="jokes.length === 0" class="loading-spinner"></ion-spinner>
+  <ion-spinner color="yellow" name="dots" *ngIf="jokes?.length === 0" class="loading-spinner"></ion-spinner>
 
   <div class="jokes-wrapper">
-    <ion-list class="jokes-list" [virtualScroll]="jokes" approxItemHeight="250px">
+    <ion-select
+      [(ngModel)]="sortBy"
+      interface="action-sheet"
+      (ionChange)="sortByChange()"
+      class="sort-jokes"
+    >
+      <ion-option *ngFor="let sortOption of sortByOptions"
+        [value]="sortOption.id">
+        {{ sortOption.title }}
+      </ion-option>
+    </ion-select>
+
+    <div style="clear: both"></div>
+
+    <ion-list class="jokes-list"
+      [virtualScroll]="jokes"
+      approxItemHeight="250px"
+      bufferRatio="20"
+      *ngIf="jokes"
+    >
       <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)" #tappable>
         <ion-card>
           <ion-card-content class="joke-content">
@@ -31,7 +50,7 @@
             </ion-col>
             <ion-col text-right>
               <button ion-button icon-right clear small color="light">
-                <div>{{ joke.author }}</div>
+                <div>{{ joke.authorName }}</div>
                 <ion-icon name="contact" color="yellow"></ion-icon>
               </button>
             </ion-col>

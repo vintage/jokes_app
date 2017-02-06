@@ -68,3 +68,12 @@ ion-card {
     color: color($colors, light) !important;
   }
 }
+
+ion-select {
+  color: color($colors, light) !important;
+  border: 3px solid #fff;
+
+  .select-icon-inner {
+    color: color($colors, yellow) !important;
+  }
+}

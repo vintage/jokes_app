@@ -19,6 +19,7 @@ import { JokeService } from '../providers/joke/service';
 let appConfig = {
   statusbarPadding: false,
   backButtonText: 'Wstecz',
+  mode: 'md'
 };
 
 export function provideStorage() {
