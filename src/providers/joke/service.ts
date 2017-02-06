@@ -61,6 +61,12 @@ export class JokeService {
     });
   }
 
+  isFavorite(joke: Joke) {
+    return this.getFavorite().then(jokes => {
+      return !!_.some(jokes, joke);
+    });
+  }
+
   setFavorite(joke: Joke) {
     return this.getFavorite().then(jokes => {
       if (!_.some(jokes, joke)) {

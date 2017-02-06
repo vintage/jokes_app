@@ -25,11 +25,29 @@
         </button>
       </ion-col>
       <ion-col text-right>
-        <button ion-button icon-left clear small color="light">
-          <ion-icon name="contact" color="yellow"></ion-icon>
+        <button ion-button icon-right clear small color="light">
           <div>{{ joke.author }}</div>
+          <ion-icon name="contact" color="yellow"></ion-icon>
         </button>
       </ion-col>
     </ion-row>
   </ion-card>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col text-center *ngIf="!isFavorite">
+        <button ion-button icon-left block color="primary" (click)="addFavorite()">
+          <ion-icon name="star"></ion-icon>
+          <div>Dodaj do ulubionych</div>
+        </button>
+      </ion-col>
+
+      <ion-col text-center *ngIf="isFavorite">
+        <button ion-button icon-left block color="danger" (click)="removeFavorite()">
+          <ion-icon name="star"></ion-icon>
+          <div>Usuń z ulubionych</div>
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 </ion-content>

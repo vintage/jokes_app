@@ -11,6 +11,7 @@ import { AboutPage } from '../about/about';
   templateUrl: 'joke-detail.html'
 })
 export class JokeDetailPage {
+  isFavorite: boolean;
   joke: Joke;
 
   constructor(
@@ -19,17 +20,26 @@ export class JokeDetailPage {
     private jokeService: JokeService,
   ) {
     this.joke = params.get('joke');
+    this.isFavorite = false;
+  }
+
+  ionViewWillEnter() {
+    this.jokeService.isFavorite(this.joke).then(isFavorite => {
+      this.isFavorite = isFavorite;
+    });
   }
 
   openAbout() {
     this.navCtrl.push(AboutPage);
   }
 
-  addFavorite(joke: Joke) {
-    this.jokeService.setFavorite(joke);
+  addFavorite() {
+    this.isFavorite = true;
+    this.jokeService.setFavorite(this.joke);
   }
 
-  removeFavorite(joke: Joke) {    
-    this.jokeService.removeFavorite(joke);
+  removeFavorite() {
+    this.isFavorite = false;
+    this.jokeService.removeFavorite(this.joke);
   }
 }
