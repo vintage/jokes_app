@@ -52,6 +52,15 @@ $colors: (
   twitter:    $twitter
 );
 
+@font-face {
+  font-family: 'RobotoSlab';
+  src: local('RobotoSlab'), local('RobotoSlab'),
+  url('../assets/fonts/RobotoSlab-Regular.woff') format('woff'),
+  url('../assets/fonts/RobotoSlab-Regular.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
 $toolbar-ios-padding: 0px;
 $toolbar-md-padding: 0px;
 
@@ -60,7 +69,7 @@ $toolbar-md-height: 50px;
 
 $toolbar-background: color($colors, secondary);
 
-$font-family-base: 'Dosis', -apple-system, "Helvetica Neue", "Roboto", sans-serif;
+$font-family-base: 'RobotoSlab', -apple-system, "Helvetica Neue", "Roboto", sans-serif;
 $font-family-md-base: $font-family-base;
 $font-family-ios-base: $font-family-base;
 

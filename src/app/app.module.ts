@@ -6,6 +6,7 @@ import { MyApp } from './app.component';
 
 // Pages
 import { JokeListPage } from '../pages/joke-list/joke-list';
+import { JokeDetailPage } from '../pages/joke-detail/joke-detail';
 import { AboutPage } from '../pages/about/about';
 
 // Components
@@ -29,6 +30,7 @@ export function provideStorage() {
     MyApp,
     // Pages
     JokeListPage,
+    JokeDetailPage,
     AboutPage
 
     // Components
@@ -42,6 +44,7 @@ export function provideStorage() {
   entryComponents: [
     MyApp,
     JokeListPage,
+    JokeDetailPage,
     AboutPage
   ],
   providers: [

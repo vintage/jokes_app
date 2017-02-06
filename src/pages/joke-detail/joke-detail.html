@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title class="logo-title">
+      <button ion-button clear color="light" class="help" (click)="openAbout()">
+        <ion-icon name="help-circle"></ion-icon>
+      </button>
+      
+      <div class="logo"></div>
+      <div class="logo-text">Perełki</div>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <ion-card-content class="joke-content">
+      <div [innerHTML]="joke.contentHTML"></div>
+    </ion-card-content>
+
+    <ion-row>
+      <ion-col>
+        <button ion-button icon-left clear small color="light">
+          <ion-icon name="thumbs-up" color="yellow"></ion-icon>
+          <div>{{ joke.rate }}</div>
+        </button>
+      </ion-col>
+      <ion-col text-right>
+        <button ion-button icon-left clear small color="light">
+          <ion-icon name="contact" color="yellow"></ion-icon>
+          <div>{{ joke.author }}</div>
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-card>
+</ion-content>

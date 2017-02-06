@@ -4,6 +4,7 @@ import { NavController } from 'ionic-angular';
 import { JokeService } from '../../providers/joke/service';
 import { Joke } from '../../providers/joke/model';
 
+import { JokeDetailPage } from '../joke-detail/joke-detail';
 import { AboutPage } from '../about/about';
 
 @Component({
@@ -11,8 +12,7 @@ import { AboutPage } from '../about/about';
   templateUrl: 'joke-list.html'
 })
 export class JokeListPage {
-  coins: number;
-  jokes: Joke[];
+  jokes: Joke[] = [];
 
   constructor(
     public navCtrl: NavController,
@@ -32,9 +32,9 @@ export class JokeListPage {
   }
 
   openJoke(joke: Joke) {
-    // this.navCtrl.push(JokeDetailPage, {
-    //   joke: joke
-    // });
+    this.navCtrl.push(JokeDetailPage, {
+      joke: joke
+    });
   }
 
   logoClick() {

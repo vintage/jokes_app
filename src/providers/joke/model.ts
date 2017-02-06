@@ -9,7 +9,6 @@ export class Joke {
   author: string;
 
   constructor(json: Object) {
-    console.log(json);
     this.id = _.get(json, "id", "");
     this.content = _.get(json, "content", "");
     this.rate = _.get(json, "rate", 0);

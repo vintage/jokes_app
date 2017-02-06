@@ -4,26 +4,14 @@ page-joke-list {
     margin: 0 auto;
   }
 
-  ion-card {
-    background: none !important;
-
-    ion-card-header {
-      color: color($colors, light) !important;
-      text-align: center;
-    }
-
-    border: 3px solid #fff;
-    
-    p {
-      color: color($colors, light) !important;
-    }
-  }
-
   .jokes-list {
     .jokes-list__item {
       width: 100%;
 
       .joke-content {
+        color: color($colors, light);
+        line-height: 2.6rem;
+        font-size: 1.6rem;
         max-height: 200px;
         overflow: hidden;
       }

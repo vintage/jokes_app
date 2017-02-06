@@ -16,10 +16,10 @@
 
   <div class="jokes-wrapper">
     <ion-list class="jokes-list" [virtualScroll]="jokes" approxItemHeight="250px">
-      <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)">
+      <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)" #tappable>
         <ion-card>
           <ion-card-content class="joke-content">
-            <p [innerHTML]="joke.contentHTML"></p>
+            <div [innerHTML]="joke.contentHTML"></div>
           </ion-card-content>
 
           <ion-row>

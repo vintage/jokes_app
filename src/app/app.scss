@@ -53,3 +53,18 @@ ion-header {
     float: left;
   }
 }
+
+ion-card {
+  background: none !important;
+
+  ion-card-header {
+    color: color($colors, light) !important;
+    text-align: center;
+  }
+
+  border: 3px solid #fff;
+  
+  p {
+    color: color($colors, light) !important;
+  }
+}
