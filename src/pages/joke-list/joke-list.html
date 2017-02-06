@@ -20,21 +20,18 @@
       interface="action-sheet"
       (ionChange)="sortByChange()"
       class="sort-jokes"
-    >
+      *ngIf="jokes.length > 0">
       <ion-option *ngFor="let sortOption of sortByOptions"
         [value]="sortOption.id">
         {{ sortOption.title }}
       </ion-option>
     </ion-select>
 
-    <div style="clear: both"></div>
-
     <ion-list class="jokes-list"
       [virtualScroll]="jokes"
       approxItemHeight="250px"
       bufferRatio="20"
-      *ngIf="jokes"
-    >
+      *ngIf="jokes">
       <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)" #tappable>
         <ion-card>
           <ion-card-content class="joke-content">

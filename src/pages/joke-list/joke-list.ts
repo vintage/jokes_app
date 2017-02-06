@@ -35,8 +35,7 @@ export class JokeListPage {
 
   updateJokes() {
     this.jokeService.getAll().then(jokes => {
-      this.jokes = jokes;
-      this.sortJokes();
+      this.sortJokes(jokes);
     });
   }
 
@@ -62,7 +61,7 @@ export class JokeListPage {
     this.jokeService.removeFavorite(joke);
   }
 
-  sortJokes() {
+  sortJokes(jokes: Joke[]) {
     let sortField = this.sortBy;
     let isReverse = sortField.startsWith('-');
     
@@ -70,7 +69,7 @@ export class JokeListPage {
       sortField = sortField.slice(1);
     }
 
-    let jokes = _.sortBy(this.jokes, sortField);
+    jokes = _.sortBy(jokes, sortField);
     if (isReverse) {
       jokes.reverse();
     }
@@ -79,6 +78,10 @@ export class JokeListPage {
   }
 
   sortByChange() {
-    this.sortJokes();
+    this.jokes = [];
+
+    setTimeout(() => {
+      this.updateJokes();
+    }, 100);
   }
 }
