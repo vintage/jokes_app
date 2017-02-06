@@ -1,6 +1,7 @@
 import os
 import shutil
 from subprocess import call
+import json
 
 import click
 from lxml import etree
@@ -72,13 +73,10 @@ def parse():
             }
             jokes.append(joke)
 
-    print(jokes)
-
     # Copy parsed file
-    # icon_src = '{}/static/icon.png'.format(src_dir)
-    # icon_dest = '{}/src'.format(app_dir)
-
-    # shutil.copy(icon_src, icon_dest)
+    export_path = '{}/src/assets/data/jokes.json'.format(app_dir)
+    with open(export_path, 'w') as outfile:
+        json.dump(jokes, outfile, ensure_ascii=False)
 
 
 @cli.command()

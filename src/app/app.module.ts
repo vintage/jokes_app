@@ -1,30 +1,53 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
+import { Storage } from '@ionic/storage';
+
 import { MyApp } from './app.component';
+
+// Pages
+import { JokeListPage } from '../pages/joke-list/joke-list';
 import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
-import { TabsPage } from '../pages/tabs/tabs';
+
+// Components
+
+// Pipes
+
+// Services
+import { JokeService } from '../providers/joke/service';
+
+let appConfig = {
+  statusbarPadding: false,
+  backButtonText: 'Wstecz',
+};
+
+export function provideStorage() {
+ return new Storage(['sqlite', 'websql', 'indexeddb']);
+}
 
 @NgModule({
   declarations: [
     MyApp,
-    AboutPage,
-    ContactPage,
-    HomePage,
-    TabsPage
+    // Pages
+    JokeListPage,
+    AboutPage
+
+    // Components
+    
+    // Pipes
   ],
   imports: [
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp, appConfig)
   ],
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    AboutPage,
-    ContactPage,
-    HomePage,
-    TabsPage
+    JokeListPage,
+    AboutPage
   ],
-  providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}]
+  providers: [
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    {provide: Storage, useFactory: provideStorage},
+    JokeService
+  ]
 })
 export class AppModule {}

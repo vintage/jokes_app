@@ -1,0 +1,24 @@
+<ion-header (click)="logoClick()">
+  <ion-navbar>
+    <ion-title class="logo-title">
+      <button ion-button clear color="light" class="help" (click)="openAbout()">
+        <ion-icon name="help-circle"></ion-icon>
+      </button>
+      
+      <div class="logo"></div>
+      <div class="logo-text">Perełki</div>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-spinner color="yellow" name="dots" *ngIf="jokes.length === 0" class="loading-spinner"></ion-spinner>
+
+  <div class="jokes-wrapper" *ngIf="jokes.length > 0">
+    <ion-list class="jokes-list">
+      <ion-item class="jokes-list__item" *ngFor="let joke of jokes" (click)="openJoke(joke)">
+        <p>{{ joke }}</p>
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>

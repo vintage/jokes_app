@@ -1,11 +1,74 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>
-      About
+  <ion-navbar [hideBackButton]="true">
+    <ion-title class="logo-title">
+      <button ion-button clear color="light" class="help" (click)="close()">
+        <ion-icon name="arrow-dropleft-circle"></ion-icon>
+      </button>
+
+      <div class="logo"></div>
+      <div class="logo-text">Perełki</div>
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content padding>  
+  <ion-card>
+    <ion-card-header>
+      Odezwij się do nas jeśli
+    </ion-card-header>
 
+    <ion-card-content>
+      <ion-list no-lines>
+        <ion-item>
+          <ion-icon name="bug" item-left></ion-icon>
+          znalazłeś błąd
+        </ion-item>
+
+        <ion-item>
+          <ion-icon name="flame" item-left></ion-icon>
+          masz pomysł lub sugestię
+        </ion-item>
+
+        <ion-item>
+          <ion-icon name="hand" item-left></ion-icon>
+          chcesz się przywitać
+        </ion-item>
+      </ion-list>
+
+      <ion-grid>
+        <ion-row>
+          <ion-col width-33 text-center>
+            <button ion-button icon-left block color="green" (click)="openContact()">
+              <ion-icon name="mail"></ion-icon>
+            </button>
+          </ion-col>
+
+          <ion-col width-33 text-center>
+            <button ion-button icon-left block color="facebook" (click)="openFacebook()">
+              <ion-icon name="logo-facebook"></ion-icon>
+            </button>
+          </ion-col>
+
+          <ion-col width-33 text-center>
+            <button ion-button icon-left block color="twitter" (click)="openTwitter()">
+              <ion-icon name="logo-twitter"></ion-icon>
+            </button>
+          </ion-col>
+        </ion-row>
+      </ion-grid>
+    </ion-card-content>
+  </ion-card>
+
+  <div class="divider"></div>
+
+  <ion-card>
+    <ion-card-header>
+      Autorzy
+    </ion-card-header>
+
+    <ion-card-content>
+      Gra została stworzona przez firmę
+      <span class="company-name" (click)="companyClicked()">PuppyBox</span>.
+    </ion-card-content>
+  </ion-card>
 </ion-content>
