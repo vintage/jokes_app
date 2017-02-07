@@ -1,6 +1,7 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { Storage } from '@ionic/storage';
+import { TruncateModule } from 'ng2-truncate';
 
 import { MyApp } from './app.component';
 
@@ -39,7 +40,8 @@ export function provideStorage() {
     // Pipes
   ],
   imports: [
-    IonicModule.forRoot(MyApp, appConfig)
+    IonicModule.forRoot(MyApp, appConfig),
+    TruncateModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [

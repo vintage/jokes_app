@@ -21,8 +21,10 @@ page-joke-list {
         color: color($colors, light);
         line-height: 2.6rem;
         font-size: 1.6rem;
-        max-height: 200px;
-        overflow: hidden;
+
+        span {
+          color: color($colors, yellow);
+        }
       }
     }
   }

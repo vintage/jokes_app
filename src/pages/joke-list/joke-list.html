@@ -39,7 +39,7 @@
             <ion-note class="joke-date">
               {{ joke.date|date:'dd.MM.yyyy' }}
             </ion-note>
-            <div [innerHTML]="joke.contentHTML"></div>
+            <div [innerHTML]="joke.contentHTML | words: 50:'<span> ...</span>'"></div>
           </ion-card-content>
           
           <ion-row>
