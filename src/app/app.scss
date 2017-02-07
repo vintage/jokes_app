@@ -24,14 +24,14 @@
   background-position: left top;
   // filter: grayscale(100%);
   position: relative;
+
+  .scroll-content {
+    padding-bottom: 90px !important;
+  }
 }
 
 ion-header {
   color: color($colors, light);
-
-  .logo-title {
-    padding: 0 10px 1px !important;
-  }
 
   .logo {
     background-image: url('../assets/images/face.png');

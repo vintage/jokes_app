@@ -17,6 +17,7 @@ import { AboutPage } from '../pages/about/about';
 
 // Services
 import { JokeService } from '../providers/joke/service';
+import { AdService } from '../providers/ads/service';
 
 let appConfig = {
   statusbarPadding: false,
@@ -56,7 +57,8 @@ export function provideStorage() {
   providers: [
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     {provide: Storage, useFactory: provideStorage},
-    JokeService
+    JokeService,
+    AdService
   ]
 })
 export class AppModule {}

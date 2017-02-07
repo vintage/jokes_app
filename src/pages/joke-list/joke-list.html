@@ -15,7 +15,7 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
   <ion-spinner color="yellow" name="dots" *ngIf="jokes?.length === 0" class="loading-spinner"></ion-spinner>
 
   <div class="jokes-wrapper">
@@ -34,11 +34,11 @@
 
     <ion-list class="jokes-list"
       [virtualScroll]="jokes"
-      approxItemHeight="250px"
+      approxItemHeight="350px"
       bufferRatio="20"
       *ngIf="jokes">
       <div class="jokes-list__item" *virtualItem="let joke" (click)="openJoke(joke)" #tappable>
-        <ion-card>
+        <ion-card class="joke-card">
           <ion-card-content class="joke-content">
             <ion-note class="joke-date">
               {{ joke.date|date:'dd.MM.yyyy' }}
