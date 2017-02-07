@@ -35,6 +35,9 @@ export class JokeFavoritePage {
 
   updateJokes() {
     this.jokeService.getFavorite().then(jokes => {
+      if (jokes.length === 0) {
+        this.goBack();
+      }
       this.sortJokes(jokes);
     });
   }
