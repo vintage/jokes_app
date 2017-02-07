@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, AlertController } from 'ionic-angular';
-import { EmailComposer, InAppBrowser } from 'ionic-native';
+import { InAppBrowser } from 'ionic-native';
 
 @Component({
   selector: 'page-about',
@@ -32,21 +32,7 @@ export class AboutPage {
   }
 
   openContact() {
-    if (!window['cordova']) {
-      return this.showContactAlert();
-    }
-
-    EmailComposer.isAvailable().then((available: boolean) => {
-      if (available) {
-        let email = {
-          to: 'puppy.box@outlook.com',
-          subject: '[Perełki] Formularz kontaktowy'
-        };
-        EmailComposer.open(email);
-      } else {
-        this.showContactAlert();
-      }
-    });
+    this.showContactAlert();
   }
 
   close() {

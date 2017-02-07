@@ -45,7 +45,6 @@
     "cordova-sqlite-storage",
     "ionic-plugin-keyboard",
     "cordova-plugin-inappbrowser",
-    "cordova-plugin-email",
     "cordova-plugin-crosswalk-webview",
     {
       "locator": "https://github.com/jwall149/cordova-multidex",
