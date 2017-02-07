@@ -1,4 +1,4 @@
-<ion-header (click)="logoClick()">
+<ion-header>
   <ion-navbar hideBackButton>
     <ion-title class="logo-title">
       <button ion-button clear color="light" class="help" (click)="openAbout()">
@@ -8,8 +8,8 @@
       <div class="logo"></div>
       <div class="logo-text">Perełki</div>
 
-      <div class="favorite-jokes" *ngIf="hasFavorites">
-        <button ion-button small color="yellow" (click)="openFavorites()">Ulubione</button>
+      <div class="favorite-jokes">
+        <button ion-button small color="yellow" (click)="goBack()">Wszystkie</button>
       </div>
     </ion-title>
   </ion-navbar>

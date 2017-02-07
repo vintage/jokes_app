@@ -5,14 +5,13 @@ import { JokeService } from '../../providers/joke/service';
 import { Joke } from '../../providers/joke/model';
 
 import { JokeDetailPage } from '../joke-detail/joke-detail';
-import { JokeFavoritePage } from '../joke-favorite/joke-favorite';
 import { AboutPage } from '../about/about';
 
 @Component({
-  selector: 'page-joke-list',
-  templateUrl: 'joke-list.html'
+  selector: 'page-joke-favorite',
+  templateUrl: 'joke-favorite.html'
 })
-export class JokeListPage {
+export class JokeFavoritePage {
   jokes: Joke[] = [];
   sortBy: string;
   sortByOptions: Object[] = [
@@ -21,7 +20,6 @@ export class JokeListPage {
     {title: 'Najgorsze',id: 'rate',},
     {title: 'Najstarsze',id: 'date'},
   ];
-  hasFavorites: boolean;
 
   constructor(
     public navCtrl: NavController,
@@ -29,19 +27,14 @@ export class JokeListPage {
   ) {
     this.jokes = [];
     this.sortBy = '-rate';
-    this.hasFavorites = false;
   }
 
-  ionViewWillEnter() {
+  ionViewWillEnter() { 
     this.updateJokes();
-
-    this.jokeService.getFavorite().then(favorite => {
-      this.hasFavorites = favorite ? favorite.length > 0 : false;
-    });
   }
 
   updateJokes() {
-    this.jokeService.getAll().then(jokes => {
+    this.jokeService.getFavorite().then(jokes => {
       this.sortJokes(jokes);
     });
   }
@@ -52,16 +45,12 @@ export class JokeListPage {
     });
   }
 
-  logoClick() {
-    // Do some crazy stuff here
-  }
-
   openAbout() {
     this.navCtrl.push(AboutPage);
   }
 
-  openFavorites() {
-    this.navCtrl.push(JokeFavoritePage, {}, {animate: false});
+  goBack() {
+    this.navCtrl.popToRoot({animate: false});
   }
 
   sortJokes(jokes: Joke[]) {

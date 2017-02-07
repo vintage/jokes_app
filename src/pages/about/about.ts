@@ -31,11 +31,6 @@ export class AboutPage {
     new InAppBrowser(url, '_system');
   }
 
-  companyClicked() {
-    let url: string = 'http://puppybox.pl';
-    new InAppBrowser(url, '_system');
-  }
-
   openContact() {
     if (!window['cordova']) {
       return this.showContactAlert();

@@ -7,6 +7,7 @@ import { MyApp } from './app.component';
 
 // Pages
 import { JokeListPage } from '../pages/joke-list/joke-list';
+import { JokeFavoritePage } from '../pages/joke-favorite/joke-favorite';
 import { JokeDetailPage } from '../pages/joke-detail/joke-detail';
 import { AboutPage } from '../pages/about/about';
 
@@ -32,6 +33,7 @@ export function provideStorage() {
     MyApp,
     // Pages
     JokeListPage,
+    JokeFavoritePage,
     JokeDetailPage,
     AboutPage
 
@@ -47,6 +49,7 @@ export function provideStorage() {
   entryComponents: [
     MyApp,
     JokeListPage,
+    JokeFavoritePage,
     JokeDetailPage,
     AboutPage
   ],
