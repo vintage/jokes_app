@@ -18,6 +18,17 @@ export class PaginatorComponent {
   }
 
   ngOnInit() {
+    this.resetPagination();
+  }
+
+  ngOnChanges(changes: any) {
+    let items = changes['items'];
+    if (items && items['currentValue'] != items['previousValue']) {
+      this.resetPagination();
+    }
+  }
+
+  resetPagination() {
     this.currentPage = 1;
     this.startPagination();
   }
