@@ -12,21 +12,14 @@ import { AboutPage } from '../about/about';
   templateUrl: 'joke-favorite.html'
 })
 export class JokeFavoritePage {
+  allJokes: Joke[];
   jokes: Joke[] = [];
-  sortBy: string;
-  sortByOptions: Object[] = [
-    {title: 'Najlepsze',id: '-rate'},
-    {title: 'Najnowsze',id: '-date'},
-    {title: 'Najgorsze',id: 'rate',},
-    {title: 'Najstarsze',id: 'date'},
-  ];
 
   constructor(
     public navCtrl: NavController,
     private jokeService: JokeService,
   ) {
     this.jokes = [];
-    this.sortBy = '-rate';
   }
 
   ionViewWillEnter() { 
@@ -38,7 +31,8 @@ export class JokeFavoritePage {
       if (jokes.length === 0) {
         this.goBack();
       }
-      this.sortJokes(jokes);
+      
+      this.allJokes = jokes;
     });
   }
 
@@ -56,27 +50,7 @@ export class JokeFavoritePage {
     this.navCtrl.popToRoot({animate: false});
   }
 
-  sortJokes(jokes: Joke[]) {
-    let sortField = this.sortBy;
-    let isReverse = sortField.startsWith('-');
-    
-    if (isReverse) {
-      sortField = sortField.slice(1);
-    }
-
-    jokes = _.sortBy(jokes, sortField);
-    if (isReverse) {
-      jokes.reverse();
-    }
-
+  setJokes(jokes: Joke[]) {
     this.jokes = jokes;
-  }
-
-  sortByChange() {
-    this.jokes = [];
-
-    setTimeout(() => {
-      this.updateJokes();
-    }, 100);
   }
 }

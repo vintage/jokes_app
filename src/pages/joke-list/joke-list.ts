@@ -16,13 +16,13 @@ export class JokeListPage {
   allJokes: Joke[];
   jokes: Joke[] = [];
 
-  sortBy: string;
-  sortByOptions: Object[] = [
-    {title: 'Najlepsze',id: '-rate'},
-    {title: 'Najnowsze',id: '-date'},
-    {title: 'Najgorsze',id: 'rate',},
-    {title: 'Najstarsze',id: 'date'},
-  ];
+  // sortBy: string;
+  // sortByOptions: Object[] = [
+  //   {title: 'Najlepsze',id: '-rate'},
+  //   {title: 'Najnowsze',id: '-date'},
+  //   {title: 'Najgorsze',id: 'rate',},
+  //   {title: 'Najstarsze',id: 'date'},
+  // ];
   hasFavorites: boolean;
 
   constructor(
@@ -30,7 +30,6 @@ export class JokeListPage {
     private jokeService: JokeService,
   ) {
     this.jokes = [];
-    this.sortBy = '-rate';
     this.hasFavorites = false;
   }
 
@@ -54,40 +53,12 @@ export class JokeListPage {
     });
   }
 
-  logoClick() {
-    // Do some crazy stuff here
-  }
-
   openAbout() {
     this.navCtrl.push(AboutPage);
   }
 
   openFavorites() {
     this.navCtrl.push(JokeFavoritePage, {}, {animate: false});
-  }
-
-  sortJokes(jokes: Joke[]) {
-    let sortField = this.sortBy;
-    let isReverse = sortField.startsWith('-');
-    
-    if (isReverse) {
-      sortField = sortField.slice(1);
-    }
-
-    jokes = _.sortBy(jokes, sortField);
-    if (isReverse) {
-      jokes.reverse();
-    }
-
-    return jokes;
-  }
-
-  sortByChange() {
-    this.jokes = [];
-
-    setTimeout(() => {
-      this.updateJokes();
-    }, 100);
   }
 
   setJokes(jokes: Joke[]) {

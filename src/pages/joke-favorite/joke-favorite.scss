@@ -1,36 +1,3 @@
 page-joke-favorite {
-  .loading-spinner {
-    display: block;
-    margin: 0 auto;
-  }
 
-  .favorite-jokes {
-    float: right;
-  }
-
-  .sort-jokes {
-    margin: 10px !important;
-    max-width: 100% !important;
-  }
-
-  .jokes-list {
-    .jokes-list__item {
-      width: 100%;
-
-      .joke-date {
-        display: block;
-        text-align: right;
-      }
-
-      .joke-content {
-        color: color($colors, light);
-        line-height: 2.6rem;
-        font-size: 1.6rem;
-
-        span {
-          color: color($colors, yellow);
-        }
-      }
-    }
-  }
 }

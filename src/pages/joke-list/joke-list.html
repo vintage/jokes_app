@@ -1,4 +1,4 @@
-<ion-header (click)="logoClick()">
+<ion-header>
   <ion-navbar hideBackButton>
     <ion-title class="logo-title">
       <button ion-button clear color="light" class="help" (click)="openAbout()">
@@ -16,9 +16,7 @@
 </ion-header>
 
 <ion-content>
-  <paginator [items]="allJokes" [pageSize]="20" (paginate)="setJokes($event)" *ngIf="allJokes"></paginator>
-
-  <ion-spinner color="yellow" name="dots" *ngIf="jokes?.length === 0" class="loading-spinner"></ion-spinner>
+  <ion-spinner color="yellow" name="dots" *ngIf="!allJokes" class="loading-spinner"></ion-spinner>
 
   <div class="jokes-wrapper">
     <ion-list class="jokes-list">
@@ -49,4 +47,6 @@
       </div>
     </ion-list>
   </div>
+
+  <paginator [items]="allJokes" [pageSize]="20" (paginate)="setJokes($event)" *ngIf="allJokes"></paginator>
 </ion-content>
