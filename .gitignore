@@ -27,6 +27,7 @@ plugins/
 plugins/android.json
 plugins/ios.json
 www/*
+builds/*
 $RECYCLE.BIN/
 *.keystore
 
@@ -35,4 +36,3 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 
 !.keep
-
