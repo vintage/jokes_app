@@ -34,7 +34,7 @@ export class JokeListPage {
     this.hasFavorites = false;
   }
 
-  ionViewWillEnter() {
+  ionViewDidLoad() {
     this.updateJokes().then(() => {
       this.sortJokes();
     });

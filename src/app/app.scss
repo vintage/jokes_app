@@ -31,7 +31,19 @@
 }
 
 .jokes-sorter {
-  margin: 10px auto;
+  .item {
+    margin: 0 auto;
+    background: transparent;
+
+    ion-select {
+      margin: 10px auto;
+      width: 100%;
+
+      .select-icon {
+        margin-right: 5px;
+      }
+    }
+  }
 }
 
 ion-header {
