@@ -4,6 +4,24 @@
 </ion-header>
 
 <ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col text-center *ngIf="!isFavorite">
+        <button ion-button icon-left block color="primary" (click)="addFavorite()">
+          <ion-icon name="star"></ion-icon>
+          <div>Dodaj do ulubionych</div>
+        </button>
+      </ion-col>
+
+      <ion-col text-center *ngIf="isFavorite">
+        <button ion-button icon-left block color="danger" (click)="removeFavorite()">
+          <ion-icon name="star"></ion-icon>
+          <div>Usuń z ulubionych</div>
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  
   <ion-card class="joke-card">
     <ion-card-content class="joke-content">
       <ion-note class="joke-date">
@@ -27,22 +45,4 @@
       </ion-col>
     </ion-row>
   </ion-card>
-
-  <ion-grid>
-    <ion-row>
-      <ion-col text-center *ngIf="!isFavorite">
-        <button ion-button icon-left block color="primary" (click)="addFavorite()">
-          <ion-icon name="star"></ion-icon>
-          <div>Dodaj do ulubionych</div>
-        </button>
-      </ion-col>
-
-      <ion-col text-center *ngIf="isFavorite">
-        <button ion-button icon-left block color="danger" (click)="removeFavorite()">
-          <ion-icon name="star"></ion-icon>
-          <div>Usuń z ulubionych</div>
-        </button>
-      </ion-col>
-    </ion-row>
-  </ion-grid>
 </ion-content>
