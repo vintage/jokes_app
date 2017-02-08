@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
+import _ from "lodash";
 
 import { JokeService } from '../../providers/joke/service';
 import { Joke } from '../../providers/joke/model';

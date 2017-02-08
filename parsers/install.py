@@ -91,8 +91,10 @@ def clean():
     shutil.rmtree("www", ignore_errors=True)
     os.makedirs("www")
 
+    shutil.rmtree("node_modules", ignore_errors=True)
     shutil.rmtree("platforms", ignore_errors=True)
     shutil.rmtree("plugins", ignore_errors=True)
+    call(["npm", "i"])
     call(["ionic", "state", "restore"])
 
 
@@ -106,7 +108,7 @@ def build():
     call(["ionic", "resources"])
 
     # Build android package
-    call(["ionic", "build", "android", "--release", "--prod"])
+    call(["ionic", "build", "android", "--prod", "--release"])
 
     def jarsigner(apk_name):
         call([
