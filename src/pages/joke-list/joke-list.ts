@@ -13,7 +13,9 @@ import { AboutPage } from '../about/about';
   templateUrl: 'joke-list.html'
 })
 export class JokeListPage {
+  allJokes: Joke[];
   jokes: Joke[] = [];
+
   sortBy: string;
   sortByOptions: Object[] = [
     {title: 'Najlepsze',id: '-rate'},
@@ -42,7 +44,7 @@ export class JokeListPage {
 
   updateJokes() {
     this.jokeService.getAll().then(jokes => {
-      this.sortJokes(jokes);
+      this.allJokes = jokes;
     });
   }
 
@@ -77,7 +79,7 @@ export class JokeListPage {
       jokes.reverse();
     }
 
-    this.jokes = jokes;
+    return jokes;
   }
 
   sortByChange() {
@@ -86,5 +88,9 @@ export class JokeListPage {
     setTimeout(() => {
       this.updateJokes();
     }, 100);
+  }
+
+  setJokes(jokes: Joke[]) {
+    this.jokes = jokes;
   }
 }

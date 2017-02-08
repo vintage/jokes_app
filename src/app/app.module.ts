@@ -12,6 +12,7 @@ import { JokeDetailPage } from '../pages/joke-detail/joke-detail';
 import { AboutPage } from '../pages/about/about';
 
 // Components
+import { PaginatorComponent } from '../components/paginator/paginator';
 
 // Pipes
 
@@ -36,9 +37,10 @@ export function provideStorage() {
     JokeListPage,
     JokeFavoritePage,
     JokeDetailPage,
-    AboutPage
+    AboutPage,
 
     // Components
+    PaginatorComponent,
     
     // Pipes
   ],

@@ -1,0 +1,31 @@
+<ion-grid>
+  <ion-row *ngIf="false">
+    <ion-col>
+      <ion-select
+        [(ngModel)]="sortBy"
+        interface="action-sheet"
+        cancelText="Anuluj"
+        (ionChange)="sortByChange()">
+        <ion-option *ngFor="let sortOption of sortByOptions" [value]="sortOption.id">
+          {{ sortOption.title }}
+        </ion-option>
+      </ion-select>
+    </ion-col>
+  </ion-row>
+
+  <ion-row>
+    <ion-col text-right>
+      <button ion-button small (click)="prevPage()" *ngIf="currentPage > 1">Poprzednia</button>
+    </ion-col>
+
+    <ion-col text-center>
+      <button ion-button small outline class="metadata">
+        Strona {{ currentPage }} z {{ lastPage }}
+      </button>
+    </ion-col>
+
+    <ion-col text-left>
+      <button ion-button small (click)="nextPage()" *ngIf="currentPage < lastPage">Następna</button>
+    </ion-col>
+  </ion-row>
+</ion-grid>
