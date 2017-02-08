@@ -31,7 +31,7 @@ export class JokeFavoritePage {
     this.sortBy = '-rate';
   }
 
-  ionViewDidLoad() { 
+  ionViewWillEnter() { 
     this.updateJokes().then(() => {
       this.sortJokes();
     });

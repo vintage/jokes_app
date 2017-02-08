@@ -26,7 +26,8 @@
   position: relative;
 
   .scroll-content {
-    padding-bottom: 90px !important;
+    // Workaround for appodeal ads
+    padding-bottom: 50px !important;
   }
 }
 
