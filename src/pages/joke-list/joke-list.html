@@ -20,6 +20,7 @@
     [(ngModel)]="sortBy"
     interface="action-sheet"
     cancelText="Anuluj"
+    class="jokes-sorter"
     (ionChange)="sortByChange()">
     <ion-option *ngFor="let sortOption of sortByOptions" [value]="sortOption.id">
       {{ sortOption.title }}

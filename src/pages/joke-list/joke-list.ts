@@ -35,7 +35,9 @@ export class JokeListPage {
   }
 
   ionViewWillEnter() {
-    this.updateJokes();
+    this.updateJokes().then(() => {
+      this.sortJokes();
+    });
 
     this.jokeService.getFavorite().then(favorite => {
       this.hasFavorites = favorite ? favorite.length > 0 : false;
@@ -43,7 +45,7 @@ export class JokeListPage {
   }
 
   updateJokes() {
-    this.jokeService.getAll().then(jokes => {
+    return this.jokeService.getAll().then(jokes => {
       this.allJokes = jokes;
     });
   }

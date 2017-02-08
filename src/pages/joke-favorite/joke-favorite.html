@@ -16,6 +16,17 @@
 </ion-header>
 
 <ion-content>
+  <ion-select
+    [(ngModel)]="sortBy"
+    interface="action-sheet"
+    cancelText="Anuluj"
+    class="jokes-sorter"
+    (ionChange)="sortByChange()">
+    <ion-option *ngFor="let sortOption of sortByOptions" [value]="sortOption.id">
+      {{ sortOption.title }}
+    </ion-option>
+  </ion-select>
+  
   <ion-spinner color="yellow" name="dots" *ngIf="!allJokes" class="loading-spinner"></ion-spinner>
 
   <div class="jokes-wrapper">

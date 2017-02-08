@@ -15,19 +15,30 @@ export class JokeFavoritePage {
   allJokes: Joke[];
   jokes: Joke[] = [];
 
+  sortBy: string;
+  sortByOptions: Object[] = [
+    {title: 'Najlepsze',id: '-rate'},
+    {title: 'Najnowsze',id: '-date'},
+    {title: 'Najgorsze',id: 'rate',},
+    {title: 'Najstarsze',id: 'date'},
+  ];
+
   constructor(
     public navCtrl: NavController,
     private jokeService: JokeService,
   ) {
     this.jokes = [];
+    this.sortBy = '-rate';
   }
 
   ionViewWillEnter() { 
-    this.updateJokes();
+    this.updateJokes().then(() => {
+      this.sortJokes();
+    });
   }
 
   updateJokes() {
-    this.jokeService.getFavorite().then(jokes => {
+    return this.jokeService.getFavorite().then(jokes => {
       if (jokes.length === 0) {
         this.goBack();
       }
@@ -52,5 +63,27 @@ export class JokeFavoritePage {
 
   setJokes(jokes: Joke[]) {
     this.jokes = jokes;
+  }
+
+  sortJokes() {
+    let sortField = this.sortBy;
+    let isReverse = sortField.startsWith('-');
+    
+    if (isReverse) {
+      sortField = sortField.slice(1);
+    }
+
+    let jokes = _.sortBy(this.allJokes, sortField);
+    if (isReverse) {
+      jokes.reverse();
+    }
+
+    this.allJokes = jokes;
+  }
+
+  sortByChange() {
+    setTimeout(() => {
+      this.sortJokes();
+    }, 100);
   }
 }
