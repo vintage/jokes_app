@@ -26,7 +26,7 @@ def parse():
     btree = etree.HTML(response.content)
 
     first_page = 1
-    last_page = 1 # int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
+    last_page = int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
 
     jokes = []
     for page_nr in tqdm(range(first_page, last_page + 1), 'Parsing jokes'):
@@ -71,10 +71,6 @@ def parse():
 
             is_valid = True
             for error in checker:
-                if is_valid:
-                    print('*' * 7 + ' Invalid ' + '*' * 7)
-                    print(joke_text)
-
                 is_valid = False
                 word = error.word
 
@@ -82,16 +78,12 @@ def parse():
                 try:
                     suggestion = suggestions[0]
                 except:
-                    raise Exception('Unknown suggestion for word: {}'.format(word))
-
-                error.replace(suggestion)
+                    pass
+                else:
+                    error.replace(suggestion)
 
             if not is_valid:
-                print('*' * 7 + ' Valid ' + '*' * 7)
-                joke_text_suggested = checker.get_text()
-                print(joke_text_suggested)
-
-                joke_text = joke_text_suggested
+                joke_text = checker.get_text()
 
             joke = {
                 'id': joke_id,
