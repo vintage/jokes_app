@@ -44,6 +44,10 @@
     "cordova-plugin-inappbrowser",
     "cordova-plugin-crosswalk-webview",
     {
+      "locator": "https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git",
+      "id": "cordova-plugin-insomnia"
+    },
+    {
       "locator": "https://github.com/jwall149/cordova-multidex",
       "id": "cordova-multidex"
     },

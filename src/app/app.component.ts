@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
-import { StatusBar, Splashscreen } from 'ionic-native';
+import { StatusBar, Splashscreen, Insomnia } from 'ionic-native';
 
 import { JokeService } from '../providers/joke/service';
 import { AdService } from '../providers/ads/service';
@@ -23,6 +23,12 @@ export class MyApp {
       this.jokes.ready()
     ]).then(() => {
       this.rootPage = JokeListPage;
+
+      if (window['cordova']) {
+        setInterval(() => {
+          Insomnia.keepAwake();
+        }, 5000);
+      }
 
       let adKey = null;
       if (this.platform.is('ios')) {
