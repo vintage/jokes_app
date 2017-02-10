@@ -36,12 +36,14 @@ export class JokeListPage {
   }
 
   ionViewWillEnter() {
-    this.updateJokes().then(() => {
-      this.sortJokes();
-    });
+    this.jokeService.ready().then(() => {
+      this.updateJokes().then(() => {
+        this.sortJokes();
+      });
 
-    this.jokeService.getFavorite().then(favorite => {
-      this.hasFavorites = favorite ? favorite.length > 0 : false;
+      this.jokeService.getFavorite().then(favorite => {
+        this.hasFavorites = favorite ? favorite.length > 0 : false;
+      });
     });
   }
 

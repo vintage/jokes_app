@@ -1,0 +1,27 @@
+<ion-list class="jokes-list">
+  <div class="jokes-list__item" *ngFor="let joke of jokes" (click)="jokeClick(joke)" #tappable>
+    <ion-card class="joke-card">
+      <ion-card-content class="joke-content">
+        <ion-note class="joke-date">
+          {{ joke.date|date:'dd.MM.yyyy' }}
+        </ion-note>
+        <div [innerHTML]="joke.contentHTML"></div>
+      </ion-card-content>
+      
+      <ion-row>
+        <ion-col>
+          <button ion-button icon-left clear small color="light">
+            <ion-icon name="thumbs-up" color="yellow"></ion-icon>
+            <div>{{ joke.rate }}</div>
+          </button>
+        </ion-col>
+        <ion-col text-right>
+          <button ion-button icon-right clear small color="light">
+            <div>{{ joke.authorName }}</div>
+            <ion-icon name="contact" color="yellow"></ion-icon>
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-card>
+  </div>
+</ion-list>

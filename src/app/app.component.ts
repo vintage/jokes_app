@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
 import { StatusBar, Splashscreen, Insomnia } from 'ionic-native';
 
-import { JokeService } from '../providers/joke/service';
 import { AdService } from '../providers/ads/service';
 
 import { JokeListPage } from '../pages/joke-list/joke-list';
@@ -15,12 +14,10 @@ export class MyApp {
 
   constructor(
     private platform: Platform,
-    private jokes: JokeService,
     private ads: AdService
   ) {
     Promise.all([
-      this.platform.ready(),
-      this.jokes.ready()
+      this.platform.ready()
     ]).then(() => {
       this.rootPage = JokeListPage;
 
