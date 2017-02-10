@@ -17,6 +17,32 @@ def cli():
 
 
 @cli.command()
+def clean_jokes():
+    app_dir = '..'
+    export_path = '{}/src/assets/data/jokes.json'.format(app_dir)
+
+    data = {}
+    with open(export_path, 'r') as data_file:
+        data = json.load(data_file)
+
+    for item in data:
+        content = item['content']
+        content = content.replace('kurwa', 'kur*a')
+        content = content.replace(' ,', ',')
+
+        item['content'] = content
+
+    with open(export_path, 'w') as outfile:
+        json.dump(
+            data,
+            outfile,
+            sort_keys=False,
+            indent=2,
+            ensure_ascii=False
+        )
+
+
+@cli.command()
 def parse():
     src_dir = '.'
     app_dir = '..'
@@ -54,6 +80,7 @@ def parse():
                     replace('<br/>', '\n').
                     replace('&#13;', '').
                     replace(' ? ', ' - ').
+                    replace('\r\n', '\n').
                     strip()
             )
             joke_id = pq_meta.find('a')[1].text.strip()
@@ -87,6 +114,7 @@ def parse():
 
             joke = {
                 'id': joke_id,
+                'is_checked': False,
                 'content': joke_text,
                 'rate': joke_rate,
                 'date': joke_date,
