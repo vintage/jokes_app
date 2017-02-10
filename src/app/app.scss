@@ -35,10 +35,17 @@
   .item {
     margin: 0 auto;
     background: transparent;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    .item-inner {
+      padding: 0;
+    }
 
     ion-select {
       margin: 10px auto;
       width: 100%;
+      max-width: 100%;
 
       .select-icon {
         margin-right: 5px;
