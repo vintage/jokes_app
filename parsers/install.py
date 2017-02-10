@@ -26,7 +26,7 @@ def parse():
     btree = etree.HTML(response.content)
 
     first_page = 1
-    last_page = int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
+    last_page = 5 # int(btree.xpath('/html/body/div[6]/a[last()]')[0].text)
 
     jokes = []
     for page_nr in tqdm(range(first_page, last_page + 1), 'Parsing jokes'):
@@ -78,7 +78,13 @@ def parse():
     # Copy parsed file
     export_path = '{}/src/assets/data/jokes.json'.format(app_dir)
     with open(export_path, 'w') as outfile:
-        json.dump(jokes, outfile, ensure_ascii=False)
+        json.dump(
+            jokes,
+            outfile,
+            sort_keys=False,
+            indent=2, 
+            ensure_ascii=False
+        )
 
 
 @cli.command()
