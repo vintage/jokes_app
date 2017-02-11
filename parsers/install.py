@@ -30,6 +30,10 @@ def clean_jokes():
         content = content.replace('kurwa', 'kur*a')
         content = content.replace(' ,', ',')
 
+        for i in reversed(range(1, 6)):
+            content = content.replace('!' * i, '!')
+            content = content.replace('?' * i, '?')
+
         item['content'] = content
 
     with open(export_path, 'w') as outfile:
