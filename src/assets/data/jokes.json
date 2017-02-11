@@ -157,6 +157,7 @@
   {
     "id": "8535",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Żona do męża:\n- Ubóstwiam cię!\n- Mówi się zubażam",
     "rate": 37,
     "date": "31.01.2017",
@@ -165,6 +166,7 @@
   {
     "id": "8533",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Mąż pyta się żony:\n- Czy mamusia pojechała do Afryki?\n- No co Ty zgłupiałeś?\n- No bo mówili w wiadomościach, że w Południowym Sudanie pojawiła się cholera.",
     "rate": 19,
     "date": "30.01.2017",
@@ -423,6 +425,7 @@
   {
     "id": "8416",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Pani pyta w szkole dzieci:\n- Kochani, kim chcecie zostać, jak dorośniecie?\nZgłasza się Jasiu i mówi:\n- Proszę pani, ja to bym chciał zostać menelem.\nNauczycielka zdziwiona. Dlaczego, Jasiu?\n- A no tak. Nie płaciłbym podatków, dostawałbym od ludzi drobne i mieszkał w altankach.\nMinęło 20 lat. Jasiu w swoim wieżowcu w Dubaju na ostatnim piętrze spogląda na ocean, gdzie stoi jego wielki jacht i skąd nadlatuje po niego helikopter, i mówi:\n- Cholera, gdzie ja popełniłem błąd?",
     "rate": 37,
     "date": "11.01.2017",
@@ -431,6 +434,7 @@
   {
     "id": "8415",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "- Mam dla pana dwie wiadomości, dobrą i złą.\n- Niech pan zacznie od dobrej, doktorze.\n- Kredytu można już nie spłacać.",
     "rate": 20,
     "date": "10.01.2017",
@@ -1578,6 +1582,7 @@
   {
     "id": "8064",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "- Dlaczego Batonik Pawełek NIE jest ulubionym smakołykiem pedofilów?\n- Bo jest z adwokatem",
     "rate": 35,
     "date": "21.10.2016",
@@ -3798,7 +3803,7 @@
   },
   {
     "id": "7385",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Mąż wraca wieczorem do domu: \n- Kochana, już jestem! \n- Cześć, kochanie. Co nowego? \n- Pamiętasz, jak któregoś razu poprosiłem cię, żebyś nasmażyła mi placków ziemniaczanych, a ty odpowiedziałaś, że nie wiesz, czy wyjdą ci takie, jak lubię i zamówiłaś je z restauracji na wynos? I od tamtej pory wszystko stamtąd zamawiasz do jedzenia? \n- Tak, pamiętam. \n- A pamiętasz, jak innym razem poprosiłem cię, żebyś uprasowała mi spodnie, a ty powiedziałaś, że nie wiesz, czy uda ci się zrobić równy kant i zaniosłaś je do pralni? A potem zaczęłaś nosić tam wszystko do prania i prasowania? \n- Pamiętam. \n- A pamiętasz może, jak poprosiłem cię, żebyś zrobiła porządki w domu, a ty powiedziałaś, że nie wiesz, czy zdążysz i zamówiłaś serwis sprzątający i teraz oni sprzątają u nas non stop? \n- Tak. \n- A pamiętasz, jak zwolniłaś się z pracy, bo powiedziałaś, że chcesz więcej czasu móc poświęcić mnie i naszemu mieszkaniu? \n- Tak. \n- Widzisz, kochanie, ja dziś postanowiłem uprawiać seks - tak, jak lubię. Ale żeby nie męczyć cię, żebyś nie musiała szukać fachowców... Wejdź, Ewa, poznajcie się...",
     "rate": 216,
     "date": "21.04.2016",
@@ -3806,23 +3811,23 @@
   },
   {
     "id": "7380",
-    "is_checked": false,
-    "content": "Żona pyta męża:\n- Z iloma kobietami spałeś?\n- Tylko z Tobą, Najdroższa. Z innymi nigdy nie zmrużyłem nawet oka ;)",
+    "is_checked": true,
+    "content": "Żona pyta męża:\n- Z iloma kobietami spałeś?\n- Tylko z Tobą, Najdroższa. Z innymi nigdy nie zmrużyłem nawet oka",
     "rate": 270,
     "date": "19.04.2016",
     "author": null
   },
   {
     "id": "7378",
-    "is_checked": false,
-    "content": "Dzieci przychodzą do szkoły, a pani ich pyta : \n- Dzieci drogie co daje nam krówka?\n- Dzieci : Mleko\n-Dobrze! A co daje nam kurka?\n- Dzieci : Jajka\n-Świetnie a świnia?\n- Dzieci : Prace domowe!",
+    "is_checked": true,
+    "content": "Dzieci przychodzą do szkoły, a pani ich pyta: \n- Dzieci drogie co daje nam krówka?\n- Dzieci: Mleko\n- Dobrze! A co daje nam kurka?\n- Dzieci: Jajka\n- Świetnie, a świnia?\n- Dzieci: Prace domowe!",
     "rate": 239,
     "date": "17.04.2016",
     "author": "Kinga"
   },
   {
     "id": "7370",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na łożu śmierci bardzo zagorzały kibic Legii Warszawa zwołał całą rodzinę, aby obwieścić ważną nowinę:\n- Od dziś jestem kibicem Lecha Poznań! \n- Co? Całe życie byłeś przecież kibicem Legii!\n- Tak, ale wolę żeby umarł kibic Lecha.",
     "rate": 169,
     "date": "14.04.2016",
@@ -3830,47 +3835,47 @@
   },
   {
     "id": "7369",
-    "is_checked": false,
-    "content": "-Babciu, czemu Ty ciągle śpisz z podwiniętymi nogami? -pyta wnuczek.\n-Bo tak mi jest wygodnie wnusiu. A czemu pytasz?\n-Bo tata powiedział, że jak je w końcu wyciągniesz, to kupimy sobie auto.",
+    "is_checked": true,
+    "content": "- Babciu, czemu Ty ciągle śpisz z podwiniętymi nogami? - pyta wnuczek.\n- Bo tak mi jest wygodnie wnusiu. A czemu pytasz?\n- Bo tata powiedział, że jak je w końcu wyciągniesz, to kupimy sobie auto.",
     "rate": 146,
     "date": "14.04.2016",
     "author": "nocturne"
   },
   {
     "id": "7367",
-    "is_checked": false,
-    "content": "Przychodzi do lekarza niewahana, radosna, śmiejąca się krowa. \nLekarz pyta:\n- Co pani dolega?\nA krowa na to:\n- Nie wiem, panie doktorze, to chyba po tej trawie....",
+    "is_checked": true,
+    "content": "Przychodzi do lekarza uhahana, radosna, śmiejąca się krowa. Lekarz pyta:\n- Co pani dolega?\nA krowa na to:\n- Nie wiem, panie doktorze, to chyba po tej trawie.",
     "rate": 85,
     "date": "14.04.2016",
     "author": "AMka"
   },
   {
     "id": "7364",
-    "is_checked": false,
-    "content": "Jasio w sytuacji intymnej z Małgosią. Pieści ją i pieści, a tu nagle czuje coś wilgotnego i miękkiego. Pyta się:\n- Co? Okresie?\nA na to Małgosia: \n- Nie. Rozwolniono.",
+    "is_checked": true,
+    "content": "Jasio w sytuacji intymnej z Małgosią. Pieści ją i pieści, a tu nagle czuje coś wilgotnego i miękkiego. Pyta się:\n- Co? Okresik?\nA na to Małgosia: \n- Nie. Rozwolnionko.",
     "rate": 73,
     "date": "14.04.2016",
     "author": "AMka"
   },
   {
     "id": "7360",
-    "is_checked": false,
-    "content": "Pewien dziennikarz, po akcji na Krymie zapytał Putina \n- Z kim teraz graniczy Rosja?\n- Jak to, z kim graniczy?!  Z KIM CHCE!",
+    "is_checked": true,
+    "content": "Pewien dziennikarz, po akcji na Krymie zapytał Putina \n- Z kim teraz graniczy Rosja?\n- Jak to, z kim graniczy?! Z kim chce!",
     "rate": 85,
     "date": "14.04.2016",
     "author": "AMka"
   },
   {
     "id": "7358",
-    "is_checked": false,
-    "content": "Małżeństwo z kilkuletnim stażem... oddaje się uciechom... Żona do męża...\n- kochanie, coś widzę, że nie sprawiam Ci przyjemności, powiedz mogę coś zrobić żeby było Ci lepiej? \n- e nie... \n- no powiedz, przecież czuję, że jest nie tak jak kiedyś... \n- no bo Ty nie jęczysz w trakcie...\n- a to było od razu tak mówić!\n- Marek, ja nie mogę, sufit wciąż niepomalowany, śmieci niewyrzucone, mieliśmy pojechać kupić ten regał do pokoju Marysi...",
+    "is_checked": true,
+    "content": "Małżeństwo z kilkuletnim stażem... oddaje się uciechom... Żona do męża...\n- Kochanie, coś widzę, że nie sprawiam Ci przyjemności, powiedz mogę coś zrobić żeby było Ci lepiej? \n- E nie... \n- No powiedz, przecież czuję, że jest nie tak jak kiedyś... \n- No bo Ty nie jęczysz w trakcie...\n- A to było od razu tak mówić!\n- Marek, ja nie mogę, sufit wciąż niepomalowany, śmieci niewyrzucone, mieliśmy pojechać kupić ten regał do pokoju Marysi...",
     "rate": 75,
     "date": "13.04.2016",
     "author": "JadziaG"
   },
   {
     "id": "7357",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kowalski wraca do domu z pracy, ma już usiąść przed telewizorem, ale słyszy charakterystyczne odgłosy dobiegające zza ściany od sąsiada.\n- Ten sąsiad zaczyna mnie już wpieniać! Idę mu powiedzieć, żeby ciszej pukał te swoje panienki!\n- Mama chciała mu to samo powiedzieć z godzinę temu - mówi Jasio.\n- I co, powiedziała? - pyta ojciec.\n- Nie wiem, jeszcze nie wróciła...",
     "rate": 252,
     "date": "13.04.2016",
@@ -3878,55 +3883,55 @@
   },
   {
     "id": "7356",
-    "is_checked": false,
-    "content": "Spotykają się dwaj koledzy.\nJeden pyta drugiego:\n-lubisz trójkąty?\ndrugi kolega lekko zaczerwieniony mówi:\n-tak\n-to zapierdalaj do domu...",
+    "is_checked": true,
+    "content": "Spotykają się dwaj koledzy.\nJeden pyta drugiego:\n- Lubisz trójkąty?\nDrugi kolega lekko zaczerwieniony mówi:\n- Tak\n- To zapierdalaj do domu...",
     "rate": 131,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7355",
-    "is_checked": false,
-    "content": "- Kochanie, jak nazwiemy naszego synka?\n- Tomasz\n- Tomasz? a dlaczego Tomasz?\n- nie chciałaś w tyłek, to masz.",
+    "is_checked": true,
+    "content": "- Kochanie, jak nazwiemy naszego synka?\n- Tomasz\n- Tomasz? A dlaczego Tomasz?\n- Nie chciałaś w tyłek, to masz.",
     "rate": 169,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7354",
-    "is_checked": false,
-    "content": "Czasy średniowiecza, jedzie sobie rycerz na koniu i nagle obczaił karczmę po drodze. Głodny wchodzi do środka, zamawia soczystego prosiaka, bierze pierwszy kęs, a tu nagle wpada giermek: \n- uciekajcie! uciekajcie! czarny rycerz jedzie, uciekajcie! pozabija Was wszystkich! \n\nRycerz pomyślał, że na tamten świat mu się nie spieszy wiec uciekł. \n\nWciąż głodny jechał dalej, patrzy - kolejna karczma. Wchodzi do środka, zamawia kawałek jakiejś dziczyzny, bierze pierwszego gryza z ulga, a tu nagle wpada giermek \n- uciekajcie! uciekajcie! czarny rycerz jedzie, uciekajcie! pozabija Was wszystkich! \n\nRycerz znowu uciekł.. jedzie dalej, ledwo się z głodu trzyma na koniu, koń go też ledwo dźwiga. patrzy: karczma, wpada z hukiem do środka, zamawia krwisty stek, bierze pierwszy kęs z ulgą... a tu nagle wpada giermek :) \n- uciekajcie! uciekajcie! czarny rycerz jedzie, uciekajcie! pozabija Was wszystkich! \n\nRycerz myśli: nie uciekam! pierdole, nie umrę głodny. Rycerz zjadł, karczma pusta... Nagle do środka wchodzi murzyn w pięknej lśniącej zbroi i zagaduje do naszego bohatera: \n\n- co Ty tu robisz? \n- no jem... \n- zrób mi laskę a przeżyjesz \n\nrycerz robi loda, robi robi... a tu nagle murzyn mówi: \n- szybciej, szybciej, bo czarny rycerz jedzie",
+    "is_checked": true,
+    "content": "Czasy średniowiecza, jedzie sobie rycerz na koniu i nagle obczaił karczmę po drodze. Głodny wchodzi do środka, zamawia soczystego prosiaka, bierze pierwszy kęs, a tu nagle wpada giermek: \n- Uciekajcie! uciekajcie! czarny rycerz jedzie. Uciekajcie! Pozabija Was wszystkich! \nRycerz pomyślał, że na tamten świat mu się nie spieszy wiec uciekł. \nWciąż głodny jechał dalej, patrzy - kolejna karczma. Wchodzi do środka, zamawia kawałek jakiejś dziczyzny, bierze pierwszego gryza z ulgą, a tu nagle wpada giermek \n- Uciekajcie! Uciekajcie! Czarny rycerz jedzie, uciekajcie! Pozabija Was wszystkich! \nRycerz znowu uciekł. Jedzie dalej, ledwo się z głodu trzyma na koniu, koń go też ledwo dźwiga. Patrzy: karczma. Wpada z hukiem do środka, zamawia krwisty stek, bierze pierwszy kęs z ulgą... a tu nagle wpada giermek. \n- Uciekajcie! Uciekajcie! Czarny rycerz jedzie, uciekajcie! Pozabija Was wszystkich! \nRycerz myśli: nie uciekam! Pierdolę, nie umrę głodny. Rycerz zjadł, karczma pusta... Nagle do środka wchodzi murzyn w pięknej lśniącej zbroi i zagaduje do naszego bohatera: \n- Co Ty tu robisz? \n- No jem... \n- Zrób mi laskę a przeżyjesz \nRycerz robi loda, robi, robi... a tu nagle murzyn mówi: \n- Szybciej, szybciej, bo czarny rycerz jedzie",
     "rate": 13,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7353",
-    "is_checked": false,
-    "content": "Dwaj policjanci drogówki zatrzymują samochód za przekroczenie prędkości.\nKierowcą okazuje się być, piękna,młoda kobieta\n-Dzień dobry.Przekroczyła pani dozwolona prędkość,będzie mandacik.\n-Ależ panowie na pewno się możemy dogadać.\n- A co pani ma na myśli?\n- No a gdybym tak ściągnęła majteczki i wam \"Dała\"\nna to policjant:\n-Zenek potrzebujesz majtki?\n- Nie\n-Ja też nie,a więc będzie mandacik.",
+    "is_checked": true,
+    "content": "Dwaj policjanci drogówki zatrzymują samochód za przekroczenie prędkości.\nKierowcą okazuje się być piękna, młoda kobieta\n- Dzień dobry. Przekroczyła pani dozwoloną prędkość, będzie mandacik.\n- Ależ panowie na pewno się możemy dogadać.\n- A co pani ma na myśli?\n- No a gdybym tak ściągnęła majteczki i wam \"dała\"?\nNa to policjant:\n- Zenek potrzebujesz majtki?\n- Nie\n- Ja też nie, a więc będzie mandacik.",
     "rate": 231,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7352",
-    "is_checked": false,
-    "content": "Ojciec z synem handlują kartoflami po osiedlach. \nZajeżdżają na podwórko i wołają \"Kartofelki! Kartofelki!\" \nZ drugiego pietra babeczka się wychyla, ze chce. \n- Ile? \n- Cztery worki. \n- Synu idź - mówi ojciec. \nNa gorze babka pyta: Dobra. Ile place? \n- 200 ZL. \n- Hmm, nie mam tyle, ale pan jest dorosły, mi tez niczego nie brakuje, możne szybki numerek? \n- Hmmm, wie pani, musiałbym się skonsultować z tata. \n- Ale, no wie pan, przecież pan jest dorosły, po co takie pytania? \n- Jednak wolałbym zapytać. \n- Ale dlaczego? \n- No wie Pani... w zeszłym roku tak 8 ton przejebaliśmy.",
+    "is_checked": true,
+    "content": "Ojciec z synem handlują kartoflami po osiedlach. \nZajeżdżają na podwórko i wołają \"Kartofelki! Kartofelki!\" \nZ drugiego piętra babeczka się wychyla, że chce. \n- Ile? \n- Cztery worki. \n- Synu idź - mówi ojciec. \nNa górze babka pyta: Dobra, ile płacę? \n- 200zł. \n- Hmm, nie mam tyle, ale pan jest dorosły, mi też niczego nie brakuje, może szybki numerek? \n- Hmmm, wie pani, musiałbym się skonsultować z tatą. \n- Ale, no wie pan, przecież pan jest dorosły, po co takie pytania? \n- Jednak wolałbym zapytać. \n- Ale dlaczego? \n- No wie Pani... w zeszłym roku tak 8 ton przejebaliśmy.",
     "rate": 278,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7351",
-    "is_checked": false,
-    "content": "Dwóch facetów. Wieloletni przyjaciele od dzieciństwa. Jednak jeden z nich niestety jest częściowo sparaliżowany, potrzebuje trochę pomocy w codziennym życiu. Pewnego dnia siedzą u niego na werandzie, sparaliżowany mówi:\n- Wiesz, co, mam pytanie - czy naprawdę jesteś moim przyjacielem?\n- No jasne stary, znamy się od dziecka, wiesz, ze zrobiłbym dla ciebie wszystko!\n- Wiem, mój przyjacielu, wiem. Miałbym wiec do ciebie małą prośbę czy przyniósłbyś mi z piętra skarpetki? Robi się trochę chłodno, a jak wiesz, Janie jestem w stanie tego zrobić.\n- Stary, w ogóle nie ma o czym mówić. Skoczyłbym dla ciebie w ogień.\n- Dziękuje ci mój przyjacielu.\nFacet idzie na piętro, otwiera drzwi do pokoju, wchodzi i staje oniemiały. Przed oczami rozpościera mu się cudowny widok - dwie córki jego przyjaciela, młode, piękne jak marzenie, ubrane jedynie w bieliznę. Facet nie może oderwać wzroku, targają nim wyrzuty sumienia - w końcu to córki jego najlepszego przyjaciela, jednak w końcu poddaje się instynktom i mówi:\n- Wasz ojciec przysłał mnie, żebym się z wami przespał.\n- Niemożliwe! - mówi jedna.\n- Nieprawdopodobne! - mówi druga.\n- No cóż, jeśli mi nie wierzycie, zaraz wam udowodnię.\nFacet podchodzi do okna, otwiera je i krzyczy...\n- Obie?\n- Tak, tak, obie! Dzięki, stary!",
+    "is_checked": true,
+    "content": "Dwóch facetów. Wieloletni przyjaciele od dzieciństwa. Jednak jeden z nich niestety jest częściowo sparaliżowany, potrzebuje trochę pomocy w codziennym życiu. Pewnego dnia siedzą u niego na werandzie, sparaliżowany mówi:\n- Wiesz, co, mam pytanie - czy naprawdę jesteś moim przyjacielem?\n- No jasne stary, znamy się od dziecka, wiesz, że zrobiłbym dla ciebie wszystko!\n- Wiem, mój przyjacielu, wiem. Miałbym więc do ciebie małą prośbę czy przyniósłbyś mi z piętra skarpetki? Robi się trochę chłodno, a jak wiesz, ja nie jestem w stanie tego zrobić.\n- Stary, w ogóle nie ma o czym mówić. Skoczyłbym dla ciebie w ogień.\n- Dziękuje ci mój przyjacielu.\nFacet idzie na piętro, otwiera drzwi do pokoju, wchodzi i staje oniemiały. Przed oczami rozpościera mu się cudowny widok - dwie córki jego przyjaciela, młode, piękne jak marzenie, ubrane jedynie w bieliznę. Facet nie może oderwać wzroku, targają nim wyrzuty sumienia - w końcu to córki jego najlepszego przyjaciela, jednak w końcu poddaje się instynktom i mówi:\n- Wasz ojciec przysłał mnie, żebym się z wami przespał.\n- Niemożliwe! - mówi jedna.\n- Nieprawdopodobne! - mówi druga.\n- No cóż, jeśli mi nie wierzycie, zaraz wam udowodnię.\nFacet podchodzi do schodów i krzyczy...\n- Obie?\n- Tak, tak, obie! Dzięki, stary!",
     "rate": 204,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7350",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Leży w łóżku parka, facet zagaduje:\n- Ilu miałaś partnerów przede mną?\n- Hmm, trzech.\n- O, to bardzo niewielu.\n- A nie, czekaj: dwunastu! Przypomniała mi się jeszcze jedna sytuacja.",
     "rate": 143,
     "date": "13.04.2016",
@@ -3934,15 +3939,15 @@
   },
   {
     "id": "7349",
-    "is_checked": false,
-    "content": "Po trzech latach małżeństwa żona wciąż dopytuje męża z iloma kobietami spał:\n- No dalej, nie bądź taki jęczy małżonka powiedz z iloma...\n- Kochanie, odpowiada mąż, gdybyś dowiedziała się z iloma, to byś już dawno się ze mną rozwiodła...\nI tak to trwało... Aż pewnego razu żona mówi:\n- No dobra, umówmy się tak. Ty wyliczysz z iloma kobietami spałeś, a ja się NIE obrażę...\nMąż spojrzał na żonę podejrzliwie, ale powiedział:\n- Przysięgasz, że się nie obrazisz?\n- Przysięgam! - odpowiedziała żona. A teraz licz!\nNo i mąż zaczyna wyliczać:\n- Raz, dwa, trzy, cztery, pięć, sześć, siedem, TY, dziewięć, dziesięć...",
+    "is_checked": true,
+    "content": "Po trzech latach małżeństwa żona wciąż dopytuje męża z iloma kobietami spał:\n- No dalej, nie bądź taki, powiedz z iloma...\n- Kochanie, odpowiada mąż, gdybyś dowiedziała się z iloma, to byś już dawno się ze mną rozwiodła...\nI tak to trwało... Aż pewnego razu żona mówi:\n- No dobra, umówmy się tak. Ty wyliczysz z iloma kobietami spałeś, a ja się NIE obrażę...\nMąż spojrzał na żonę podejrzliwie, ale powiedział:\n- Przysięgasz, że się nie obrazisz?\n- Przysięgam! - odpowiedziała żona. A teraz licz!\nNo i mąż zaczyna wyliczać:\n- Raz, dwa, trzy, cztery, pięć, sześć, siedem, TY, dziewięć, dziesięć...",
     "rate": 170,
     "date": "13.04.2016",
     "author": null
   },
   {
     "id": "7348",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Pewien policjant z drogówki podejrzewał, że żona go zdradza. Urwał się więc wcześniej z pracy i pojechał do domu, w celu przyłapania jej na gorącym uczynku. Podjeżdża pod dom, widzi czyjś samochód i myśli sobie \"oho, przeczucie mnie nie myliło\".\nWpada do domu, ale że żona z kochankiem usłyszeli jak podjeżdża, to kochanek prędko schował się do szafy i zaczął się w niej ubierać. \nPolicjant widzi żonę gołą w łóżku i krzyczy:\n- A co ty tak tu leżysz goła? Zdradzasz mnie! Twój gach gdzieś tu jest i ja go znajdę!\nZagląda więc do łazienki:\n- W łazience go nie ma!\nIdzie do kuchni: \n- W kuchni też go nie ma!\nIdzie więc do sypialni.\nKochanek za ten czas zdążył się ubrać i zaczął nerwowo grzebać po kieszeniach. Wygrzebał jednak tylko banknot stuzłotowy i spanikowany wyciągnął rękę przed siebie, trzymając banknot w dłoni. \nPolicjant zagląda do szafy, bierze od kochanka banknot, zamyka szafę i mówi:\n- W szafie też go nie ma!",
     "rate": 152,
     "date": "13.04.2016",
@@ -3950,7 +3955,7 @@
   },
   {
     "id": "7346",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Zenek, chciałabym uatrakcyjnić nasze życie seksualne.\n- Ok, Helena. Jak?\n- Wyobraź sobie, że jestem dziewczyną z agencji. \n- Hmm...a można koleżanki obejrzeć?",
     "rate": 162,
     "date": "13.04.2016",
@@ -3958,15 +3963,15 @@
   },
   {
     "id": "7343",
-    "is_checked": false,
-    "content": "Na przystanku tramwajowym razem z innymi ludźmi stoi młoda, ładna, zgrabna dziewczyna ubrana w krótką, bardzo obcisłą sukienkę.Podjeżdża tramwaj, dziewczyna  próbuje wejść jako pierwsza.Próg tramwaju jest wysoki, a obcisła sukienka nie pozwala jej podnieść nogi tak wysoko.Zrobił się korek, pozostali zaczynają się denerwować. Dziewczyna wyciąga rękę do tyłu i rozsuwa zamek z tyłu sukienki. Trochę pomogło, ale jeszcze nie dostaje do progu. Popuszcza jeszcze trochę,ale dalej nie może podnieść nogi.Trzeci raz sięga do tyłu. Z tyłu dochodzą już krzyki zdenerwowanych pasażerów.Wreszcie stojący za panienką mężczyzna łapie ją za pośladki i podsadza do tramwaju.\n-jak śmiesz ty chamie, zboczeńcu, jak możesz w ten sposób obmacywać obcą kobietę\n-ale przecież to ty zaczęłaś, trzy razy dobierałaś się do mojego rozporka",
+    "is_checked": true,
+    "content": "Na przystanku tramwajowym razem z innymi ludźmi stoi młoda, ładna, zgrabna dziewczyna ubrana w krótką, bardzo obcisłą sukienkę. Podjeżdża tramwaj, dziewczyna  próbuje wejść jako pierwsza. Próg tramwaju jest wysoki, a obcisła sukienka nie pozwala jej podnieść nogi tak wysoko. Zrobił się korek, pozostali zaczynają się denerwować. Dziewczyna wyciąga rękę do tyłu i rozsuwa zamek z tyłu sukienki. Trochę pomogło, ale jeszcze nie dostaje do progu. Popuszcza jeszcze trochę, ale dalej nie może podnieść nogi. Trzeci raz sięga do tyłu. Z tyłu dochodzą już krzyki zdenerwowanych pasażerów. Wreszcie stojący za panienką mężczyzna łapie ją za pośladki i podsadza do tramwaju.\n- Jak śmiesz ty chamie, zboczeńcu, jak możesz w ten sposób obmacywać obcą kobietę\n- Ale przecież to ty zaczęłaś, trzy razy dobierałaś się do mojego rozporka",
     "rate": 90,
     "date": "12.04.2016",
     "author": null
   },
   {
     "id": "7341",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Po czym poznać że szef ma poczucie humoru? \n...\nPo dziesiątym!",
     "rate": 62,
     "date": "12.04.2016",
@@ -3974,31 +3979,31 @@
   },
   {
     "id": "7339",
-    "is_checked": false,
-    "content": "Przychodzi facet do pracy i na przerwie wyjmuje kanapkę patrzy - z dżemem i wyrzuca. Na drugi dzień to samo a na trzeci dzień nawet nie sprawdza tylko od razu wyrzuca. \nKolega do niego: Może tym razem jest z czymś innym. \n- Na pewno z dżemem, sam robiłem",
+    "is_checked": true,
+    "content": "Przychodzi facet do pracy, na przerwie wyjmuje kanapkę i patrzy - z dżemem - wyrzuca. Na drugi dzień to samo, a na trzeci dzień nawet nie sprawdza tylko od razu wyrzuca. \nKolega do niego: Może tym razem jest z czymś innym. \n- Na pewno z dżemem, sam robiłem",
     "rate": 175,
     "date": "11.04.2016",
     "author": null
   },
   {
     "id": "7338",
-    "is_checked": false,
-    "content": "Wchodzi dwóch niemieckich szpiegów do knajpki w Londynie.\nJeden podchodzi do baru i zamawia:\n- Wo martini plea se.\n- Dy? - pyta barman.\n- Nin, zwie!",
+    "is_checked": true,
+    "content": "Wchodzi dwóch niemieckich szpiegów do knajpki w Londynie.\nJeden podchodzi do baru i zamawia:\n- Two martini please.\n- Dry? - pyta barman.\n- Nein, zwei!",
     "rate": 91,
     "date": "11.04.2016",
     "author": null
   },
   {
     "id": "7337",
-    "is_checked": false,
-    "content": "Mąż pracujący w fabryce chipsów mówi do żony:\n-Wiesz kochanie, poczułem dziś wielką ochotę żeby wsadzić penisa w obieraczkę do ziemniaków.\n-Mam nadzieję że tego nie zrobiłeś.\n-Zrobiłem...\n-O mój borze, coś się stało?\n-Zwolnili ją",
+    "is_checked": true,
+    "content": "Mąż pracujący w fabryce chipsów mówi do żony:\n- Wiesz kochanie, poczułem dziś wielką ochotę żeby wsadzić penisa w obieraczkę do ziemniaków.\n- Mam nadzieję że tego nie zrobiłeś.\n- Zrobiłem...\n- O mój boże, coś się stało?\n- Zwolnili ją",
     "rate": 124,
     "date": "11.04.2016",
     "author": null
   },
   {
     "id": "7336",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Mam dla pana dwie wiadomości, dobrą i złą.\n- Niech pan zacznie od dobrej, doktorze.\n- Kredytu można już nie spłacać.",
     "rate": 121,
     "date": "11.04.2016",
@@ -4006,15 +4011,15 @@
   },
   {
     "id": "7335",
-    "is_checked": false,
-    "content": "Pewien żydowski chłopiec uwielbiał czytać książki, przeczytał już każda którą miał w domu i w bibliotece. Pewnego dnia zapytał w księgarni czy mają książkę której wcześniej nie czytał. \nStary pracownik wyjął stara, zakurzoną książkę spod lady zatytułowaną ŚMIERĆ i powiedział że może mu ją sprzedać za 10 szekli, ale chłopiec nie może nigdy otworzyć jej na ostatniej stronie.\nChłopiec kupił ją i przeczytał, bardzo mu się podobała, jednak był bardzo ciekaw co było napisane na końcu. Pewnego dnia chłopiec nie wytrzymał i otworzył na ostatniej stronie. \nCena sugerowana: 5 szekli",
+    "is_checked": true,
+    "content": "Pewien żydowski chłopiec uwielbiał czytać książki, przeczytał już każdą którą miał w domu i w bibliotece. Pewnego dnia zapytał w księgarni czy mają książkę której wcześniej nie czytał. \nStary pracownik wyjął starą, zakurzoną książkę spod lady zatytułowaną ŚMIERĆ i powiedział że może mu ją sprzedać za 10 szekli, ale chłopiec nie może nigdy otworzyć jej na ostatniej stronie.\nChłopiec kupił ją i przeczytał, bardzo mu się podobała, jednak był bardzo ciekaw co było napisane na końcu. Pewnego dnia chłopiec nie wytrzymał i otworzył na ostatniej stronie. \nCena sugerowana: 5 szekli",
     "rate": 129,
     "date": "11.04.2016",
     "author": null
   },
   {
     "id": "7334",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Po czym odróżnić faceta, który nie ma nic do powiedzenia, od kobiety, która nie ma nic do powiedzenia?\n- Facet milczy.",
     "rate": 195,
     "date": "10.04.2016",
@@ -4022,7 +4027,7 @@
   },
   {
     "id": "7333",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kiedy krzesło jest w depresji?\nKiedy nie ma oparcia",
     "rate": 110,
     "date": "08.04.2016",
@@ -4030,31 +4035,31 @@
   },
   {
     "id": "7332",
-    "is_checked": false,
-    "content": "Przychodzi syn do ojca i mówi:\n- Tato, zakochałem się! Umówiłem się na randkę ze świetną dziewczyną!\n- To świetnie, synu. Kim ona jest? -Odpowiedział ojciec.\n- To Sandra, córka sąsiadów.\n- Muszę ci coś powiedzieć, ale obiecaj, że nie powiesz mamie! Sandra jest twoją siostrą.\nChłopak oczywiście się wycofał. Po kilku miesiącach poszedł do ojca:\n- Tato, znowu się zakochałem, a ona jest jeszcze ładniejsza!\n- To świetnie, synu. Kim ona jest? \n- To Asia. Córka sąsiada .\n- Och... Ona też jest twoją siostrą.\nSytuacja powtórzyła się kilka razy, syn wkurzył się\nna ojca i pobiegł do matki.\n- Mamo, jestem taki zły na ojca!\nZakochałem się w sześciu dziewczynach, ale nie mogłem się z nimi umawiać, bo tata jest ojcem ich wszystkich!\nMatka przytuliła go i powiedziała:\nKochany, możesz umawiać się z kim tylko zechcesz. Nie musisz go słuchać, nie jest twoim ojcem.",
+    "is_checked": true,
+    "content": "Przychodzi syn do ojca i mówi:\n- Tato, zakochałem się! Umówiłem się na randkę ze świetną dziewczyną!\n- To świetnie, synu. Kim ona jest? - odpowiedział ojciec.\n- To Sandra, córka sąsiadów.\n- Muszę ci coś powiedzieć, ale obiecaj, że nie powiesz mamie! Sandra jest twoją siostrą.\nChłopak oczywiście się wycofał. Po kilku miesiącach poszedł do ojca:\n- Tato, znowu się zakochałem, a ona jest jeszcze ładniejsza!\n- To świetnie, synu. Kim ona jest? \n- To Asia. Córka sąsiada .\n- Och... Ona też jest twoją siostrą.\nSytuacja powtórzyła się kilka razy, syn wkurzył się na ojca i pobiegł do matki.\n- Mamo, jestem taki zły na ojca! Zakochałem się w sześciu dziewczynach ale nie mogłem się z nimi umawiać, bo tata jest ojcem ich wszystkich! Matka przytuliła go i powiedziała:\nKochany, możesz umawiać się z kim tylko zechcesz. Nie musisz go słuchać, nie jest twoim ojcem.",
     "rate": 283,
     "date": "07.04.2016",
     "author": null
   },
   {
     "id": "7329",
-    "is_checked": false,
-    "content": "Pani pyta w szkole dzieci:\n- Kochani, kim chcecie zostać, jak dorośniecie?\nZgłasza się Jasiu i mówi:\n- Proszę pani, ja to bym chciał zostać menelem.\nNauczycielka zdziwiona. - Dlaczego, Jasiu?\n- A no tak, bo nie płaciłbym podatków, dostawałbym od ludzi drobne i mieszkał w altankach.\nMinęło 20 lat. Jasiu w swoim wieżowcu w Dubaju na ostatnim piętrze spogląda na ocean, gdzie stoi jego wielki jacht i skąd nadlatuje po niego helikopter, i mówi:\n- Cholera, gdzie ja popełniłem błąd...",
+    "is_checked": true,
+    "content": "Pani pyta w szkole dzieci:\n- Kochani, kim chcecie zostać, jak dorośniecie?\nZgłasza się Jasiu i mówi:\n- Proszę pani, ja to bym chciał zostać menelem.\nNauczycielka zdziwiona. - Dlaczego, Jasiu?\n- A no tak, bo nie płaciłbym podatków, dostawałbym od ludzi drobne i mieszkał w altankach.\nMinęło 20 lat. Jasiu w swoim wieżowcu w Dubaju na ostatnim piętrze spogląda na ocean, gdzie stoi jego wielki jacht i skąd nadlatuje po niego helikopter, i mówi:\n- Cholera, gdzie ja popełniłem błąd?",
     "rate": 258,
     "date": "07.04.2016",
     "author": "dodał"
   },
   {
     "id": "7328",
-    "is_checked": false,
-    "content": "Mąż pyta się żony:\n- Mamusia do Afryki pojechała?\n- No co Ty zgłupiałeś?\n- No bo mówili w wiadomościach, że w Południowym Sudanie pojawiła się cholera.",
+    "is_checked": true,
+    "content": "Mąż pyta się żony:\n- Czy mamusia pojechała do Afryki?\n- No co Ty zgłupiałeś?\n- No bo mówili w wiadomościach, że w Południowym Sudanie pojawiła się cholera.",
     "rate": 278,
     "date": "07.04.2016",
     "author": null
   },
   {
     "id": "7327",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona do męża:\n- Ubóstwiam cie!\n- Mówi się zubażam",
     "rate": 133,
     "date": "07.04.2016",
@@ -4062,7 +4067,7 @@
   },
   {
     "id": "7326",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Gość luksusowego hotelu składa u kelnera zamówienie:\n- Poproszę dwa gotowane jajka. Jedno tak miękkie, że zarówno żółtko i białko ma być w stanie płynnym, a drugie takie twarde, żebym miał kłopoty z jego pogryzieniem. Proszę również dwa plasterki boczku, zimne, ale z jednej strony zwęglone oraz spalonego, kruszącego się w dłoniach tosta. Masełko niech będzie tak zmrożone, żebym za nic w świecie nie mógł go rozsmarować. Proszę także o bardzo słabiutką kawę, o temperaturze pokojowej.\n- To bardzo skomplikowane zamówienie proszę pana, nie wiem, czy nasi kucharze potrafią... - odpowiada kelner.\n- Wczoraj ku*wa potrafili!",
     "rate": 247,
     "date": "07.04.2016",
@@ -4070,7 +4075,8 @@
   },
   {
     "id": "7325",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Świeżo poślubiona dziewczyna dzwoni do matki:\n- Pokłóciliśmy się!\n- Spokojnie... U każdego się zdarza.\n- Wiem! Ale co mam zrobić z ciałem?",
     "rate": 257,
     "date": "06.04.2016",
@@ -4078,23 +4084,23 @@
   },
   {
     "id": "7321",
-    "is_checked": false,
-    "content": "Jakiego batonika nie lubi pedofil.\n-Pawełka z adwokatem?",
+    "is_checked": true,
+    "content": "- Jakiego batonika nie lubi pedofil?\n- Pawełka z adwokatem.",
     "rate": 189,
     "date": "05.04.2016",
     "author": "Prezes XD 10"
   },
   {
     "id": "7315",
-    "is_checked": false,
-    "content": "Rząd niedawno ogłosił listę leków dostępnych bezpłatnie w ramach\nsłynnego programu \"darmowe medykamenty dla pacjentów po 75. roku życia\".\nSą na niej dwie pozycje: tabletki antykoncepcyjne oraz pigułka \"po\".",
+    "is_checked": true,
+    "content": "Rząd niedawno ogłosił listę leków dostępnych bezpłatnie w ramach słynnego programu \"darmowe medykamenty dla pacjentów po 75. roku życia\".\nSą na niej dwie pozycje: tabletki antykoncepcyjne oraz pigułka \"po\".",
     "rate": 110,
     "date": "01.04.2016",
     "author": "Lechu"
   },
   {
     "id": "7313",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Co robi cygan w salonie subaru?\n- Rozkręca Imprezę",
     "rate": 105,
     "date": "01.04.2016",
@@ -4102,8 +4108,8 @@
   },
   {
     "id": "7312",
-    "is_checked": false,
-    "content": "Rzecz się dzieje w przedszkolu:\nJasiu siedzi na nocniku z powiększonymi oczami i płacze\n-przechodzi jakiś rodzic i pyta :\nczego Jasiu płaczesz\n-bo pani powiedziała,że jak zrobimy kupki to pójdziemy na spacer\ni co nie możesz biedny zrobić\n-zrobiłem tylko Kaziu mi ukradł",
+    "is_checked": true,
+    "content": "Rzecz się dzieje w przedszkolu:\nJasiu siedzi na nocniku z powiększonymi oczami i płacze.\nPrzechodzi jakiś rodzic i pyta:\n -Dlaczego Jasiu płaczesz?\n- Bo pani powiedziała,że jak zrobimy kupki to pójdziemy na spacer\n- I co nie możesz biedny zrobić?\n- Zrobiłem tylko Kaziu mi ukradł",
     "rate": 231,
     "date": "01.04.2016",
     "author": "sławek"
