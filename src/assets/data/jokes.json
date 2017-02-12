@@ -2634,6 +2634,7 @@
   {
     "id": "7788",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Nauczycielka pyta się klasy:\n- Dzieci, kto w waszej rodzinie jest najstarszy?\n- U mnie dziadek\n- W mojej rodzinie babcia\n- Pra-pra-pra-pra babcia\n- To niemożliwe!\n- Dla-dla-dla-czego?",
     "rate": 159,
     "date": "19.07.2016",
@@ -5561,23 +5562,23 @@
   },
   {
     "id": "6664",
-    "is_checked": false,
-    "content": "W noc wigilijną na dworcu PKP spotyka się dwóch facetów: \n- Co pan taki przygnębiony święta są, trzeba się weselić. \n- Aaa, tragedia mnie spotkała, żona mnie zostawiła, moja firma zbankrutowała, a na dodatek ukradli mi samochód. Nic tylko się powiesić. \n- Ależ drogi panie jest wigilia! Tak się składa, że jestem Świętym Mikołajem. Pomogę ci chłopcze. Kiedy wrócisz dziś do domu będzie na ciebie czekała piękna kochająca żona. Widzisz to Ferrari na parkingu? Jest twoje, kluczyki są w środku, a twoje konto od teraz jest zapełnione! Proszę tylko o jedno: zrób mi dobrze. \nFacet myśli: kurcze będę ustawiony do końca życia, co mi szkodzi, dobra zrobię to! Kiedy było już po wszystkim zadowolony mikołaj zapina rozporek i pyta: \n- Synku, ile ty masz właściwie lat? \n- 43 \n- I ty wierzysz w Świętego Mikołaja?!",
+    "is_checked": true,
+    "content": "W noc wigilijną na dworcu PKP spotyka się dwóch facetów: \n- Co pan taki przygnębiony święta są, trzeba się weselić. \n- Aaa, tragedia mnie spotkała, żona mnie zostawiła, moja firma zbankrutowała, a na dodatek ukradli mi samochód. Nic tylko się powiesić. \n- Ależ drogi panie jest wigilia! Tak się składa, że jestem Świętym Mikołajem. Pomogę ci chłopcze. Kiedy wrócisz dziś do domu będzie na ciebie czekała piękna kochająca żona. Widzisz to Ferrari na parkingu? Jest twoje, kluczyki są w środku, a twoje konto od teraz jest zapełnione! Proszę tylko o jedno: zrób mi dobrze. \nFacet myśli: kurcze będę ustawiony do końca życia, co mi szkodzi, dobra zrobię to! Kiedy było już po wszystkim zadowolony mikołaj zapina rozporek i pyta: \n- Synku, ile ty masz właściwie lat? \n- 43 \n- I ty wierzysz w Świętego Mikołaja?",
     "rate": 203,
     "date": "28.12.2015",
     "author": null
   },
   {
     "id": "6663",
-    "is_checked": false,
-    "content": "Tańczy student na dyskotece z dziewczyną. Nagle osłabł. Mdleje.\nDziewczyna krzyczy :\n- Wody! Dajcie mu wody!\nStudent otwiera oczy i szepcze :\n- I kawałek chleba!",
+    "is_checked": true,
+    "content": "Tańczy student na dyskotece z dziewczyną. Nagle osłabł. Mdleje.\nDziewczyna krzyczy :\n- Wody! Dajcie mu wody!\nStudent otwiera oczy i szepcze:\n- I kawałek chleba!",
     "rate": 144,
     "date": "28.12.2015",
     "author": null
   },
   {
     "id": "6662",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na przystanku siedzą dwaj mężczyźni. Nagle podjeżdża samochodem obcokrajowiec. I pyta się o coś po angielsku, po niemiecku, francusku i hiszpańsku. Jeden mężczyzna do drugiego:\n- Marek, trzeba było się uczyć języków obcych to byś się dogadał.\n- No i po co. On zna 4 języki i co? Dogadał się?",
     "rate": 171,
     "date": "28.12.2015",
@@ -5585,31 +5586,31 @@
   },
   {
     "id": "6661",
-    "is_checked": false,
-    "content": "Murzyn na kontrakcie w Polsce pracował na budowie.\nNieszczęśliwie, któregoś dnia piłą odciął sobie palec wskazujący. Pobiegł do lekarza, lekarz mówi, że jego własnego palca nie da się już przyszyć, ale jeżeli chce to w szpitalu są palce od białych ludzi i taki można mu przyszyć. Murzyn, że nie był wybredny zgodził się.\nLekarz przyszył mu biały palec.\nPo kilku dniach Murzyn jadąc tramwajem ogląda palec, nie mogąc wyjść ze zdumienia,\nże już jest sprawny. Obok siedzi podchmielony gość i przygląda się z ciekawością. Nagle mówi:\n- Wide, że pan kominiarz od dziewczyny wraca...",
+    "is_checked": true,
+    "content": "Murzyn na kontrakcie w Polsce pracował na budowie. Nieszczęśliwie, któregoś dnia piłą odciął sobie palec wskazujący. Pobiegł do lekarza, lekarz mówi, że jego własnego palca nie da się już przyszyć, ale jeżeli chce to w szpitalu są palce od białych ludzi i taki można mu przyszyć. Murzyn, że nie był wybredny zgodził się.\nLekarz przyszył mu biały palec. Po kilku dniach Murzyn jadąc tramwajem ogląda palec, nie mogąc wyjść ze zdumienia, że już jest sprawny. Obok siedzi podchmielony gość i przygląda się z ciekawością. Nagle mówi:\n- Widzę, że pan kominiarz od dziewczyny wraca...",
     "rate": 312,
     "date": "28.12.2015",
     "author": null
   },
   {
     "id": "6655",
-    "is_checked": false,
-    "content": "Kontrola Legalności Pracy wypytuje w Holandii Polaka: \n- Mówi pan po holendersku? \n- Tak, trochę. \n- A ma pan pozwolenie na prace? \n- Oczywiście mam. \n- A pana kolega tam w pomidorach tez ma? \n- Naturalnie tez ma. \n- Mógłby pan go zawołać? \n- Oczywiście. JOZUEGO! ŚPI**DALAJ!",
+    "is_checked": true,
+    "content": "Kontrola Legalności Pracy wypytuje w Holandii Polaka: \n- Mówi pan po holendersku? \n- Tak, trochę. \n- A ma pan pozwolenie na prace? \n- Oczywiście, mam. \n- A pana kolega tam w pomidorach też ma? \n- Naturalnie, też ma. \n- Mógłby pan go zawołać? \n- Oczywiście. JÓZEEEEK! SPI**DALAJ!",
     "rate": 287,
     "date": "28.12.2015",
     "author": "Maks"
   },
   {
     "id": "6654",
-    "is_checked": false,
-    "content": "Po rocznym pobycie syn rolnika wraca z Anglii do domu na wieś. \nRankiem ojciec mówi do niego: \n- Synu, idź rozrzuć gnój na pole. \nA syn z angielskim akcentem i ze wzrokiem politowania: \n- Hat? \nNa to ojciec: \n- No lot krów i lot świń.",
+    "is_checked": true,
+    "content": "Po rocznym pobycie syn rolnika wraca z Anglii do domu na wieś. \nRankiem ojciec mówi do niego: \n- Synu, idź rozrzuć gnój na pole. \nA syn z angielskim akcentem i ze wzrokiem politowania: \n- What? \nNa to ojciec: \n- No łot krów i łot świń.",
     "rate": 217,
     "date": "28.12.2015",
     "author": "Maks"
   },
   {
     "id": "6652",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Nauczycielka pyta się klasy: \nDzieci kto w waszej rodzinie jest najstarszy? \n- U mnie dziadek \n- W mojej rodzinie babcia \n- Pa-pra-pra-pra babcia \n- To niemożliwe! \n- Dla-dla-dla-czego?",
     "rate": 242,
     "date": "28.12.2015",
@@ -5617,15 +5618,15 @@
   },
   {
     "id": "6644",
-    "is_checked": false,
-    "content": "Na ranczu chodzą pogłoski, że ma przybyć nowy byk. Sprawę komentują miejscowe byki.\nbyk 1:\n- Jestem tutaj 5 lat, mam 100 krów, i nie dam ani jednej temu nowemu, jak się tu pojawi.\nbyk 2:\n- Jestem tu 3 lata, opiekuję się 50 krowami... i nadal tak będzie, ani jednej dla nowego.\nbyk 3:\n- Koledzy, jestem tu od roku, Byliście tak dobrzy, że dzisiaj mam 10 krów. I nic się nie zmieni, ni uhu dla nowego, niech goni za kurami.\nPo kilku dniach na ranczu pojawia się ciężarówka, po stalowej rampie schodzi byk. Waży chyba z 1,5 tony, ślipia czerwone, sierść czarna, błyszcząca, na głowie wielkiej jak betoniarka rogi na pół metra, spod kopyt tryskają iskry, rampa się trzęsie w rytm dyndających Dow-Jones wielkości małych arbuzów...\nbyk 1 :\n- Tak właściwie to mogę odstąpić kilkadziesiąt krów naszemu nowemu przyjacielowi...\nbyk2 :\n- Trudno mi ogarnąć wszystkie moje krowy. W ramach prezentu powitalnego dam ze 20 nowemu koledze...\nByk3 pochylił głowę, wierzga nią w prawo lewo, puszcza parę z nozdrzy, porykuje gniewnie, ryje kopytami aż ziemia tryska na boki...\nByk1, byk2 :\n- Młody, daj spokój, zmiażdży cie, rozwalcuje, przecież nic się nie stanie, jak dasz mu ze 3 krowy...\nbyk3 :\n- Koledzy, jak dla mnie, to on może sobie brać wszystkie moje krowy... ja tylko chcę mu pokazać, że nie jestem jedną z nich...",
+    "is_checked": true,
+    "content": "Na ranczu chodzą pogłoski, że ma przybyć nowy byk. Sprawę komentują miejscowe byki.\nbyk 1:\n- Jestem tutaj 5 lat, mam 100 krów, i nie dam ani jednej temu nowemu, jak się tu pojawi.\nbyk 2:\n- Jestem tu 3 lata, opiekuję się 50 krowami... i nadal tak będzie, ani jednej dla nowego.\nbyk 3:\n- Koledzy, jestem tu od roku. Byliście tak dobrzy, że dzisiaj mam 10 krów. I nic się nie zmieni, ni huhu dla nowego, niech goni za kurami.\nPo kilku dniach na ranczu pojawia się ciężarówka, po stalowej rampie schodzi byk. Waży chyba z 1,5 tony, ślipia czerwone, sierść czarna, błyszcząca, na głowie wielkiej jak betoniarka rogi na pół metra, spod kopyt tryskają iskry, rampa się trzęsie w rytm dyndających cojones wielkości małych arbuzów...\nbyk 1 :\n- Tak właściwie to mogę odstąpić kilkadziesiąt krów naszemu nowemu przyjacielowi...\nbyk2 :\n- Trudno mi ogarnąć wszystkie moje krowy. W ramach prezentu powitalnego dam ze 20 nowemu koledze...\nByk3 pochylił głowę, wierzga nią w prawo lewo, puszcza parę z nozdrzy, porykuje gniewnie, ryje kopytami aż ziemia tryska na boki...\nByk1, byk2 :\n- Młody, daj spokój, zmiażdży cię, rozwalcuje, przecież nic się nie stanie, jak dasz mu ze 3 krowy...\nbyk3 :\n- Koledzy, jak dla mnie, to on może sobie brać wszystkie moje krowy... ja tylko chcę mu pokazać, że nie jestem jedną z nich...",
     "rate": 184,
     "date": "25.12.2015",
     "author": "mdcp"
   },
   {
     "id": "6642",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Ojciec w kuchni przygotowuje mięso. Wchodzi córka i mówi:\n- Tato, poznaj Marcina, on z nami zamieszka.\nOjciec nie odwraca głowy i mieląc mięso odpowiada:\n- W samą porę. Bo z Szymka już tylko te resztki zostały...",
     "rate": 287,
     "date": "25.12.2015",
@@ -5633,39 +5634,39 @@
   },
   {
     "id": "6640",
-    "is_checked": false,
-    "content": "Przychodzi zakonnica do spowiedzi i mówi: \n- Proszę księdza popełniłam bardzo ciężki grzech. \n- To niech siostra powie \n- Ale się bardzo wstydzę \n- No niech siostra powie \n- No bo latałam nago po parku \n- Piekło moja droga, piekło \n- No piekło, piekło bo dupą wpadłam w pokrzywy.",
+    "is_checked": true,
+    "content": "Przychodzi zakonnica do spowiedzi i mówi: \n- Proszę księdza popełniłam bardzo ciężki grzech. \n- To niech siostra powie \n- Ale się bardzo wstydzę \n- No niech siostra powie \n- No bo latałam nago po parku \n- Piekło moja droga, piekło \n- No piekło, piekło... bo dupą wpadłam w pokrzywy.",
     "rate": 174,
     "date": "23.12.2015",
     "author": null
   },
   {
     "id": "6638",
-    "is_checked": false,
-    "content": "Jak ewa namówiła Adama żeby zjadł jabłko ?\nzjedz jabłko A dam",
+    "is_checked": true,
+    "content": "Jak Ewa namówiła Adama żeby zjadł jabłko?\nZjedz jabłko A dam",
     "rate": 189,
     "date": "23.12.2015",
     "author": "quatrro"
   },
   {
     "id": "6636",
-    "is_checked": false,
-    "content": "Studentka przychodzi do sali profesora, nikogo poza nią i psorem nie ma, zamyka drzwi za sobą, przysuwa się do niego i słodkim głosikiem tak rzecze: \n- Zrobiłabym wszystkość, żeby zdać ten egzamin... - i przysuwa się jeszcze bliżej do profesora i tym razem szepcze mu do ucha: \n- Zrobiłabym wszystkomogący... \nNa to profesor pobudzony: \n- Naprawdę wszystko? \nOna mruga słodkimi oczkami, kokieteryjnie poprawia włosy i mruczy: \n- Tak, wszystkoisto... \nNa to psorek równie słodko na uszko do niej mówi: \n- Aaa... pouczyłabyś się może troszkę?",
+    "is_checked": true,
+    "content": "Studentka przychodzi do sali profesora, nikogo poza nią i psorem nie ma, zamyka drzwi za sobą, przysuwa się do niego i słodkim głosikiem tak rzecze: \n- Zrobiłabym wszyyystko, żeby zdać ten egzamin... - i przysuwa się jeszcze bliżej do profesora i tym razem szepcze mu do ucha: \n- Zrobiłabym wszszszyyystko... \nNa to profesor pobudzony: \n- Naprawdę wszystko? \nOna mruga słodkimi oczkami, kokieteryjnie poprawia włosy i mruczy: \n- Tak, wszyystkooo... \nNa to psorek równie słodko na uszko do niej mówi: \n- Aaa... pouczyłabyś się może troszkę?",
     "rate": 202,
     "date": "23.12.2015",
     "author": null
   },
   {
     "id": "6633",
-    "is_checked": false,
-    "content": "- Jechał pan z prędkością 130 km/eh. Nie przyszło panu do głowy, że może się pan zderzyć z innym samochodem?!\n- Aa... Na chodniku?!",
+    "is_checked": true,
+    "content": "- Jechał pan z prędkością 130 km/h. Nie przyszło panu do głowy, że może się pan zderzyć z innym samochodem?!\n- Taa... Na chodniku?!",
     "rate": 182,
     "date": "22.12.2015",
     "author": null
   },
   {
     "id": "6632",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Tato, kup mi wypasioną komórkę! \n- A gdzie magiczne słowo? \n- Natalia. \n- Natalia? \n- To imię twojej kochanki. \n- Pewnie potrzebujesz do tego etui?",
     "rate": 243,
     "date": "21.12.2015",
@@ -5673,15 +5674,15 @@
   },
   {
     "id": "6631",
-    "is_checked": false,
-    "content": "Wraca mąż wcześniej z pracy, wchodzi do domu i widzi nagą żonę:\n- Co ty robisz?\n-Oo... Pomyślałam, że pobawimy się nago w chowanego..\n- Dobra, ja chowam się pierwszy!\nWyskoczył z ciuchów i pobiegł na piętro. Otwiera szafę i widzi swojego najlepszego kumpla. Ten mówi:\n- Sorry stary...\n- Spoko, ja schowam się pod łóżko!",
+    "is_checked": true,
+    "content": "Wraca mąż wcześniej z pracy, wchodzi do domu i widzi nagą żonę:\n- Co ty robisz?\n-Noo... Pomyślałam, że pobawimy się nago w chowanego..\n- Dobra, ja chowam się pierwszy!\nWyskoczył z ciuchów i pobiegł na piętro. Otwiera szafę i widzi swojego najlepszego kumpla. Ten mówi:\n- Sorry stary...\n- Spoko... ja schowam się pod łóżko!",
     "rate": 139,
     "date": "21.12.2015",
     "author": null
   },
   {
     "id": "6630",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Kochanie idź do sklepu i kup parówki, jak będą jajka to kup dziesięć.\n- Dzień dobry, są jajka?\n- Są\n- To poproszę dziesięć parówek",
     "rate": 207,
     "date": "21.12.2015",
@@ -5689,23 +5690,23 @@
   },
   {
     "id": "6627",
-    "is_checked": false,
-    "content": "Idzie lisica łąką i widzi a to wrona leci dupą do przodu...\nZdziwiona woła, ty wrona a co tobie? \nWrona mówi, wy tam na dole to zacofani, nie wiecie PIS jest u władzy idą zmiany, zmiany teraz robimy wszystko na odwrót.\nLisica cwana pomyślała i nie chcąc być zacofaną podniosła kitę do góry i tyłkiem do przodu maszeruje do lasu. Zobaczył ją niedźwiedź, kita w górze  otwór na wierzchu no to sur ją wydupczył.\nLisica znalazła wronę i mówi - ty wrona ja też chciałam zmiany robić to mnie niedźwiedź wyruchał.\nWrona popatrzyła się na lisicę i mówi bo u nas na górze to zmiany a was tam na dole jak jebali tak dalej będą jebać.",
+    "is_checked": true,
+    "content": "Idzie lisica łąką i widzi, że wrona leci dupą do przodu...\nZdziwiona woła: \n- Ty wrona, a co tobie? \n- Wy tam na dole to zacofani, nie wiecie. PIS jest u władzy, idą zmiany, teraz robimy wszystko na odwrót.\nLisica cwana pomyślała i nie chcąc być zacofaną podniosła kitę do góry i tyłkiem do przodu maszeruje do lasu. Zobaczył ją niedźwiedź, kita w górze, otwór na wierzchu - no to sru ją wydupczył.\nLisica znalazła wronę i mówi: \n- Ty wrona ja też chciałam zmiany robić to mnie niedźwiedź wyruchał.\nWrona popatrzyła się na lisicę i mówi: \n- Bo u nas na górze to zmiany, a was tam na dole jak jebali tak dalej będą jebać.",
     "rate": 268,
     "date": "20.12.2015",
     "author": "putin"
   },
   {
     "id": "6625",
-    "is_checked": false,
-    "content": "Tato, kto to jest alkoholik? pyta jasiu \nwidzisz te 4 drzewa? alkoholik widzi 8. ale tato! tam SA tylko 2 drzewa!",
+    "is_checked": true,
+    "content": "Tato, kto to jest alkoholik? - pyta Jasiu \n- Widzisz te 4 drzewa? Alkoholik widzi 8. \n- Ale tato! Tam są tylko 2 drzewa!",
     "rate": 160,
     "date": "18.12.2015",
     "author": null
   },
   {
     "id": "6621",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Nauczycielka próbuje nauczyć swoich uczniów dobrych manier. Zapytała: \"Michał, gdybyś zabrał dziewczynę na randkę do restauracji, jak powiedziałbyś jej, że musisz iść do łazienki?\"\n- Poczekaj chwilę, muszę się wysikać. - odpowiedział Michał.\n- To byłoby bardzo niegrzeczne i nieodpowiednie. A Ty, Krzysiu, jak byś zapytał? - zwróciła się do innego ucznia.\n- Przepraszam, ale naprawdę muszę iść do toalety. Zaraz wracam.\n- Lepiej, Krzysiu, ale użycie słowa \"toaleta\" przy stole nie do końca jest właściwie. A Ty, Jasiu? Wysilisz dziś mózg i pokażesz nam dobre maniery?\nNa co jasiu odpowiedział:\n- Najdroższa, wybaczysz mi na chwilę? Muszę uścisnąć dłoń mojemu drogiemu przyjacielowi, którego mam nadzieję przedstawić ci po kolacji.",
     "rate": 404,
     "date": "18.12.2015",
@@ -5713,7 +5714,7 @@
   },
   {
     "id": "6619",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Jedzie ksiądz przez małą mieścinę, na głównym skrzyżowaniu, tuż przed drzwiami komendy policji leży rozjechany pies. Ksiądz zdegustowany brakiem reakcji zatrzymuje auto, wchodzi na komendę i mówi:\n- Panowie chciałem zwrócić uwagę, że przed waszymi drzwiami leży rozjechany pies i zero reakcji z waszej strony!\nNa to gliniarz głupio się zaśmiał i mówi:\n- Ja myślałem, że to wy jesteście od pogrzebów.\nKsiądz na to też z ironicznym uśmiechem:\n- Przyszedłem zawiadomić najbliższą rodzinę.",
     "rate": 317,
     "date": "17.12.2015",
@@ -5721,7 +5722,7 @@
   },
   {
     "id": "6618",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W zeszłym tygodniu byłem na spotkaniu VIP-ów w Seattle. W salonie spostrzegłem Billa Gatesa siedzącego na kanapie i pijącego koniak. Byłem umówiony na spotkanie z bardzo ważnym klientem, który przyleciał do Seattle razem ze mną, ale trochę się spóźniał. Będąc śmiałym facetem, podszedłem do Gatesa i przedstawiłem się. Wyjaśniłem mu, że przeprowadzam bardzo ważny interes i dodałem, jak bardzo by mi pomogło, gdyby podszedł do mnie, kiedy będę z klientem i powiedział do mnie: \"Cześć, Krzysiu\". Zgodził się. 10 minut później, kiedy rozmawiałem z klientem, poczułem klepnięcie w ramię. To był Bill Gates. Odwróciłem się i spojrzałem na niego.\n- Cześć, Krzysiu, jak leci? - zapytał.\nA ja na to:\n- Odpieprz się, Bill, mam spotkanie.",
     "rate": 109,
     "date": "17.12.2015",
@@ -5729,15 +5730,15 @@
   },
   {
     "id": "6617",
-    "is_checked": false,
-    "content": "Pastor, ksiądz i rabin poszli nad jezioro, a że dzień upalny, ludzi nie ma, kąpielówek nie zabrali, to zrzucili ubrania i pływają na waleta. Nagle słychać śpiew, śmiechy, nad jeziorko wchodzi grupa kobiet. Ksiądz i pastor zasłonili krocze, a rabin zasłonił twarz.\n- Co ty robisz, ludzie patrzą! - Pytają ksiądz i pastor. Rabin odpowiada:\n- Nie wiem, jak was, ale mnie wierni rozpoznają po twarzy.",
+    "is_checked": true,
+    "content": "Pastor, ksiądz i rabin poszli nad jezioro, a że ludzi nie ma, dzień upalny, kąpielówek nie zabrali, to zrzucili ubrania i pływają na waleta. Nagle słychać śpiew, śmiechy, nad jeziorko wchodzi grupa kobiet. Ksiądz i pastor zasłonili krocze, a rabin zasłonił twarz.\n- Co ty robisz, ludzie patrzą! - pytają ksiądz i pastor. Rabin odpowiada:\n- Nie wiem, jak was, ale mnie wierni rozpoznają po twarzy.",
     "rate": 219,
     "date": "17.12.2015",
     "author": "JadziaG."
   },
   {
     "id": "6614",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Panie doktorze, dzięki wielkie! To lekarstwo, co mi pan przepisał okazało się idealne! Jest pan geniuszem!\n- Bogiem a prawdą, geniuszem jest aptekarz. Pomyłkowo dałem panu karteczkę, na której rozgrzewałem długopis, bo mi się wkład zablokował.",
     "rate": 151,
     "date": "17.12.2015",
@@ -5745,7 +5746,7 @@
   },
   {
     "id": "6613",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Uczeń pyta swojego Mistrza:\n- Mistrzu. Czym różni się kobieta od perły?\nMistrz na to:\n- Perłę nawleka się z dwóch stron, a kobietę tylko z jednej.\n- Ale mistrzu! Ja słyszałem o takich kobietach, które nawleka się z obydwu stron.\nMistrz:\n- To nie kobiety, to perły.",
     "rate": 208,
     "date": "17.12.2015",
@@ -5753,31 +5754,31 @@
   },
   {
     "id": "6612",
-    "is_checked": false,
-    "content": "Są 3 stopnie męskiej otyłości:\n\n1. Facet nie widzi ptaszka jak sika.\n2. Facet nie widzi ptaszka jak mu stoi.\n3. Facet nie widzi kto mu robi loda.",
+    "is_checked": true,
+    "content": "Są 3 stopnie męskiej otyłości:\n1. Facet nie widzi ptaszka jak sika.\n2. Facet nie widzi ptaszka jak mu stoi.\n3. Facet nie widzi kto mu robi loda.",
     "rate": 78,
     "date": "17.12.2015",
     "author": "R."
   },
   {
     "id": "6611",
-    "is_checked": false,
-    "content": "Na środku kałuży z błotka siedzi sobie Tata hipopotam a wokół niego jeździ na rowerku mały Synek hipopotam. Tata hipopotam leży na jednym boku, po czym po kilku godzinach odwraca się na drugi boczek, ochlapuje się błotkiem i tak w kółko przez cały dzień.\nPo 2 tygodniach Synek hipopotam podchodzi do Taty hipopotama i mówi smutnym głosem:\n-Tatusiu, tatusiu- przewróciłem się bo było ślisko i zepsuł mi się rowerek. Napraw mi go proszę.\nTata hipopotam odwraca się na drugi bok i odpowiada:\n-No i weź kur..a rzuć teraz wszystko i napraw mu rowerek.",
+    "is_checked": true,
+    "content": "Na środku kałuży z błotka siedzi sobie Tata hipopotam, a wokół niego jeździ na rowerku mały Synek hipopotam. Tata hipopotam leży na jednym boku, po czym po kilku godzinach odwraca się na drugi boczek, ochlapuje się błotkiem i tak w kółko przez cały dzień.\nPo 2 tygodniach Synek hipopotam podchodzi do Taty hipopotama i mówi smutnym głosem:\n-Tatusiu, tatusiu- przewróciłem się bo było ślisko i zepsuł mi się rowerek. Napraw mi go proszę.\nTata hipopotam odwraca się na drugi bok i odpowiada:\n-No i weź kur*a rzuć teraz wszystko i napraw mu rowerek.",
     "rate": 68,
     "date": "17.12.2015",
     "author": "R."
   },
   {
     "id": "6609",
-    "is_checked": false,
-    "content": "Kobieta o długim stażu małżeńskim ogląda się przed lustrem i widzi:\n- pomarszczoną twarz,\n- przerzedzone włosy,\n- braki w uzębieniu,\n- nieapetyczny, obwisły biust,\n- sadło tu i ówdzie?\nW końcu stwierdza:\n- Dobrze mu tak, c*jowi",
+    "is_checked": true,
+    "content": "Kobieta o długim stażu małżeńskim ogląda się przed lustrem i widzi:\n- pomarszczoną twarz,\n- przerzedzone włosy,\n- braki w uzębieniu,\n- nieapetyczny, obwisły biust,\n- sadło tu i ówdzie\nW końcu stwierdza:\n- Dobrze mu tak, c*jowi",
     "rate": 318,
     "date": "16.12.2015",
     "author": null
   },
   {
     "id": "6608",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na środku jeziora złapał wędkarz złota rybkę. Ta klasycznie mówi:\n- Spełnię twoje trzy życzenia...\n- Ale ja nie mam życzeń, mam duży dom, dwa samochody, firmę, świetnie zarabiam, nic mi nie potrzeba...\n- No wiesz, to może chociaż jedno, żeby nie było, że nie spełniam!\n- No dobra... mam prośbę! Zrób tak, abym zawsze miał orgazm razem z żoną, jednocześnie!\n- Proszę bardzo!\nRybka uderzyła ogonem o wodę i zanurzyła się w głębinie. Nim wędkarz dopłynął do brzegu, szczytował 5 razy...",
     "rate": 179,
     "date": "16.12.2015",
@@ -5785,7 +5786,8 @@
   },
   {
     "id": "6607",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Kowalski kupuje żonie biustonosz.\n- Jaki rozmiar ?- pyta ekspedientka.\n- Nie wiem.\n- Może jak grapefruit ?\n- Nie.\n- Może jak pomarańcza?\n- Też nie.\n- To może jak jajko?\n- Otóż to! woła uradowany Kowalski.- Sadzone!",
     "rate": 129,
     "date": "16.12.2015",
@@ -5793,7 +5795,8 @@
   },
   {
     "id": "6606",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "On i ona żyją ze sobą na kocią łapę. Po kolacji on zmywa naczynia. po\nchwili odwraca się do niej, patrzy głęboko w oczy i pyta:\n- Wyjdziesz za mnie?\nOna ze łzami szczęścia w oczach:\n- Tak!\nOn:\n- Ze śmieciami....",
     "rate": 279,
     "date": "16.12.2015",
@@ -5801,15 +5804,15 @@
   },
   {
     "id": "6604",
-    "is_checked": false,
-    "content": "Przychodzi tata do domu z pracy i szczęśliwy mówi \"dostałem bon na wakacje, Jedziemy nad morze\"\nTo Fantastycznie mama na to. Jasio masz tu dychę na lody a my tu się spakujemy. Jasio poleciał, a\ntatko do mamusi choć kochanie strzelimy sobie gola przed wyjazdem. Tata z mamą rozgrzebani na tapczanie, Jasio wpada tato dychy zapomniałem, a co wy robicie - No wiesz synu duży jesteś, ale ci powiem, Jedziemy nad morze, mama nie umie pływać trzeba biedaczkę troszkę napompować żeby nam nie utonęła, le tato nie pękaj pan Zenek z pod czwórki mamę pompował wczoraj z tyłu, z przodu i po tę językiem kontrolował czy powietrze nie schodzi",
+    "is_checked": true,
+    "content": "Przychodzi tata do domu z pracy i szczęśliwy mówi \"dostałem bon na wakacje, Jedziemy nad morze\"\nTo fantastycznie mama na to. Jasio masz tu dychę na lody, a my tu się spakujemy. Jasio poleciał, a tatko do mamusi choć kochanie strzelimy sobie gola przed wyjazdem. Tata z mamą rozgrzebani na tapczanie, Jasio wpada tato dychy zapomniałem, a co wy robicie - No wiesz synu duży jesteś, ale ci powiem, Jedziemy nad morze, mama nie umie pływać trzeba biedaczkę troszkę napompować żeby nam nie utonęła. Ale tato nie pękaj pan Zenek z pod czwórki mamę pompował wczoraj z tyłu, z przodu i potem językiem kontrolował czy powietrze nie schodzi",
     "rate": 260,
     "date": "15.12.2015",
     "author": "tadziu"
   },
   {
     "id": "6602",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na budowę przychodzi facet i się pyta:\n- Ilu was tu pracuje?\n- Z majstrem, czy bez?\n- Z majstrem.\n- 26.\n- A bez?\n- Bez majstra, to tu nikt nie pracuje.",
     "rate": 207,
     "date": "14.12.2015",
@@ -5817,7 +5820,7 @@
   },
   {
     "id": "6590",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Wchodzi baba do drogerii:\n- Co może mi pan polecić na twarz?\n...\n- Worek",
     "rate": 224,
     "date": "11.12.2015",
@@ -5825,7 +5828,8 @@
   },
   {
     "id": "6589",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "- Zabrałem ostatnio mojego syna na biwak do lasu. Siedzimy przy ognisku, pieczemy kiełbaski, rozmawiamy.\n- Tato, muszę się wysrać.\n- Nie krępuj się! To jest wspaniałe na takich wypadach. Idziesz srać gdzie chcesz i nikt nie wyciąga żadnych konsekwencji.\nWraca po chwili:\n- I co? Gdzie to zrobiłeś?\n- W twoim samochodzie.",
     "rate": 205,
     "date": "11.12.2015",
@@ -5833,23 +5837,23 @@
   },
   {
     "id": "6586",
-    "is_checked": false,
-    "content": "- Tato, chcę się ożenić z Basią.\n- Przeproś.\n- co?\n- Przeproś!\n- ale za co?\n- Nieważne, przeproś.\n- ale o co ci chodzi?\n- Przeproś\n- Daj mi chociaż jakiś powód...\n- Po prostu przeproś.\n- No dobra. Przepraszam.\n- OK. skoro jesteś w stanie przepraszać bez żadnego powodu to faktycznie jesteś gotów ma małżeństwo",
+    "is_checked": true,
+    "content": "- Tato, chcę się ożenić z Basią.\n- Przeproś.\n- Co?\n- Przeproś!\n- Ale za co?\n- Nieważne, przeproś.\n- Ale o co ci chodzi?\n- Przeproś\n- Daj mi chociaż jakiś powód...\n- Po prostu przeproś.\n- No dobra. Przepraszam.\n- OK. Skoro jesteś w stanie przepraszać bez żadnego powodu to faktycznie jesteś gotów ma małżeństwo",
     "rate": 240,
     "date": "09.12.2015",
     "author": "kalafior"
   },
   {
     "id": "6585",
-    "is_checked": false,
-    "content": "Pani na Religi kazała narysować klasie Matkę Boską.\nPo 40 min zbiera rysunki i ocenia.\n- Bardzo ładnie Marysiu, śliczna suknia, masz 6.\nO, Krzysio narysował z małym Jeziorskiem, świetnie, też masz 6.\nW końcu dochodzi do pracy Jasi i widzi cycatą blondynę w miniówce i na szpilkach. \nPrzestraszona krzyczy:\n- Jasiu bój się Boga! Kto ci powiedział że tak Maryja wygląda?!\n- Ksiądz.\n- Jak to ksiądz? Nie kłam!\n- No ksiądz. Widziałem jak wychodziła nad ranem z plebani, a ksiądz powiedział: \"Matko Boska, żeby cię tylko nikt nie zobaczył\"",
+    "is_checked": true,
+    "content": "Pani na Religi kazała narysować klasie Matkę Boską.\nPo 40 minutach zbiera rysunki i ocenia.\n- Bardzo ładnie Marysiu, śliczna suknia, masz 6.\nO, Krzysio narysował z małym Jezuskiem, świetnie, też masz 6.\nW końcu dochodzi do pracy Jasia i widzi cycatą blondynę w miniówce i na szpilkach. \nPrzestraszona krzyczy:\n- Jasiu bój się Boga! Kto ci powiedział że tak Maryja wygląda?!\n- Ksiądz.\n- Jak to ksiądz? Nie kłam!\n- No ksiądz. Widziałem jak wychodziła nad ranem z plebani, a ksiądz powiedział: \"Matko Boska, żeby cię tylko nikt nie zobaczył\"",
     "rate": 304,
     "date": "09.12.2015",
     "author": "kalafior"
   },
   {
     "id": "6584",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Jedzie baca bryczką przez granicę. Zatrzymuje go żołnierz i pyta:\n- Co wieziecie w tej beczce baco?\n- Sok z banana.\n- Ale banan nie ma soku.\n- To masz pan, spróbuj.\nŻołnierz próbuje. Krzywi się i mówi:\n- Fuj, a jedź se baco dalej.\nNa to baca do konia:\n- Wio Banan!",
     "rate": 221,
     "date": "08.12.2015",
@@ -5857,31 +5861,31 @@
   },
   {
     "id": "6583",
-    "is_checked": false,
-    "content": "Pijak podchodzi do policjanta i pyta: \n- panie władzo, można na pana policjanta powiedzieć Ty ośle? \n- nie bo to jest obraza funkcjonariusza! \n- a na osła, panie policjancie? \n- wydaje mi się, że można! \n- dobrze, dziękuję panie policjancie!",
+    "is_checked": true,
+    "content": "Pijak podchodzi do policjanta i pyta: \n- Panie władzo, można na pana policjanta powiedzieć Ty ośle? \n- Nie bo to jest obraza funkcjonariusza! \n- A na osła, panie policjancie? \n- Wydaje mi się, że można. \n- Dobrze, dziękuję panie policjancie!",
     "rate": 123,
     "date": "08.12.2015",
     "author": null
   },
   {
     "id": "6582",
-    "is_checked": false,
-    "content": "Żona do męża:\n-Chce rozwodu! Co chwile wytykasz mi to, że jestem gruba!\n-Kochanie nie wygłupiaj się, nie róbmy tego choćby ze względu na dziecko..\n-Co? Jakie dziecko? \n-To nie jesteś w ciąży?",
+    "is_checked": true,
+    "content": "Żona do męża:\n- Chcę rozwodu! Co chwilę wytykasz mi to, że jestem gruba!\n- Kochanie nie wygłupiaj się, nie róbmy tego choćby ze względu na dziecko.\n- Co? Jakie dziecko? \n- To ty nie jesteś w ciąży?",
     "rate": 205,
     "date": "07.12.2015",
     "author": "JadziaG."
   },
   {
     "id": "6580",
-    "is_checked": false,
-    "content": "Ksiądz przychodzi do spowiedzi i mówi: \n- proszę księdza bo ja w czasie wojny ukrywałem żyda w piwnicy \n- to nie jest zły uczynek \n- no ale proszę księdza on mi płacił 100 złotych dziennie \n- to nic ryzykowałeś życie \nDziadek odchodzi ale po chwili wraca i mówi: \n- to może powinienem mu powiedzieć że wojna się już skończyła?",
+    "is_checked": true,
+    "content": "Dziadek przychodzi do spowiedzi i mówi: \n- Proszę księdza, bo ja w czasie wojny ukrywałem żyda w piwnicy \n- To nie jest zły uczynek \n- No, ale proszę księdza on mi płacił 100 złotych dziennie \n- To nic, ryzykowałeś życie \nDziadek odchodzi, ale po chwili wraca i mówi: \n- To może powinienem mu powiedzieć że wojna się już skończyła?",
     "rate": 420,
     "date": "07.12.2015",
     "author": "JadziaG."
   },
   {
     "id": "6578",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na akademii medycznej skacowani studenci mają zajęcia z anatomii i pierwszy raz mają być świadkami sekcji zwłok. Stoją wokół łóżka z ciałem. Prowadzący zajęcia nagłym ruchem ściąga prześcieradło i oczom wszystkich ukazuje się topielec w drugim tygodniu rozkładu.\nDłonie studenciaków wędrują w kierunku ust, a profesor ze stoickim spokojem zaczyna wykład:\n- Podczas tych zajęć dowiecie się jakie są dwie najważniejsze rzeczy cechujące lekarza. Po pierwsze: brak jakiegokolwiek obrzydzenia. Po tych słowach lekarz wpycha palec w dupę topielca, po czym go wyjmuje i, ku obrzydzeniu studentów, oblizuje.\n- Teraz - mówi - wszyscy, którym zależy na zaliczeniu mają to powtórzyć!\nStudenci medycyny to sami twardziele. Podchodzą i robią co im profesor kazał: palec w dupę, palec w buzię. Co drugi nie daje rady i po wszystkim wymiotuje. Gdy wszyscy skończyli profesor mówi:\n- I tak dochodzimy, do drugiej istotnej cechy dobrego lekarza: umiejętność obserwacji. Ja wsadziłem środkowy palec, a oblizałem wskazujący.\nNa przyszłość proszę o więcej uwagi.",
     "rate": 433,
     "date": "07.12.2015",
@@ -5889,7 +5893,7 @@
   },
   {
     "id": "6576",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona dzwoni do męża do pracy:\n- Kochanie rano przez pomyłkę zamiast tabletek na rozwolnienie dałam ci na uspokojenie. Wszystko w porządku u ciebie? Jak się czujesz?\n- Osrany, ale spokojny.",
     "rate": 639,
     "date": "07.12.2015",
@@ -5897,31 +5901,31 @@
   },
   {
     "id": "6575",
-    "is_checked": false,
-    "content": "Nekrofil i kanibal mieszkają razem.\nNekrofil otwiera lodówkę i się pyta\" Ty, będziesz to jadł, czy mogę to wyjebać?\"",
+    "is_checked": true,
+    "content": "Nekrofil i kanibal mieszkają razem. Nekrofil otwiera lodówkę i się pyta: \n- Ty, będziesz to jadł, czy mogę to wyjebać?",
     "rate": 92,
     "date": "07.12.2015",
     "author": null
   },
   {
     "id": "6571",
-    "is_checked": false,
-    "content": "Co mówi ateista gdy po śmierci staje przed bramami Raju?\n\n- No k***a, nie wierzę!",
+    "is_checked": true,
+    "content": "Co mówi ateista, gdy po śmierci staje przed bramami Raju?\n- No kur*a, nie wierzę!",
     "rate": 163,
     "date": "06.12.2015",
     "author": "Remik"
   },
   {
     "id": "6569",
-    "is_checked": false,
-    "content": "Pani pyta Jasia na lekcji, a on do niej:\n-spierdalaj\nPani się zdenerwowała i mówi:\n-Jasiu idziemy do dyrektora, \na Jasiu na to:\n-nie idę do dyrektora bo mu śmierdzą nogi\nPani siłą zaciągnęła jasia do gabinetu dyrektora i opowiedziała wszystko. \nDyrektor zabrał mu telefon i dzwoni do jego ojca, a tam słychać:\n-Dzień dobry tu Ministerstwo Edukacji Narodowej ...\nDyrektor szybko rozłączył, a nauczycielka mówi, że chyba jego ojciec tam pracuje i co my teraz zrobimy?\nA dyrektor na to: \n-No cóż ja idę umyć nogi a pani niech spierdala",
+    "is_checked": true,
+    "content": "Pani pyta Jasia na lekcji, a on do niej:\n- Spierdalaj\nPani się zdenerwowała i mówi:\n- Jasiu idziemy do dyrektora, \nA Jasiu na to:\n- Nie idę do dyrektora, bo mu śmierdzą nogi\nPani siłą zaciągnęła Jasia do gabinetu dyrektora i opowiedziała wszystko. \nDyrektor zabrał mu telefon i dzwoni do jego ojca, a tam słychać:\n- Dzień dobry tu Ministerstwo Edukacji Narodowej ...\nDyrektor szybko rozłączył, a nauczycielka mówi, że chyba jego ojciec tam pracuje i co my teraz zrobimy?\nA dyrektor na to: \n- No cóż ja idę umyć nogi, a pani niech spierdala",
     "rate": 324,
     "date": "05.12.2015",
     "author": "romasko74"
   },
   {
     "id": "6565",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Po kilkumiesięcznej namiętnej znajomości dziewczyna pyta swojego wybranka: \n- Znamy się już tak długo. Czy nie powinieneś przedstawić mnie swojej rodzinie?\n- Jak sobie życzysz. Ale w tym tygodniu to jest niemożliwe. Żona z dziećmi wyjechała do teściów.",
     "rate": 253,
     "date": "04.12.2015",
@@ -5929,7 +5933,7 @@
   },
   {
     "id": "6564",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Jedzie chłopak z dziewczyną autem. \nChłopak kieruje, a dziewczyna siedzi z tyłu. \nChłopak się odwraca: \nOna: \n- Patrz na drogę! \n- Patrz przed siebie, idioto! \n- Na miłość boską, patrz gdzie jedziesz! \nOn - nie wytrzymuje: \nZamknij ryj kretynko - cofam!",
     "rate": 595,
     "date": "04.12.2015",
@@ -5937,7 +5941,7 @@
   },
   {
     "id": "6560",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Dlaczego w przypadku katastrof kobiety i dzieci ewakuuje się jako pierwsze?\n- Żeby mężczyźni mogli pomyśleć nad rozwiązaniem w ciszy i spokoju.",
     "rate": 282,
     "date": "01.12.2015",
@@ -5945,7 +5949,7 @@
   },
   {
     "id": "6559",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona do męża:\n- Ok. Mów po dobroci jak było, bo jak sama sobie wymyślę to dopiero będziesz miał przejebane!",
     "rate": 455,
     "date": "01.12.2015",
@@ -5953,15 +5957,15 @@
   },
   {
     "id": "6557",
-    "is_checked": false,
-    "content": "Był sobie dom - parter i dwa piętra. Na parterze mieszkali Cyganie, na pierwszym piętrze Murzyni, a na drugim biali. Pewnego dnia w dom walnął samolot, przeżyli tylko biali. Dlaczego?\n- Bo byli w pracy",
+    "is_checked": true,
+    "content": "Był sobie dom - parter i dwa piętra. Na parterze mieszkali Cyganie, na pierwszym piętrze Murzyni, a na drugim biali. Pewnego dnia w dom uderzył samolot, przeżyli tylko biali. Dlaczego?\n- Bo byli w pracy",
     "rate": 627,
     "date": "01.12.2015",
     "author": null
   },
   {
     "id": "6556",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Dzwonek do drzwi. Za drzwiami dziecko:\n- Dzień dobry pani.\n- A to ty Piotrusiu. Co się stało?\n- Tata mnie przysłał, bo dłubie przy motorze i nie może sobie dać sam rady.\n- Stary, rusz się i idź pomóż sąsiadowi.\n- Tata jeszcze mówił, żeby pan sąsiad wziął taki specjalny klucz, bo tata nie ma w garażu.\n- A jaki?\n- Szklaną pięćdziesiątkę...",
     "rate": 235,
     "date": "01.12.2015",
@@ -5969,7 +5973,7 @@
   },
   {
     "id": "6555",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rozmawiają dwie przyjaciółki:\n- Wiesz, mój Romek prawie mi się wczoraj oświadczył\n- Jak to prawie?\n- No tak na 50%\n- Czemu na 50 %?\n- Zapytał: Wyjdziesz?",
     "rate": 202,
     "date": "01.12.2015",
@@ -5977,7 +5981,7 @@
   },
   {
     "id": "6554",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Pewien gość, właściciel sklepu, bardzo nie lubił Chińczyków. Pewnego dnia przyszedł do niego Chińczyk i pyta: \n- Ma Pan Whiskas? Potrzebuję go dla mój kot. \n- A gdzie masz tego kota? - pyta sprzedawca. \n- No ja kot zostawić w domu, ja go nie brać ze sobą do sklep. \n- To jak go przyniesiesz, to ja ci sprzedam ten Whiskas. \nChińczyk rad nie rad poszedł po kota do domu, a gdy wrócił otrzymał Whiskas. Dwa dni później przychodzi ponownie, ale tym razem prosi: \n- Ja chcieć kupić Pedigree dla mój pies. \nSprzedawca pyta: \n- A gdzie masz tego psa? Bez niego ci nic nie sprzedam! \nChińczyk oburzony: \n- Ja nie chodzić z pies na zakupy! \n- Bez psa nie wracaj! - burknął sprzedawca. Tak się i stało, po przyjściu z psem, Chińczyk otrzymał swój Pedigree. \nNastępnego dnia Chińczyk przychodzi do sklepu z dużą papierową torbą i mówi do sprzedawcy: \n- Pan tu włożyć ręka. \n- A po co? \n- Pan włożyć \nSprzedawca wkłada rękę do torby, a Chińczyk mówi: \n- Pan pomacać! Miękkie? \n- No tak... \n- Ciepłe? \n- No tak... \nNa to Chińczyk uprzejmym głosem prosi: \n- Ja chcieć kupić papier toaletowy!",
     "rate": 350,
     "date": "30.11.2015",
@@ -5985,15 +5989,15 @@
   },
   {
     "id": "6553",
-    "is_checked": false,
-    "content": "Pewnego dnia szef dużego biura zauważył nowego pracownika. Kazał mu przyjść do swego pokoju. \n- Jak się nazywasz? \n- Jurek - odparł nowy. \nSzef się skrzywił: \n- Słuchaj, nie dociekam, gdzie wcześniej pracowałeś i w jakiej atmosferze, ale ja nie zwracam się do nikogo w mojej firmie po imieniu. To rodzi poufałość i może zniszczyć mój autorytet. Zwracam się do \npracowników tylko po nazwisku, np. Kowalski, Malinowski. Jeśli wszystko jasne, to jakie jest twoje nazwisko? \n- Kochany - westchnął nowy. - Nazywam się Jerzy Kochany. \n- Dobra, Jurek, omówmy następną sprawę.",
+    "is_checked": true,
+    "content": "Pewnego dnia szef dużego biura zauważył nowego pracownika. Kazał mu przyjść do swego pokoju. \n- Jak się nazywasz? \n- Jurek - odparł nowy. \nSzef się skrzywił: \n- Słuchaj, nie dociekam, gdzie wcześniej pracowałeś i w jakiej atmosferze, ale ja nie zwracam się do nikogo w mojej firmie po imieniu. To rodzi poufałość i może zniszczyć mój autorytet. Zwracam się do pracowników tylko po nazwisku, np. Kowalski, Malinowski. Jeśli wszystko jasne, to jakie jest twoje nazwisko? \n- Kochany - westchnął nowy. - Nazywam się Jerzy Kochany. \n- Dobra, Jurek, wracaj do pracy.",
     "rate": 286,
     "date": "30.11.2015",
     "author": null
   },
   {
     "id": "6552",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kobieta powinna umieć 70 rzeczy: 69 i gotować.",
     "rate": 104,
     "date": "30.11.2015",
@@ -6001,15 +6005,15 @@
   },
   {
     "id": "6542",
-    "is_checked": false,
-    "content": "Mąż dostał awans w pracy i z tej okazji żona postanowiła kupić mu nowy garnitur.  \n- proszę Kochanie tylko dbaj o niego, nie zniszcz, nie ubrudź, był na prawdę drogi.\nTak się złożyło że przy następnej okazji świętowania tegoż awansu Mąż wyszedł na imprezę w tym właśnie garniturze. Poszli z kumplem.. bar, alkohol, dużo alkoholu... Zgon totalny. Gościu się obrzygał.\nCały garnitur ufajdany..\nBiedny mówi do kumpla:\n- Stefan... co ja teraz zrobię? Jak jak się pokaże żonie? Mówiła żebym dbał, bo drogi itd. A ja się cały rzygałem.. Ona mnie zabije!\n- Spokojnie. Coś wymyślimy...\nStefan myśli, myśli i wymyślił:\n- słuchaj, zrobimy tak: powiesz żonie że byłeś w knajpie, trafiłeś na pijanego gościa i on Cie obrzygał i że był na tyle w porządku że dał Ci dychę na pranie. I kumpel wsunął mu kasę do kieszonki marynarki.\nObrzygany mąż:\n- ty to jest dobry pomysł, zadziała ;)\nWraca do domu, drzwi otwiera żona:\n- jak ty wyglądasz !? coś ty ze sobą zrobił!? i ten garnitur! mówiłam !\n- poczekaj.... nie wiesz wszystkiego. Byłem w barze, wpadłem na pijanego gościa i porostu mnie obrzygał ale był na tyle w porządku że dał mi dychę na pranie.\nWyciąga z kieszeni, daje żonie banknot. A ona:\n- ale tutaj masz dwie dychy...\n- aaa, przepraszam.. jeszcze jeden nasrał mi w gacie.",
+    "is_checked": true,
+    "content": "Mąż dostał awans w pracy i z tej okazji żona postanowiła kupić mu nowy garnitur. \n- Proszę Kochanie tylko dbaj o niego, nie zniszcz, nie ubrudź, był na prawdę drogi.\nTak się złożyło że przy następnej okazji świętowania tegoż awansu mąż wyszedł na imprezę w tym właśnie garniturze. Poszli z kumplem. Bar, alkohol, dużo alkoholu... Zgon totalny. Gościu się obrzygał. Cały garnitur ufajdany. Biedny mówi do kumpla:\n- Stefan... co ja teraz zrobię? Jak jak się pokaże żonie? Mówiła żebym dbał, bo drogi itd. A ja się cały zarzygałem.. Ona mnie zabije!\n- Spokojnie. Coś wymyślimy...\nStefan myśli, myśli i wymyślił:\n- Słuchaj, zrobimy tak: powiesz żonie że byłeś w knajpie, trafiłeś na pijanego gościa i on Cie obrzygał i że był na tyle w porządku że dał Ci dychę na pranie. I kumpel wsunął mu kasę do kieszonki marynarki.\nObrzygany mąż:\n- Ty to jest dobry pomysł, zadziała!\nWraca do domu, drzwi otwiera żona:\n- Jak ty wyglądasz!? Coś ty ze sobą zrobił!? I ten garnitur! Mówiłam !\n- Poczekaj.... nie wiesz wszystkiego. Byłem w barze, wpadłem na pijanego gościa i poprostu mnie obrzygał, ale był na tyle w porządku że dał mi dychę na pranie.\nWyciąga z kieszeni, daje żonie banknot. A ona:\n- Ale tutaj masz dwie dychy...\n- Aaaa, przepraszam.. jeszcze jeden nasrał mi w gacie.",
     "rate": 138,
     "date": "24.11.2015",
     "author": "wąski882"
   },
   {
     "id": "6541",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rozmowa w sklepie:\n- A sąsiadka to ciągle nowiuśkimi banknotami płaci.\n- Bo mam w domu specjalną maszynkę do robienia pieniędzy.\n- Co pani powie! I to jest legalne?\n- W 100% legalne, tylko strasznie chrapie.",
     "rate": 186,
     "date": "23.11.2015",
@@ -6017,7 +6021,8 @@
   },
   {
     "id": "6538",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Przychodzi baba do lekarza.\n- Panie doktorze! Jak siadam na kiblu i robię klocka, to mi się ząb rusza...\nDoktor myśli, myśli, myśli... W końcu diagnoza:\n- Proszę odwijać nici z rolady.",
     "rate": 187,
     "date": "20.11.2015",
@@ -6025,7 +6030,7 @@
   },
   {
     "id": "6534",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Dlaczego Szkoci noszą kilty?\n- Żeby owce nie usłyszały rozpinania rozporka.",
     "rate": 96,
     "date": "20.11.2015",
@@ -6033,15 +6038,15 @@
   },
   {
     "id": "6533",
-    "is_checked": false,
-    "content": "Za oknem ciągle pada ..... moja żona stoi smutna w oknie ...\nJeszcze trochę tak popada i będę musiał ją wpuścić.",
+    "is_checked": true,
+    "content": "Za oknem ciągle pada ..... \nmoja żona stoi smutna w oknie .....\njeszcze trochę tak popada i będę musiał ją wpuścić.",
     "rate": 252,
     "date": "20.11.2015",
     "author": "Powolniak"
   },
   {
     "id": "6530",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona do męża wracającego z pracy:\n- To nawet mi buzi nie dasz?!\n- Kobieto, po dwóch latach małżeństwa, jeszcze ci orgie w głowie...",
     "rate": 142,
     "date": "20.11.2015",
@@ -6049,31 +6054,31 @@
   },
   {
     "id": "6525",
-    "is_checked": false,
-    "content": "Jeśli drogę przebiegnie ci czarna babcia, czarna\nwnuczka, czarny Mruczek, czarna Kicia, czarna kurka, czarna gąska, czarny bociek, czarna żabka, a na\nostatku kawka, też czarna, to znaczy, że dziadek\nzamiast rzepki wyciągnął kabel wysokiego napięcia.",
+    "is_checked": true,
+    "content": "Jeśli drogę przebiegnie ci czarna babcia, czarna wnuczka, czarny Mruczek, czarna Kicia, czarna kurka, czarna gąska, czarny bociek, czarna żabka, a na ostatku kawka, też czarna, to znaczy, że dziadek zamiast rzepki wyciągnął kabel wysokiego napięcia.",
     "rate": 102,
     "date": "20.11.2015",
     "author": "Powolniak"
   },
   {
     "id": "6521",
-    "is_checked": false,
-    "content": "Puk, puk\n-Kto tam?\n-Śmierć!\n-A idź w chuj!\n-To piszemy - rak prostaty...",
+    "is_checked": true,
+    "content": "Puk, puk\n- Kto tam?\n- Śmierć!\n- A idź w chuj!\n- To piszemy - rak prostaty...",
     "rate": 319,
     "date": "20.11.2015",
     "author": "Powolniak"
   },
   {
     "id": "6520",
-    "is_checked": false,
-    "content": "Wagon sypialny, dwóch gości na piętrowym łóżku... ten na dole krzyczy do gościa z góry:\n-Panie! Obudź się Pan ... zesrał się Pan i na mnie cieknie!\n-Nie śpię !",
+    "is_checked": true,
+    "content": "Wagon sypialny, dwóch gości na piętrowym łóżku... ten na dole krzyczy do gościa z góry:\n- Panie! Obudź się Pan ... zesrał się Pan i na mnie cieknie!\n- Nie śpię!",
     "rate": 159,
     "date": "20.11.2015",
     "author": "Powolniak"
   },
   {
     "id": "6518",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Do miasta przyjechał kowboj i wszedł do saloonu na drinka. Niestety, miejscowi mieli brzydki zwyczaj ograbiania przyjezdnych. Kiedy skończył swojego drinka, zauważył że zniknął jego koń. Wrócił do baru, rzucił broń do góry, złapał nad głową bez patrzenia i strzelił w sufit:\n- Który z was, popaprańców, ukradł mi konia? - krzyknął z zaskakującą siłą. \nNikt nie odpowiedział.\n- Dobra, teraz zamówię kolejne piwo i jeśli mój koń się nie pojawi z powrotem, zanim je skończę, będę musiał zrobić to, co zrobiłem w Teksasie! A nie chcę robić tego, co zrobiłem w Teksasie!\nKilku miejscowych poruszyło się niespokojnie. Kowboj, jak powiedział, tak zrobił - zamówił kolejne piwo, wypił je, wyszedł przed lokal, a jego koń stał na postoju. Osiodłał go i zamierzał odjechać, kiedy na werandzie pojawił się barman i zapytał:\n- Powiedz stary, zanim odjedziesz... Co się stało w Teksasie? \nKowboj odwrócił się i powiedział:\n- Musiałem wracać pieszo.",
     "rate": 160,
     "date": "20.11.2015",
@@ -6081,15 +6086,16 @@
   },
   {
     "id": "6515",
-    "is_checked": false,
-    "content": "Rozmawiają dwie świnie w rzeźni ;\n-co boisz się ?\n-no trochę \n- a co pierwszy raz w rzeźni ?\n- nie ku..... drugi",
+    "is_checked": true,
+    "content": "Rozmawiają dwie świnie w rzeźni: \n- Co boisz się ?\n- No trochę \n- A co pierwszy raz w rzeźni ?\n- Nie kur*a, drugi!",
     "rate": 297,
     "date": "20.11.2015",
     "author": "pit"
   },
   {
     "id": "6514",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Do lekarza przychodzi kobieta. W poczekalni zastaje mężczyznę.\n- Czy pan jest ostatni? - Zagaduje.\n- Nie proszę pani, taki ostatni to ja nie jestem! Widziałem gorszych!\n- Ale czeka pan w kolejce?\n- Nie, proszę pani, w poczekalni....\n- Pytam, czy stoi pan na końcu.\n- Skąd pani to przyszło do głowy? Stoję na nogach!\n- Cham! - Woła zdenerwowana kobieta. - Niech mnie pan w d... pocałuje!\n- Proszę pani... - Wzdycha mężczyzna. Ja tu przyszedłem po receptę dla żony, a nie żeby się z panią pieścić...",
     "rate": 126,
     "date": "18.11.2015",
@@ -6097,15 +6103,15 @@
   },
   {
     "id": "6513",
-    "is_checked": false,
-    "content": "Dwóch generałów - desantowiec i czołgista, przechwala się, który ma odważniejszych żołnierzy, w końcu jeden z nich mówi:\n- No dobra, to ja Ci pokażę, że u mnie, w desancie są najodważniejsze chłopaki, patrz:\n- Szeregowy!\nPodbiega jakiś koleś, salutuje i krzyczy:\n- Tak jest!\n- Widzicie ten czołg?\n- Tak jest!\n- Powstrzymajcie go własnym ciałem!\n- Oj***ło Cię? Przecież by mnie k***a zmiażdżył!\nA Generał obraca się do kumpla i mówi:\n- Niezłe co? Jaką odwagę trzeba mieć, aby tak odpowiedzieć generałowi!",
+    "is_checked": true,
+    "content": "Dwóch generałów - desantowiec i czołgista, przechwala się, który ma odważniejszych żołnierzy. W końcu jeden z nich mówi:\n- No dobra, to ja Ci pokażę, że u mnie, w desancie są najodważniejsze chłopaki, patrz:\n- Szeregowy!\nPodbiega jakiś koleś, salutuje i krzyczy:\n- Tak jest!\n- Widzicie ten czołg?\n- Tak jest!\n- Powstrzymajcie go własnym ciałem!\n- Poje*ało Cię? Przecież by mnie kur*a zmiażdżył!\nA Generał obraca się do kumpla i mówi:\n- Niezłe co? Jaką odwagę trzeba mieć, aby tak odpowiedzieć generałowi!",
     "rate": 251,
     "date": "18.11.2015",
     "author": null
   },
   {
     "id": "6512",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Świeża żona mówi do męża:\n- Teraz, kiedy jesteśmy po ślubie, lepiej przestań grać w golfa. Sam zobacz - jak sprzedasz sprzęt, będziemy mogli sobie pozwolić na nowe meble do kuchni.\n- Gadasz jak moja była żona.\n- Była?! Nie mówiłeś mi, że byłeś żonaty!\n- Bo nie byłem.",
     "rate": 112,
     "date": "18.11.2015",
@@ -6113,7 +6119,8 @@
   },
   {
     "id": "6511",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Świeża żona mówi do męża:\n- Teraz, kiedy jesteśmy po ślubie, lepiej przestań grać w golfa. Sam zobacz - jak sprzedasz sprzęt, będziemy mogli sobie pozwolić na nowe meble do kuchni.\n- Gadasz jak moja była żona.\n- Była?! Nie mówiłeś mi, że byłeś żonaty!\n- Bo nie byłem.",
     "rate": 75,
     "date": "18.11.2015",
@@ -6121,87 +6128,87 @@
   },
   {
     "id": "6509",
-    "is_checked": false,
-    "content": "- Wczoraj dostałem od żony SMS-a ?Gdzie ty kur*a jesteś?\n- Pamiętasz kochanie tego jubilera, u którego widziałaś taki piękny naszyjnik ostatnio?\n- Tak!\n- Piję w barze obok",
+    "is_checked": true,
+    "content": "- Żona pisze do męża SMS-a: \n- Gdzie ty kur*a jesteś?\n- Pamiętasz kochanie tego jubilera, u którego widziałaś taki piękny naszyjnik ostatnio?\n- Tak!\n- Piję w barze obok",
     "rate": 194,
     "date": "15.11.2015",
     "author": "Grzegorz F."
   },
   {
     "id": "6508",
-    "is_checked": false,
-    "content": "Polak, Rusek i Amerykanin spierają się który z ich krajów ma większego King-Konga.\nAmerykanin mówi:\n- My w Ameryce mamy takiego King Konga, że jeden jego palec ledwo mieści się w Wielkim Kanionie...\nNa to Rusek:\n- Nasz King Kong jest tak potężny, że jedną nogą stoi w Moskwie, a drugą za Uralem, a na dwóch wyciągniętych łapach trzyma dwie wielkie olbrzymie planety!\n- Widzisz - mówi Polak - bo to są  jaja polskiego King-Konga.",
+    "is_checked": true,
+    "content": "Polak, Rusek i Amerykanin spierają się który z ich krajów ma większego King-Konga.\nAmerykanin mówi:\n- My w Ameryce mamy takiego King Konga, że jeden jego palec ledwo mieści się w Wielkim Kanionie...\nNa to Rusek:\n- Nasz King Kong jest tak potężny, że jedną nogą stoi w Moskwie, a drugą za Uralem, a na dwóch wyciągniętych łapach trzyma dwie wielkie olbrzymie planety!\n- Widzisz - mówi Polak - bo to są jaja polskiego King-Konga.",
     "rate": 153,
     "date": "15.11.2015",
     "author": "AMka"
   },
   {
     "id": "6507",
-    "is_checked": false,
-    "content": "Dlaczego jaskiniowcy ciągli swoją kobietę do jaskini za włosy ?\n\n- bo gdyby ciągli a nogi to by piachu nabrała",
+    "is_checked": true,
+    "content": "Dlaczego jaskiniowcy ciągali swoją kobietę do jaskini za włosy?\n- Bo gdyby ciągali za nogi to by piachu nabrała",
     "rate": 104,
     "date": "15.11.2015",
     "author": null
   },
   {
     "id": "6503",
-    "is_checked": false,
-    "content": "Dwa Niedźwiedzie budzą się na wiosnę. Jeden mówi do drugiego:\n- Ty strasznie chce mi się r****a - drugi na to:\n- No mi też. Znajdźmy jakieś samice to je wy****Amy. \nSzukali dzień, dwa, trzeciego wkurwili się i jeden proponuje:\n- Wiesz tak mi się chce ruchać że nie wytrzymam. Chodź w krzaki, ja ciebie, ty mnie i gitara.\n- Okej - więc idą w te krzaki, już mieli zaczynać...\n- Patrz, zając!\n- Łap go, bo rozpowie po lesie i wstyd będzie! - zając widząc co się święci daje w długą, a za nim niedźwiedzie. Nagle zając nurkuje w jeziorze, a za nim obaj desperaci. Jeden z nich wynurza się i trzymając za ogon bobra pyta go:\n- Widziałeś zająca? \nBóbr na to:\n- S****dala pedale.",
+    "is_checked": true,
+    "content": "Dwa Niedźwiedzie budzą się na wiosnę. Jeden mówi do drugiego:\n- Ty, strasznie chce mi się ruchać - drugi na to:\n- No mi też. Znajdźmy jakieś samice to je wyje*iemy. \nSzukali dzień, dwa, trzeciego wkur*ili się i jeden proponuje:\n- Wiesz, tak mi się chce ruchać że nie wytrzymam. Chodź w krzaki, ja ciebie, ty mnie i gitara.\n- Okej. \nWięc idą w te krzaki, już mieli zaczynać...\n- Patrz, zając!\n- Łap go, bo rozpowie po lesie i wstyd będzie! \nZając widząc co się święci daje w długą, a za nim niedźwiedzie. Nagle zając nurkuje w jeziorze, a za nim obaj desperaci. Jeden z nich wynurza się i trzymając za ogon bobra pyta go:\n- Widziałeś zająca? \nBóbr na to:\n- Spier*alaj pedale.",
     "rate": 148,
     "date": "14.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6501",
-    "is_checked": false,
-    "content": "Facet dostał na urodziny papugę. Szybko zorientował się, ze ma ona okropny nawyk przeklinania i rzuca mimochodem co drugie słowo. Cóż miał jednak zrobić - wyrzucić żal, zawsze to jakiś towarzysz, zresztą prezent. Wiele dni starał się walczyć ze słownictwem papugi. Mówił do niej miłe słowa, puszczał łagodną, klasyczną muzykę, robił wszystko, żeby dać papudze dobry przykład. Słowem - pełna poświęcenia terapia i wszystko na nic.\nPewnego dnia, kiedy papuga wstała lewą noga i była wyjątkowo wredna, facet nie wytrzymał. Zaczął krzyczeć, ale papuga darła się głośniej. Potrząsnął nią. Wtedy nie dość, ze go zbluzgała, to jeszcze dostał parę razy dziobem. Zdesperowany wrzucił ptaszysko do zamrażarki, zatrzasnął drzwi, oparł się o nie i zsunął w dół. Papuga rzuciła się kilka razy o ściany zamrażarki, coś zabełkotała i nagle wszystko ucichło.\nFacet ochłonął trochę, zaczął mieć wyrzuty sumienia. Otworzył szybko drzwi zamrażarki. Papuga milcząc weszła na jego wyciągnięte ramie i powiedziała:\n- \"Najmocniej przepraszam, ze uraziłam pana moim słownictwem i zachowaniem. Proszę o przebaczenie, dołożę wszelkich starań, aby się poprawić i nie dopuścić do podobnych scen w przyszłości\".\nFacet był w szoku, już otwierał usta, żeby zapytać, co spowodowało tak radykalna zmianę, kiedy odezwała się papuga:\n- \"Czy mogę pana uprzejmie zapytać: co zrobił kurczak?\"",
+    "is_checked": true,
+    "content": "Facet dostał na urodziny papugę. Szybko zorientował się, ze ma ona okropny nawyk przeklinania i rzuca mimochodem co drugie słowo. Cóż miał jednak zrobić - wyrzucić żal, zawsze to jakiś towarzysz, zresztą prezent. Wiele dni starał się walczyć ze słownictwem papugi. Mówił do niej miłe słowa, puszczał łagodną, klasyczną muzykę, robił wszystko, żeby dać papudze dobry przykład. Słowem - pełna poświęcenia terapia i wszystko na nic.\nPewnego dnia, kiedy papuga wstała lewą noga i była wyjątkowo wredna, facet nie wytrzymał. Zaczął krzyczeć, ale papuga darła się głośniej. Potrząsnął nią. Wtedy nie dość, ze go zbluzgała, to jeszcze dostał parę razy dziobem. Zdesperowany wrzucił ptaszysko do zamrażarki, zatrzasnął drzwi, oparł się o nie i zsunął w dół. Papuga rzuciła się kilka razy o ściany zamrażarki, coś zabełkotała i nagle wszystko ucichło.\nFacet ochłonął trochę, zaczął mieć wyrzuty sumienia. Otworzył szybko drzwi zamrażarki. Papuga milcząc weszła na jego wyciągnięte ramie i powiedziała:\n- \"Najmocniej przepraszam, że uraziłam pana moim słownictwem i zachowaniem. Proszę o przebaczenie, dołożę wszelkich starań, aby się poprawić i nie dopuścić do podobnych scen w przyszłości\".\nFacet był w szoku, już otwierał usta, żeby zapytać, co spowodowało tak radykalna zmianę, kiedy odezwała się papuga:\n- \"Czy mogę pana uprzejmie zapytać: co zrobił kurczak?\"",
     "rate": 281,
     "date": "14.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6500",
-    "is_checked": false,
-    "content": "Biegnie myszka po lesie i spotyka łosia. Podbiega do niego od tyłu, patrzy i szepcze:\n- Niesamowite!\nPodbiega z przodu, patrzy i szepcze:\n- Niepojęte!\nZnowu obiega łosia, patrzy od tyłu i szepcze:\n- Niesamowite!\nI ponownie biegiem dookoła łosia. Patrzy od przodu i szepcze:\n- Niepojęte!\nI tak kilka razy. Łoś zdziwiony pyta myszkę:\n- O co Ci chodzi myszko?\n- Patrzę na Ciebie łosiu i nijak nie mogę zrozumieć: takie jaja i  takie rogi?!",
+    "is_checked": true,
+    "content": "Biegnie myszka po lesie i spotyka łosia. Podbiega do niego od tyłu, patrzy i szepcze:\n- Niesamowite!\nPodbiega z przodu, patrzy i szepcze:\n- Niepojęte!\nZnowu obiega łosia, patrzy od tyłu i szepcze:\n- Niesamowite!\nI ponownie biegiem dookoła łosia. Patrzy od przodu i szepcze:\n- Niepojęte!\nI tak kilka razy. Łoś zdziwiony pyta myszkę:\n- O co Ci chodzi myszko?\n- Patrzę na Ciebie łosiu i nijak nie mogę zrozumieć: takie jaja i takie rogi?!",
     "rate": 106,
     "date": "14.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6499",
-    "is_checked": false,
-    "content": "Wiosna. Mały niedźwiadek wytacza się z jaskini. Jest wychudzony, ledwie\nstoi na łapkach, oczka ma podkrążone... Zaniepokojona mama-niedźwiedzica \npyta:\n- Synku, co się stało? Czy na pewno na całą zimę poddałeś się \nhibernacji, jak prosiłam?\n- Hibernacji? Myślałem, że powiedziałaś masturbacji...",
+    "is_checked": true,
+    "content": "Wiosna. Mały niedźwiadek wytacza się z jaskini. Jest wychudzony, ledwie stoi na łapkach, oczka ma podkrążone... Zaniepokojona mama-niedźwiedzica pyta:\n- Synku, co się stało? Czy na pewno na całą zimę poddałeś się hibernacji, jak prosiłam?\n- Hibernacji? Myślałem, że powiedziałaś masturbacji...",
     "rate": 123,
     "date": "14.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6495",
-    "is_checked": false,
-    "content": "Facet w cyrku wychodzi na arenę z krokodylem. Staje na środku i kopie krokodyla w dupę. Krokodyl rozdziawił paszczę, a facet rozpina rozporek, wyciąga prącie i kładzie krokodylowi na zęby. Potem bierze deskę i panier... krokodyla po głowie. Krokodyl nic, tylko mu oczy z bólu łzawią. Po pięciu minutach panier...lanki wyciąga fiuta, krokodyl zamyka paszczę, a facet podchodzi do publiki i pyta:\n- Proszę państwa, kto z Państwa chce spróbować tego samego - gwarantuję pełnię bezpieczeństwa - bez obaw - nic nikomu się ni stanie!\nW cyrku cisza, przez dłuższy czas nikt się nie zgłasza, po chwili z trzeciego rzędu podnosi się stara babcia i mówi:\n- Ja tam może bym spróbowała, tylko żeby pan mnie tą deską po głowie tak nie walił...",
+    "is_checked": true,
+    "content": "Facet w cyrku wychodzi na arenę z krokodylem. Staje na środku i kopie krokodyla w dupę. Krokodyl rozdziawił paszczę, a facet rozpina rozporek, wyciąga prącie i kładzie krokodylowi na zęby. Potem bierze deskę i napier*ala krokodyla po głowie. Krokodyl nic, tylko mu oczy z bólu łzawią. Po pięciu minutach napier*alanki wyciąga fiuta, krokodyl zamyka paszczę, a facet podchodzi do publiki i pyta:\n- Proszę państwa, kto z Państwa chce spróbować tego samego - gwarantuję pełnię bezpieczeństwa - bez obaw - nic nikomu się nie stanie!\nW cyrku cisza, przez dłuższy czas nikt się nie zgłasza, po chwili z trzeciego rzędu podnosi się stara babcia i mówi:\n- Ja tam może bym spróbowała, tylko żeby pan mnie tą deską po głowie tak nie walił.",
     "rate": 225,
     "date": "14.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6493",
-    "is_checked": false,
-    "content": "Przychodzi facet do burdelu i mówi:\n- Macie murzynkę?\n- Tak - odpowiada burdel mama.\n- Dobra, biorę. \nFacet zapłacił, poszedł do wskazanego pokoju i mówi do murzynki\"\n- Rozłóż nogi...\nTa rozłożyła nogi, on popatrzył, popatrzył.... i wyszedł.\nMurzynka zapłakana wybiegła do burdel mamy i skarży się.\nBurdel mama pyta gościa:\n- Czy coś nie tak? Jakieś reklamacje?\n- Nie, nie... - odparł koleś. My z Józkiem kładziemy kafelki i chciałem tylko zobaczyć jak wygląda różowa fuga na brązowej płytce...",
+    "is_checked": true,
+    "content": "Przychodzi facet do burdelu i mówi:\n- Macie murzynkę?\n- Tak - odpowiada burdel mama.\n- Dobra, biorę. \nFacet zapłacił, poszedł do wskazanego pokoju i mówi do murzynki: \n- Rozłóż nogi!\nTa rozłożyła nogi, on popatrzył, popatrzył i wyszedł.\nMurzynka zapłakana wybiegła do burdel mamy i skarży się. Burdel mama pyta gościa:\n- Czy coś nie tak? Jakieś reklamacje?\n- Nie, nie... - odparł koleś. My z Józkiem kładziemy kafelki i chciałem tylko zobaczyć jak wygląda różowa fuga na brązowej płytce...",
     "rate": 115,
     "date": "13.11.2015",
     "author": "AMka"
   },
   {
     "id": "6489",
-    "is_checked": false,
-    "content": "Dwóch facetów gra w golfa, chcą szybko rozegrać partię, ale przed nimi grają dwie początkujące kobiety, którym bardzo wolno idzie gra. Jeden mówi do drugiego: \n- Idź do nich i zapytaj się, czy możemy je wyprzedzić? \nDrugi idzie, dochodzi do połowy, zatrzymuje się i szybko wraca. Pierwszy pyta: \n- Co się stało? \n- Słuchaj, ty musisz iść, bo jedna z nich to moja żona, a druga to moja kochanka! Nie mogę się z nimi równocześnie zobaczyć! \n- Ok, rozumiem, jasne. \nPierwszy podszedł do połowy, zatrzymał się i też wraca. Drugi pyta go: \n- No, co jest? \n- Jaki ten świat mały!",
+    "is_checked": true,
+    "content": "Dwóch facetów gra w golfa, chcą szybko rozegrać partię, ale przed nimi grają dwie początkujące kobiety, którym bardzo wolno idzie gra. Jeden mówi do drugiego: \n- Idź do nich i zapytaj się, czy możemy je wyprzedzić. \nDrugi idzie, dochodzi do połowy, zatrzymuje się i szybko wraca. Pierwszy pyta: \n- Co się stało? \n- Słuchaj, ty musisz iść, bo jedna z nich to moja żona, a druga to moja kochanka! Nie mogę się z nimi równocześnie zobaczyć! \n- Ok, rozumiem, jasne. \nPierwszy podszedł do połowy, zatrzymał się i też wraca. Drugi pyta go: \n- No, co jest? \n- Jaki ten świat mały!",
     "rate": 225,
     "date": "12.11.2015",
     "author": null
   },
   {
     "id": "6488",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żołnierz wrócił do domu po misji, nie jadł, nie pił, tylko od razu pognał do sypialni, aby spędzić upojną noc z żoną. Nad ranem Jasiu zagląda do sypialni i speszony szybko cofa się do korytarza:\n- Nie bój się, Jasiu. Wchodź śmiało! To ja, tatuś! - tłumaczy żołnierz.\n- Tak, tak? - mówi nieśmiało chłopiec. - Wszyscy tak mówią...",
     "rate": 169,
     "date": "12.11.2015",
@@ -6209,7 +6216,7 @@
   },
   {
     "id": "6487",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Pewnego razu niewidomy postanowił odwiedzić Teksas. Wsiada do samolotu teksańskich linii lotniczych i zapada się w miękkim, dużym fotelu. \n- Hej... - mówi niewidomy - ale duży fotel. \n- W Teksasie wszystko jest większe, niż gdzie indziej - mówi siedzący obok pasażer. \nKiedy niewidomy wylądował w Teksasie, pierwsze kroki skierował do baru. Dostał kufel, bada go dłońmi i mówi z podziwem: \n- Ale duże kufle tu macie. \n- W Teksasie wszystko jest większe niż gdzie indziej - mówi barman. \nPo kilku piwach niewidomy pyta barmana, gdzie jest toaleta. \n- Na drugim piętrze, trzecie drzwi po prawej - pada odpowiedź. \nNiewidomy idzie, ale gubi drogę i zamiast do toalety, wchodzi do sali z basenem. Potyka się, wpada do wody i przerażony krzyczy: \n- Nie spłukiwać! Nie spłukiwać!",
     "rate": 150,
     "date": "12.11.2015",
@@ -6217,7 +6224,7 @@
   },
   {
     "id": "6486",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Niedźwiadek kupił motorek. Zadowolony jedzie przez las i spotkał zajączka.\nPyta się:\n- Ty zając chcesz się przejechać?\n- No pewnie.\n- Wsiadaj.\nJadą przez las 40 na godzinę, 50, 60. Nagle niedźwiadek poczuł mocny uścisk i mokro. Pyta się:\n- Ty zając, zlałeś się ze strachu?\nNa to zajączek ze spuszczona głową.\n- Tak, zlałem się. Jechałeś bardzo szybko i się bałem.\nZając postanowił się odegrać. Zapożyczył się i kupił szybszy motorek. Szukał niedźwiadka. W końcu szczęśliwy znalazł. I pyta się:\n- Ty niedźwiedź chcesz się przejechać?\n- No pewnie.\nJadą przez las 40 na godzinę 50, 60, 70, 80. Nagle zajączek poczuł mocny uścisk i mokro. Szczęśliwy pyta się niedźwiadka:\n- Ty niedźwiedź, zlałeś się ze strachu?\nNa to niedźwiadek ze spuszczoną głową:\n- Tak, zlałem się. Jechałeś bardzo szybko i się bałem.\nZając szczęśliwy odpowiada.\n- No to się zaraz zesrasz, bo nie mogę dosięgnąć do hamulca.",
     "rate": 160,
     "date": "12.11.2015",
@@ -6225,7 +6232,7 @@
   },
   {
     "id": "6481",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Babciu, czemu masz takie wielkie oczy?\n- Wynoś się! Sram!",
     "rate": 167,
     "date": "11.11.2015",
@@ -6233,7 +6240,7 @@
   },
   {
     "id": "6480",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Mamo, jak poznałaś tatusia?\n- Dzięki nowoczesnej technologii.\n- Przez Internet?\n- Nie kochanie, testy DNA.",
     "rate": 125,
     "date": "11.11.2015",
@@ -6241,15 +6248,15 @@
   },
   {
     "id": "6479",
-    "is_checked": false,
-    "content": "Pierwszy stopień odwagi:\nO trzeciej nad ranem wracasz pijany do domu. Twoja żona stoi z miotłą w drzwiach, a ty pytasz:\n-Zamiatasz czy odlatujesz?\n\nDrugi stopień odwagi::\nO trzeciej nad ranem wracasz pijany do domu.\nŻona leży w łóżku nie śpi. Bierzesz krzesło i siadasz przy niej\nNa pytanie: \"Co to ma znaczyć?\" Odpowiadasz:\n-Chcę siedzieć w pierwszym rzędzie, jak zacznie się ten cyrk \n\nTrzeci stopień odwagi:\nO trzeciej nad ranem wracasz pijany do domu.\nCzuć od ciebie damskie perfumy, masz ślady szminki na kołnierzu. \nKlepiesz żonę w tyłek i mówisz:\n-Teraz twoja kolej!\n\nCzwarty stopień odwagi:\nO trzeciej nad ranem wracasz do domu pijany w towarzystwie dwóch ślicznotek\nStojącej żonie w drzwiach, mówisz:\n-Stara, nie bądź świnia, powiedz, że jesteś siostrą...",
+    "is_checked": true,
+    "content": "Pierwszy stopień odwagi:\nO trzeciej nad ranem wracasz pijany do domu. Twoja żona stoi z miotłą w drzwiach, a ty pytasz:\n-Zamiatasz czy odlatujesz?\n\nDrugi stopień odwagi:\nO trzeciej nad ranem wracasz pijany do domu. Żona leży w łóżku nie śpi. Bierzesz krzesło i siadasz przy niej, a na pytanie: \"Co to ma znaczyć?\" odpowiadasz:\n- Chcę siedzieć w pierwszym rzędzie, jak zacznie się ten cyrk. \n\nTrzeci stopień odwagi:\nO trzeciej nad ranem wracasz pijany do domu. Czuć od ciebie damskie perfumy, masz ślady szminki na kołnierzu. Klepiesz żonę w tyłek i mówisz:\n- Teraz twoja kolej!\n\nCzwarty stopień odwagi:\nO trzeciej nad ranem wracasz do domu pijany w towarzystwie dwóch ślicznotek, a stojącej żonie w drzwiach, mówisz:\n- Stara, nie bądź świnia, powiedz, że jesteś siostrą...",
     "rate": 202,
     "date": "11.11.2015",
     "author": "mati"
   },
   {
     "id": "6478",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Przychodzi facet do seksuologa. Ten go pyta:\n- Kiedy miał pan ostatnio stosunek?\n- Oj panie doktorze tak dawno, że nie pamiętam. Zadzwonię do żony, może ona wie.\nWykręca numer i mówi:\n- Agnieszka, kiedy ostatni raz uprawialiśmy seks?\n- A kto mówi?",
     "rate": 274,
     "date": "11.11.2015",
@@ -6257,7 +6264,7 @@
   },
   {
     "id": "6475",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Przychodzi lokaj do hrabiego, cierpiącego na jesienną depresję i mówi:\n- Hrabio, może podam obiad?\n- Bez sensu...\n- To może hrabio pójdziemy na spacer?\n- Bez sensu...\n- Może rozegramy partyjkę szachów?\n- Bez sensu...\n- No to może opowiem zagadkę?\n- Dobra, niech będzie...\n- Hrabio, co to jest: \"owłosione i wchodzi do dziury?\"\n- Chuj\n- A nie, bo mysz!\n- Mysz?... W piździe?... Bez sensu...",
     "rate": 241,
     "date": "10.11.2015",
@@ -6265,47 +6272,47 @@
   },
   {
     "id": "6474",
-    "is_checked": false,
-    "content": "Nad rzeką, obok farmy siedzi krowa i pali trawkę. Podpływa do niej bóbr, wychodzi na brzeg i pyta:\n- Te, krowa, co robisz?\n- Aaa, widzisz bóbr, jaram i jest OK.\n- Daj trochę, jeszcze nigdy nie kurzyłem...\n- Jasne! Ciągnij macha bracie!\nBóbr wciągnął dym i od razu go wypuścił. Na to krowa:\n- Stary, nie taaak! Patrz: ciągniesz macha i trzymasz go w płucach dłuższą chwilę. Zresztą - wiesz co? W tym czasie jak wciągniesz, przepłyń się kawałek pod wodą w dół rzeki, wróć tu i wtedy wypuść powietrze. I mówię ci będzie OK.\nJak uradzili tak zrobili. Bóbr się zaciągnął, płynie pod wodą, ale już po kilku chwilach zrobiło mu się happy. Wyszedł na brzeg po drugiej stronie rzeki, walnął się na trawę i orbituje. Podchodzi do niego hipopotam i pyta:\n- Te bóbr, co robisz?\n- Aaa, widzisz hipciu, fazuję sobie troszkę...\n- Daj trochę stuffu, ja też chcę.\n- Podpłyń na drugi brzeg do krowy - ona ci da.\nHipopotam podpłynął w górę rzeki, wychodzi na brzeg, a krowa wywaliła gały i krzyczy:\n- Bóbr, k..wa, WYPUŚĆ POWIETRZE!",
+    "is_checked": true,
+    "content": "Nad rzeką, obok farmy siedzi krowa i pali trawkę. Podpływa do niej bóbr, wychodzi na brzeg i pyta:\n- Te, krowa, co robisz?\n- Aaa, widzisz bóbr, jaram i jest OK.\n- Daj trochę, jeszcze nigdy nie kurzyłem...\n- Jasne! Ciągnij macha bracie!\nBóbr wciągnął dym i od razu go wypuścił. Na to krowa:\n- Stary, nie taaak! Patrz: ciągniesz macha i trzymasz go w płucach dłuższą chwilę. Zresztą - wiesz co? W tym czasie jak wciągniesz, przepłyń się kawałek pod wodą w dół rzeki, wróć tu i wtedy wypuść powietrze. I mówię ci będzie OK.\nJak uradzili tak zrobili. Bóbr się zaciągnął, płynie pod wodą, ale już po kilku chwilach zrobiło mu się happy. Wyszedł na brzeg po drugiej stronie rzeki, walnął się na trawę i orbituje. Podchodzi do niego hipopotam i pyta:\n- Te bóbr, co robisz?\n- Aaa, widzisz hipciu, fazuję sobie troszkę...\n- Daj trochę stuffu, ja też chcę.\n- Podpłyń na drugi brzeg do krowy - ona ci da.\nHipopotam podpłynął w górę rzeki, wychodzi na brzeg, a krowa wywaliła gały i krzyczy:\n- Bóbr, kur*a, WYPUŚĆ POWIETRZE!",
     "rate": 269,
     "date": "10.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6471",
-    "is_checked": false,
-    "content": "Spaceruje  facet w lesie, a tu z krzaków wyskakuje wiewiórka cała w g... \nCzłowiek ów kochał zwierzęta, więc wytarł wiewiórkę chusteczką i ją wypuścił, lecz po chwili wyskoczyła kolejna brudna wiewiórka. Facet zaczął ją wycierać, a tu trzecia. Po chwili z tych samych krzaków wystaje głowa i pyta:\n- Panie, masz pan jeszcze chusteczkę, bo mi się wiewiórki skończyły?",
+    "is_checked": true,
+    "content": "Spaceruje facet w lesie, a tu z krzaków wyskakuje wiewiórka cała w gównie. Facet ten kochał zwierzęta, więc wytarł wiewiórkę chusteczką i ją wypuścił, lecz po chwili wyskoczyła kolejna brudna wiewiórka. Facet zaczął ją wycierać, a tu trzecia. Po chwili z tych samych krzaków wystaje głowa i pyta:\n- Panie, masz pan jeszcze chusteczkę, bo mi się wiewiórki skończyły?",
     "rate": 125,
     "date": "10.11.2015",
     "author": null
   },
   {
     "id": "6470",
-    "is_checked": false,
-    "content": "Wysoko w górach, hen wysoko w lodowej grocie siedzą dwa straszliwe Yeti i ogryzają kosteczki. Mniejszy straszliwy Yeti przerywa na chwilę i pyta większego:\n- Tato, a powiedz mi, po co my się tak ukrywamy przed człowiek ami, co? \nSą takie małe! Przecież i tak je w końcu zjadamy, tak? Dlaczego napadamy na nich od tyłu?\n- Bo widzisz, synku - odpowiada większy straszliwy Yeti dokładnie oblizując palce - lepiej smakują nieobesrane.",
+    "is_checked": true,
+    "content": "Wysoko w górach, hen wysoko w lodowej grocie siedzą dwa straszliwe Yeti i ogryzają kosteczki. Mniejszy straszliwy Yeti przerywa na chwilę i pyta większego:\n- Tato, a powiedz mi, po co my się tak ukrywamy przed człowiekami, co? Są takie małe! Przecież i tak je w końcu zjadamy, tak? Dlaczego napadamy na nich od tyłu?\n- Bo widzisz, synku - odpowiada większy straszliwy Yeti dokładnie oblizując palce - lepiej smakują nieobsrane.",
     "rate": 197,
     "date": "10.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6469",
-    "is_checked": false,
-    "content": "Zaczaił się wilk na czerwonego kapturka. Gdy dziewczynka nadeszła, wilk rzucił się na nią.... i ją zgwałcił. Spodobało mu się, to ją zgwałcił jeszcze raz, i jeszcze raz. \nPo kilku następnych razach pada wycieńczony obok Kapturka. Czerwony Kapturek unosi się na łokciach i spokojnie pyta: \n- Wilku, masz ty chociaż zaświadczenie, że nie jesteś chory na Aids? \n- Pewnie, że mam! \n- No to możesz je podrzeć...",
+    "is_checked": true,
+    "content": "Zaczaił się wilk na czerwonego kapturka. Gdy dziewczynka nadeszła, wilk rzucił się na nią i ją zgwałcił. Spodobało mu się, to ją zgwałcił jeszcze raz, i jeszcze raz. \nPo kilku następnych razach pada wycieńczony obok Kapturka. Czerwony Kapturek unosi się na łokciach i spokojnie pyta: \n- Wilku, masz ty chociaż zaświadczenie, że nie jesteś chory na Aids? \n- Pewnie, że mam! \n- No to możesz je podrzeć.",
     "rate": 180,
     "date": "10.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6466",
-    "is_checked": false,
-    "content": "Wraca pijany mąż późną nocą do domu. Otwiera drzwi, w korytarzu czeka na niego żona z wałkiem w ręku i teściowa z patelnią?\n- Idźcie spać, nie jestem głodny.",
+    "is_checked": true,
+    "content": "Wraca pijany mąż późną nocą do domu. Otwiera drzwi, w korytarzu czeka na niego żona z wałkiem w ręku i teściowa z patelnią.\n- Idźcie spać, nie jestem głodny.",
     "rate": 321,
     "date": "09.11.2015",
     "author": "JadziaG."
   },
   {
     "id": "6465",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kowalski jak zwykle przyszedł spóźniony do pracy i zbiera standardowy ochrzan od szefa:\n- Był pan w wojsku, Kowalski?\n- Byłem.\n- I co tam panu mówił sierżant jak się pan spóźniał?!\n- Nic szczególnego... \"Dzień dobry, panie majorze\"",
     "rate": 237,
     "date": "09.11.2015",
@@ -6313,7 +6320,8 @@
   },
   {
     "id": "6464",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Przychodzi syn do ojca i mówi:\n- Tato, zakochałem się! Umówiłem się na randkę ze świetną dziewczyną!\n- To świetnie, synu. Kim ona jest? - Odpowiedział ojciec.\n- To Sandra, córka sąsiadów.\n- Muszę ci coś powiedzieć, ale obiecaj, że nie powiesz mamie! Sandra jest twoją siostrą.\nChłopak oczywiście się wycofał. Po kilku miesiącach poszedł do ojca:\n- Tato, znowu się zakochałem, a ona jest jeszcze ładniejsza!\n- To świetnie, synu. Kim ona jest?\n- To Asia. Córka sąsiada .\n- Och... Ona też jest twoją siostrą.\nSytuacja powtórzyła się kilka razy, syn wkurzył się na ojca i pobiegł do matki.\n- Mamo, jestem taki zły na ojca! Zakochałem się w sześciu dziewczynach, ale nie mogłem się z nimi umawiać, bo tata jest ojcem ich wszystkich!\nMatka przytuliła go i powiedziała:\n- Kochany, możesz umawiać się z kim tylko zechcesz. Nie musisz go słuchać... On nawet nie jest twoim ojcem...",
     "rate": 225,
     "date": "09.11.2015",
@@ -6321,31 +6329,31 @@
   },
   {
     "id": "6461",
-    "is_checked": false,
-    "content": "Pewna kobieta wpadła na pomysł żeby kupić mężowi na urodziny zwierzątko. Udała się w tym celu do sklepu zoologicznego. Wszystkie fajne zwierzaki były niestety dla niej za drogie. Zrezygnowana pyta się sprzedawcy: \n- Macie tu jakieś tańsze zwierzaki? \n- Z tańszych mamy tylko żabę po 50 zł. \n- 50 zł za żabę?! Dlaczego tak drogo? \n- Bo ta żaba to, proszę pani, jest całkiem wyjątkowa.. Ona potrafi świetnie robić laskę! \nKobieta nie zastanawiając się długo kupiła żabę, licząc że ta ją wyręczy w tej nieprzyjemnej dla niej czynności. Gdy nadszedł dzień urodzin kobieta wręczyła żabę mężowi i opowiedziała mu o jej niesamowitych zdolnościach. Facet był nieco sceptyczny, ale postanowił swój prezent wypróbować jeszcze tego samego wieczora. Grubo po północy żonę obudziły dziwne dźwięki dochodzące z kuchni. Wstała i poszła sprawdzić co tam się dzieje. Gdy weszła do kuchni zobaczyła męża i żabę przeglądających książkę kucharską. Wokół nich porozstawiane były przeróżne garnki i patelnie. Zdumiona kobieta spytała: \n- Dlaczego studiujecie książkę kucharską o tej godzinie? \n- Jak tylko żaba nauczy się gotować - wypiera**sz!",
+    "is_checked": true,
+    "content": "Pewna kobieta wpadła na pomysł żeby kupić mężowi na urodziny zwierzątko. Udała się w tym celu do sklepu zoologicznego. Wszystkie fajne zwierzaki były niestety dla niej za drogie. Zrezygnowana pyta się sprzedawcy: \n- Macie tu jakieś tańsze zwierzaki? \n- Z tańszych mamy tylko żabę po 50 zł. \n- 50 zł za żabę?! Dlaczego tak drogo? \n- Bo ta żaba to, proszę pani, jest całkiem wyjątkowa. Ona potrafi świetnie robić laskę! \nKobieta nie zastanawiając się długo kupiła żabę, licząc że ta ją wyręczy w tej nieprzyjemnej dla niej czynności. Gdy nadszedł dzień urodzin kobieta wręczyła żabę mężowi i opowiedziała mu o jej niesamowitych zdolnościach. Facet był nieco sceptyczny, ale postanowił swój prezent wypróbować jeszcze tego samego wieczora. Grubo po północy żonę obudziły dziwne dźwięki dochodzące z kuchni. Wstała i poszła sprawdzić co tam się dzieje. Gdy weszła do kuchni zobaczyła męża i żabę przeglądających książkę kucharską. Wokół nich porozstawiane były przeróżne garnki i patelnie. Zdumiona kobieta spytała: \n- Dlaczego studiujecie książkę kucharską o tej godzinie? \n- Jak tylko żaba nauczy się gotować - wypier*alasz!",
     "rate": 282,
     "date": "09.11.2015",
     "author": null
   },
   {
     "id": "6459",
-    "is_checked": false,
-    "content": "Don Corleone zatrudnił głuchoniemego księgowego, aby niczego nie podsłuchiwał i aby niczego nie wygadał. Wybór był trafny, ale księgowy był jeszcze nadzwyczajny. Po roku okazało się, że brakuje 10 mln dolarów.\nDon Corleone zorganizował małe zebranie z prawnikiem, który znał język\nmigowy oraz księgowym.\n- Zapytaj ks*rwiela, gdzie jest moja forsa\nKsięgowy rozłożył bezradnie ręce z niewinną miną sugerując, że nie wie o\nco chodzi. Nie trzeba było tłumaczyć.\nDon Corleone wyciągnął lśniący srebrny pistolet, przyłożył do czoła\nksięgowemu i kazał przetłumaczyć prawnikowi.\n- Pytam po raz drugi i trzeci raz nie będę pytał.\nKsięgowy zmiękł i pokazał na migi prawnikowi, że forsa jest zakopana na\njego podwórku pod wysokim drzewem.\n- Co ta świnia powiedziała? - zapytał Don Corleone.\n- Powiedział, że nie masz jaj żeby pociągnąć za spust - przetłumaczył prawnik",
+    "is_checked": true,
+    "content": "Don Corleone zatrudnił głuchoniemego księgowego, aby niczego nie podsłuchiwał i aby niczego nie wygadał. Wybór był trafny, ale księgowy był jeszcze nadzwyczajny. Po roku okazało się, że brakuje 10 mln dolarów.\nDon Corleone zorganizował małe zebranie z prawnikiem, który znał język migowy oraz księgowym.\n- Zapytaj skur*iela, gdzie jest moja forsa\nKsięgowy rozłożył bezradnie ręce z niewinną miną sugerując, że nie wie o co chodzi. Nie trzeba było tłumaczyć.\nDon Corleone wyciągnął lśniący srebrny pistolet, przyłożył do czoła księgowemu i kazał przetłumaczyć prawnikowi.\n- Pytam po raz drugi i trzeci raz nie będę pytał.\nKsięgowy zmiękł i pokazał na migi prawnikowi, że forsa jest zakopana na jego podwórku pod wysokim drzewem.\n- Co ta świnia powiedziała? - zapytał Don Corleone.\n- Powiedział, że nie masz jaj żeby pociągnąć za spust - przetłumaczył prawnik",
     "rate": 193,
     "date": "09.11.2015",
     "author": null
   },
   {
     "id": "6458",
-    "is_checked": false,
-    "content": "- Panie doktorze, jak tam moje wyniki?\n- Dobrze, może pan brać kredyt.\n- Ale ja nie mam z czego spłacać\n- Nie będzie pan musiał....",
+    "is_checked": true,
+    "content": "- Panie doktorze, jak tam moje wyniki?\n- Dobrze, może pan brać kredyt.\n- Ale ja nie mam z czego spłacać\n- Nie będzie pan musiał.",
     "rate": 88,
     "date": "09.11.2015",
     "author": null
   },
   {
     "id": "6457",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Czy w pana rodzinie zdarzały się przypadki kazirodztwa?\n- Tak.\n- Wiele?\n- Nie, mógłbym je policzyć na palcach jednej ręki.\n- A dokładniej?\n- Siedem.",
     "rate": 90,
     "date": "09.11.2015",
@@ -6353,7 +6361,7 @@
   },
   {
     "id": "6454",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Para zakochanych siedzi w parku, całują się, rozmawiają nagle dziewczyna:\n- Kochanie, boli mnie rączka.\nChłopak całuje ją w rękę:\n- A teraz?\n- Teraz już nie, ale zaczął mnie boleć policzek!\nChłopak całuje ją w policzek:\n- A teraz?\n- Hi, hi! Teraz już nie, ale zaczęły mnie usta boleć.\nChłopak całuje ją w usta:\n- A teraz?\n- Już nie.\nNa to staruszek siedzący niedaleko na ławce:\n- Przepraszam, a czy hemoroidy też pan leczy?",
     "rate": 238,
     "date": "09.11.2015",
@@ -6361,7 +6369,7 @@
   },
   {
     "id": "6452",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Wiszą na drzewie trzy leniwce i kłócą się który jest bardziej leniwy. \nPierwszy mówi: \n- Wiecie chłopaki, idę sobie ulicą, patrzę sobie, a tu worek złota na ulicy leży, ale nie chciało mi się go podnieść. \nNa to drugi: \n- No widzicie, a ja idę sobie plażą i patrzę jak piękna kobieta leży sobie naga i chce żeby ją przelecieć. No ale nie chciało mi się. \nTrzeci: \n- A wiecie chłopaki, ja ostatnio byłem w kinie, na strasznie śmiesznej komedii, ale przez cały film płakałem. \n- No co ty na komedii i płakałeś? \n- Bo siadłem sobie na jajka i nie chciało mi się wstać poprawić ...",
     "rate": 135,
     "date": "07.11.2015",
@@ -6369,31 +6377,31 @@
   },
   {
     "id": "6450",
-    "is_checked": false,
-    "content": "Idzie Czerwony Kapturek przez las. Nagle z krzaków wyskakuje wilk - stary zboczeniec i krzyczy:\n- Ha, Ha Kapturku, teraz pocałuję cię tam, gdzie jeszcze nikt cię nie całował!\nKapturek patrzy na niego zdziwiona i mówi:\n- Chyba, k...a, w koszyk...",
+    "is_checked": true,
+    "content": "Idzie Czerwony Kapturek przez las. Nagle z krzaków wyskakuje wilk - stary zboczeniec i krzyczy:\n- Ha, Ha Kapturku, teraz pocałuję cię tam, gdzie jeszcze nikt cię nie całował!\nKapturek patrzy na niego zdziwiona i mówi:\n- Chyba, kur*a, w koszyk.",
     "rate": 353,
     "date": "07.11.2015",
     "author": "Olsohn"
   },
   {
     "id": "6449",
-    "is_checked": false,
-    "content": "Rozmowa kwalifikacyjna.\n- Jakie są Pana słabe strony?\n- Czasami mam problemu z rozróżnieniem fikcji od rzeczywistości...\n- Rozumiem. A Pana mocne strony?\n- Jestem Batmanem!",
+    "is_checked": true,
+    "content": "Rozmowa kwalifikacyjna.\n- Jakie są Pana słabe strony?\n- Czasami mam problemu z rozróżnieniem fikcji od rzeczywistości.\n- Rozumiem. A Pana mocne strony?\n- Jestem Batmanem!",
     "rate": 83,
     "date": "07.11.2015",
     "author": "JadziaG."
   },
   {
     "id": "6448",
-    "is_checked": false,
-    "content": "Żona do męża:\n- Wiesz, znalazłam u naszego syna pod łóżkiem różne pisemka typu sadu-maso, wiesz bicze, maski, pejcze itp. \n- I co zrobimy?\n- Myślę że klaps, to nie jest najlepszy pomysł.",
+    "is_checked": true,
+    "content": "Żona do męża:\n- Wiesz, znalazłam u naszego syna pod łóżkiem różne pisemka typu sado-maso, wiesz bicze, maski, pejcze itp. \n- I co zrobimy?\n- Myślę że klaps, to nie jest najlepszy pomysł.",
     "rate": 165,
     "date": "07.11.2015",
     "author": "JadziaG."
   },
   {
     "id": "6447",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Kochanie! Zenek jutro przyjeżdża!\n- I co, pewnie zamierzacie chlać?\n- Nie. Nie zamierzamy! Będziemy!",
     "rate": 157,
     "date": "07.11.2015",
@@ -6401,7 +6409,7 @@
   },
   {
     "id": "6442",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W pewnej miejscowości ktoś kradł kowalowi jabłka. Ten zaczaił się w sadzie i czekał na złodzieja. Gdy ten wdrapywał się na drzewo kowal jako chłop ze \"stali\" ścisnął złodziejaszka za jaja i rzekł:\n- Kto ty?\nCisza... Ścisnął jeszcze mocniej i pyta:\n- Kto ty!?\nCisza, więc ścisnął najmocniej jak tylko mógł i powiedział:\n- Kto ty!?\n- Jaśko!\n- Jaki Jaśko, bo jest Jaśko młynarz, Jaśko stolarz, Jaśko drwal...\n- Jaśko niemowa",
     "rate": 218,
     "date": "06.11.2015",
@@ -6409,15 +6417,15 @@
   },
   {
     "id": "6441",
-    "is_checked": false,
-    "content": "Mąż po coś wrócił do domu, słyszy, że żona z jakimś mężczyzną wchodzi do domu, choć powinna być w pracy, schował się więc do szafy. Żona wchodzi z kochankiem do sypialni, uwodzi go po czym znika na chwilę w łazience. Mąż wychyla się z szafy i mówi do kochanka:\n- Nic ci nie zrobię, ale masz spełnić wszystkie jej zachcianki\nŻona wraca z łazienki naga i mówi do kochanka:\n- Serż...j mnie tak żebym się zesikała\nNa to kochanek:\n- Otwórz szafę to się zesrasz!",
+    "is_checked": true,
+    "content": "Mąż po coś wrócił do domu, słyszy, że żona z jakimś mężczyzną wchodzi do domu, choć powinna być w pracy, schował się więc do szafy. Żona wchodzi z kochankiem do sypialni, uwodzi go po czym znika na chwilę w łazience. Mąż wychyla się z szafy i mówi do kochanka:\n- Nic ci nie zrobię, ale masz spełnić wszystkie jej zachcianki\nŻona wraca z łazienki naga i mówi do kochanka:\n- Zerżnij mnie tak, żebym się zesikała\nNa to kochanek:\n- Otwórz szafę to się zesrasz!",
     "rate": 239,
     "date": "05.11.2015",
     "author": "AMka"
   },
   {
     "id": "6439",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Funkcjonariusz policji wodnej na brzegu jeziora dobrze znanego z doskonałych warunków wędkarskich zatrzymał faceta z dwoma wiadrami ryb:\n- Czy ma pan pozwolenie na łowienie ryb w tym miejscu?\n- Ależ proszę pana, to są udomowione rybki!\n- Udomowione?!\n- Tak, co wieczór wyprowadzam te właśnie ryby na spacer w tym jeziorku, żeby sobie popływały. Później gwiżdżę i na ten gwizd one same wpływają do mojego wiadra.\n- Co mi pan kit wciskasz! Żadna ryba tego nie potrafi.\nFacet popatrzył chwilę na funkcjonariusza, po czym powiedział:\n- Wobec tego zademonstruję panu. Udowodnię, że to prawda!\n- Dobra, pokazuj pan, ale bez żadnych numerów.\nFacet wlał więc zawartość wiader do jeziora, postawił je na ziemi i stoi. Policjant stoi obok zaciekawiony:\n- No i co?\n- Jak to co?\n- Zawoła je pan czy nie?\n- Zawoła kogo?!\n- No, ryby!\n- Jakie ryby?",
     "rate": 238,
     "date": "04.11.2015",
@@ -6425,7 +6433,7 @@
   },
   {
     "id": "6438",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rude dziecko mówi do mamy:\n- Kocham cię!\nA mama na to:\n- Zostańmy przyjaciółmi...",
     "rate": 55,
     "date": "03.11.2015",
@@ -6433,7 +6441,7 @@
   },
   {
     "id": "6437",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona do męża:\n- Idź kupić bułki.\n- Ile mam kupić?\n- No nie wiem, tyle kup, żeby starczyło na kolację i śniadanie.\nMąż zirytowanym głosem:\n- Jak kupię za mało albo za dużo, to znów będzie awantura. Powiedz, ile mam kupić? \nŻona:\n- Kup tyle bułek, ile razy się wczoraj kochaliśmy.\nMąż poszedł do sklepu. Staje przed ekspedientką i mówi:\n- Poproszę siedem bułek. Albo nie, pięć bułek, loda i kakao.",
     "rate": 84,
     "date": "03.11.2015",
@@ -6441,15 +6449,15 @@
   },
   {
     "id": "6436",
-    "is_checked": false,
-    "content": "Trzej przestępcy trafili do pierdla. Przed osadzeniem mogli wybrać jedną rzecz którą mogą ze sobą zabrać do celi, żeby się nie nudzić. Wybrali. Siedzą sobie w celi, i zaczynają rozmowę.\n- Ej, co wybrałeś?\n- Karty, jak będzie się nudzić to walniemy sobie w pokera, a Ty?\n- Ja wziąłem piłeczkę, jak się znudzę siedzeniem to porzucam o ścianę dla zabawy.\nPatrzę na trzeciego, który siedzi z boku i się cieszy jak głupi.\n- A ty? Co masz?\n- A ja mam tampony\n- Tampony? Na %@!# ci tampony za kratkami?\n- No tu jest napisane: Dzięki nim mogę pływać, biegać, jeździć konno...",
+    "is_checked": true,
+    "content": "Trzej przestępcy trafili do pierdla. Przed osadzeniem mogli wybrać jedną rzecz którą mogą ze sobą zabrać do celi, żeby się nie nudzić. Wybrali. Siedzą sobie w celi, i zaczynają rozmowę.\n- Ej, co wybrałeś?\n- Karty, jak będzie się nudzić to walniemy sobie w pokera, a Ty?\n- Ja wziąłem piłeczkę, jak się znudzę siedzeniem to porzucam o ścianę dla zabawy.\nPatrzą na trzeciego, który siedzi z boku i się cieszy jak głupi.\n- A ty? Co masz?\n- A ja mam tampony\n- Tampony? Na ch*j ci tampony za kratkami?\n- No tu jest napisane: Dzięki nim mogę pływać, biegać, jeździć konno...",
     "rate": 161,
     "date": "03.11.2015",
     "author": null
   },
   {
     "id": "6434",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Za co Żydzi w Izraelu nie lubią Mojżesza?\nBo ich targał 40 lat po pustyni w te i nazad, tam i z powrotem, a na końcu kazał się osiedlić w jedynym miejscu w okolicy, w którym nie ma ropy.",
     "rate": 92,
     "date": "03.11.2015",
@@ -6457,7 +6465,7 @@
   },
   {
     "id": "6433",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Panie Kowalski, rozważyłem wszystko dokładnie - mówi sędzia na rozprawie rozwodowej. - I postanowiłem przyznać pańskiej żonie 2 tys. zł miesięcznie.\n- Świetnie, Wysoki Sądzie - odpowiada Kowalski. - Ja też od czasu do czasu dorzucę jej parę złotych od siebie.",
     "rate": 212,
     "date": "03.11.2015",
@@ -6465,15 +6473,15 @@
   },
   {
     "id": "6432",
-    "is_checked": false,
-    "content": "Zapadła wioska na granicy polsku-ukraińskiej.....idylla.....\n- Sąsiedzie, a co u was dynie tak wcześnie dojrzały?\n- To nie dynie, to ziemniaki....\n- A jabłka takie wielkie macie....\n- To czereśnie...\n- I słowik śpiewa w ogrodzie...\n- To nie słowik, to licznik Geigera...",
+    "is_checked": true,
+    "content": "Zapadła wioska na granicy polsku-ukraińskiej.....idylla.....\n- Sąsiedzie, a co u was dynie tak wcześnie dojrzały?\n- To nie dynie, to ziemniaki....\n- A jabłka takie wielkie macie....\n- To czereśnie...\n- I słowik śpiewa w ogrodzie...\n- To nie słowik to licznik Geigera...",
     "rate": 102,
     "date": "03.11.2015",
     "author": "JadziaG."
   },
   {
     "id": "6431",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Trójka dzieci z pierwszej klasy stoi przed ostatnią szansą, aby otrzymać promocję do drugiej klasy. Przepytuje je dyrektor:\n- Jasiu, przeliteruj słowo TATA\n- T-A-T-A.\n- Świetnie! Zdałeś!\n- Krzysiu, przeliteruj słowo MAMA.\n- M-A-M-A.\n- Świetnie! Zdałeś!\n- A teraz Ty Ahmed. Przeliteruj proszę... DYSKRYMINACJA OBCOKRAJOWCÓW W ŚWIETLE POLSKICH PRAW KONSTYTUCYJNYCH.",
     "rate": 274,
     "date": "03.11.2015",
@@ -6481,7 +6489,7 @@
   },
   {
     "id": "6428",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Moja dziewczyna traktuje seks jak modlitwę.\nOdmawia",
     "rate": 179,
     "date": "02.11.2015",
@@ -6489,15 +6497,15 @@
   },
   {
     "id": "6423",
-    "is_checked": false,
-    "content": "Mąż wraca do domu zmęczony jak wół i od razu siada do stołu i czeka na obiad. \nŻona przynosi mu talerz zupy pomidorowej, której mąż wręcz nie znosi. \nZdenerwowany otwiera okno i wyrzuca talerz na podwórko. \nŻona patrzy, obraca się i idzie do kuchni. \nPo chwili przynosi mężowi drugie danie: kluseczki polane sosem, golonko i sałatkę z kapusty. \nMężowi aż na ten widok ślinka cieknie. \nJuż zabiera się za sztućce gdy żona łapie talerz i wyrzuca go za okno. \n- O w mordę, co Ty robisz do jasnej cholery? \nNa co żona spokojnie odpowiada: \n- No myślałam, że drugie danie też zjesz w ogrodzie.",
+    "is_checked": true,
+    "content": "Mąż wraca do domu zmęczony jak wół i od razu siada do stołu i czeka na obiad. Żona przynosi mu talerz zupy pomidorowej, której mąż wręcz nie znosi. Zdenerwowany otwiera okno i wyrzuca talerz na podwórko. Żona patrzy, obraca się i idzie do kuchni. Po chwili przynosi mężowi drugie danie: kluseczki polane sosem, golonkę i sałatkę z kapusty. Mężowi aż na ten widok ślinka cieknie. Już zabiera się za sztućce, gdy żona łapie talerz i wyrzuca go za okno. \n- O w mordę, co Ty robisz do jasnej cholery? \nNa co żona spokojnie odpowiada: \n- No myślałam, że drugie danie też zjesz w ogrodzie.",
     "rate": 191,
     "date": "02.11.2015",
     "author": "R2D2"
   },
   {
     "id": "6422",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rozmawiają trzy przyjaciółki. Jedna z nich mówi:\n- Czy wy wiecie, że jak kocham się z moim Józkiem, to on ma bardzo zimne jajka?\nNa to druga:\n- No mój Staszek też ma zimne jajka podczas kochania.\nNa to trzecia:\n- A ja to nawet nie wiem, ale sprawdzę.\nNa drugi dzień spotykają się, a ta trzecia ma podbite oko. Koleżanki pytają:\n- Co ci się stało?\n- Kocham się z moim starym, chwytam go za jajka i mowie: \"Stary! Ty masz tak samo zimne jajka jak Józek i Staszek\"",
     "rate": 444,
     "date": "02.11.2015",
@@ -6505,7 +6513,7 @@
   },
   {
     "id": "6421",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Neil Armstrong ląduje na Księżycu. Wysiada z lądownika i mówi:\n- To jest mały krok dla człowieka, ale duży dla... zaraz, co to?\nPatrzy, parę metrów dalej pali się ognisko, przy którym siedzi trzech facetów. Rozmawiają i pieką kiełbaski. Okazuje się, że są to Ukrainiec, Egipcjanin i Polak.\n- A wy co tu robicie? - pyta zbity z tropu Armstrong.\n- No, ja akurat doiłem krowę i jak pieprznęło w Czarnobylu, to aż tu doleciałem - mówi Ukrainiec.\n- A ja - mówi Egipcjanin - chodziłem po piramidach i tak jakoś mnie przerzuciło.\n- No a ty? - pyta Polaka.\n- Ku*wa, nie wiem. Z wesela wracam.",
     "rate": 217,
     "date": "02.11.2015",
@@ -6513,31 +6521,31 @@
   },
   {
     "id": "6420",
-    "is_checked": false,
-    "content": "Zdesperowana dziewczyna stoi na nadbrzeżu i chce popełnić samobójstwo. Widzi to młody marynarz, podchodzi do niej i mówi:\n- Nie rób tego! Zabiorę cię na pokład naszego statku, ukryję, przemycę do Ameryki i zaczniesz nowe życie. Przez cały rejs będę cię karmił, będę ci dawał radość, a ty będziesz mnie dawać radość. Jeszcze nie wszystko stracone.\nDziewczyna, jeszcze pochlipująca z cicha, postanowiła dać sobie jeszcze jedną szansę i poszła z nim na statek. Jak obiecywał tak zrobił - ukrył ją pod pokładem, raz na jakiś czas podrzucał jej kanapkę, jakiś owoc lub coś do picia, a całe noce spędzali na miłosnych igraszkach. Sielankę przerwał kapitan, który pewnego dnia odkrył kryjówkę dziewczyny.\n- Co tu robisz? - zapytał surowo.\n- Mam układ z jednym z marynarzy. Zabrał mnie do Ameryki, karmi mnie, a ja mu pozwalam robić ze mną, co chce. Mam nadzieję, że Pan go nie ukarze?\n- Nie - odpowiedział kapitan... - Chciałbym jednak, żebyś wiedziała, że jesteś na pokładzie promu Wolin-Świnoujście-Wolin.",
+    "is_checked": true,
+    "content": "Zdesperowana dziewczyna stoi na nadbrzeżu i chce popełnić samobójstwo. Widzi to młody marynarz, podchodzi do niej i mówi:\n- Nie rób tego! Zabiorę cię na pokład naszego statku, ukryję, przemycę do Ameryki i zaczniesz nowe życie. Przez cały rejs będę cię karmił, będę ci dawał radość, a ty będziesz mnie dawać radość. Jeszcze nie wszystko stracone.\nDziewczyna, jeszcze pochlipując z cicha, postanowiła dać sobie jeszcze jedną szansę i poszła z nim na statek. Jak obiecywał tak zrobił - ukrył ją pod pokładem, raz na jakiś czas podrzucał jej kanapkę, jakiś owoc lub coś do picia, a całe noce spędzali na miłosnych igraszkach. Sielankę przerwał kapitan, który pewnego dnia odkrył kryjówkę dziewczyny.\n- Co tu robisz? - zapytał surowo.\n- Mam układ z jednym z marynarzy. Zabrał mnie do Ameryki, karmi mnie, a ja mu pozwalam robić ze mną, co chce. Mam nadzieję, że Pan go nie ukarze?\n- Nie - odpowiedział kapitan... - Chciałbym jednak, żebyś wiedziała, że jesteś na pokładzie promu Wolin-Świnoujście-Wolin.",
     "rate": 263,
     "date": "02.11.2015",
     "author": "Dżonny"
   },
   {
     "id": "6419",
-    "is_checked": false,
-    "content": "- Mamo, pójdziemy na Halogeny!?\n- NIE!\n- Dlaczego?\n- Bo to nie polskie święto!\n- Ale mamo ooo!\n- Emma, Piesika dajcie już spokój!",
+    "is_checked": true,
+    "content": "- Mamo, pójdziemy na Halołyn!?\n- NIE!\n- Dlaczego?\n- Bo to nie polskie święto!\n- Ale mamoooo!\n- Emma, Dżesika dajcie już spokój!",
     "rate": 129,
     "date": "01.11.2015",
     "author": "Grzegorz F."
   },
   {
     "id": "6402",
-    "is_checked": false,
-    "content": "Elegancko ubrana kobieta weszła do salonu Mercedesa i od razu jej uwagę przyciągnął piękny, czarny, błyszczący, sportowy model. Podeszła do niego, otworzyła drzwi i nachyliła się nad fotelem obitym czarną miękką skórą. Kiedy go dotknęła, nagle niespodziewanie wymknął jej się głośny pierd. Wyraźnie zawstydzona szybko się wyprostowała i obróciła się, żeby sprawdzić czy ktoś tego nie usłyszał. I okazało się, że cały czas tuż za jej plecami stał sprzedawca.\n- W czym mogę Pani pomóc? - zapytał\nKobieta szybko rzuciła pytanie:\n- Ile kosztuje ten samochód?\n- Jeśli pierdziała się Pani tylko go dotykając, to po usłyszeniu ceny się Pani zesra.",
+    "is_checked": true,
+    "content": "Elegancko ubrana kobieta weszła do salonu Mercedesa i od razu jej uwagę przyciągnął piękny, czarny, błyszczący, sportowy model. Podeszła do niego, otworzyła drzwi i nachyliła się nad fotelem obitym czarną miękką skórą. Kiedy go dotknęła, nagle niespodziewanie wymknął jej się głośny pierd. Wyraźnie zawstydzona szybko się wyprostowała i obróciła, żeby sprawdzić czy ktoś tego nie usłyszał. I okazało się, że cały czas tuż za jej plecami stał sprzedawca.\n- W czym mogę Pani pomóc? - zapytał\nKobieta szybko rzuciła pytanie:\n- Ile kosztuje ten samochód?\n- Jeśli spierdziała się Pani tylko go dotykając, to po usłyszeniu ceny się Pani zesra.",
     "rate": 200,
     "date": "31.10.2015",
     "author": "bm"
   },
   {
     "id": "6401",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Na Halloween przebiorę się za okres. Potem się spóźnię i wszyscy będą się bali.",
     "rate": 159,
     "date": "31.10.2015",
@@ -6545,23 +6553,24 @@
   },
   {
     "id": "6398",
-    "is_checked": false,
-    "content": "Baca wynajął pokój młodej parze turystów. Przez trzy dni młodzi nie wychodzili z pokoju. Zaniepokojony baca puka do drzwi i pyta:\n- Żyleta, bo nic nie jeta?\nNa to młody odpowiada:\n- Baco, my miłością żyjemy.\nA baca do nich:\n- To nie wyrzucaj ta skórek od tej miłości, bo mi się kaczki dławią.",
+    "is_checked": true,
+    "content": "Baca wynajął pokój młodej parze turystów. Przez trzy dni młodzi nie wychodzili z pokoju. Zaniepokojony baca puka do drzwi i pyta:\n- Żyjeta, bo nic nie jeta?\nNa to młody odpowiada:\n- Baco, my miłością żyjemy.\nA baca do nich:\n- To nie wyrzucajta skórek od tej miłości, bo mi się kaczki dławią.",
     "rate": 191,
     "date": "31.10.2015",
     "author": null
   },
   {
     "id": "6397",
-    "is_checked": false,
-    "content": "Rynek dużego miasta. \nJakieś występy. \nGdzieś z tyłu pośród stojących widzów rozlega się nagle: \n- Hej, kolego! \nNieco dalej ktoś odwraca głowę. \n- Kto, ja? \n- Tak, ty... \n- Nie jesteśmy na \"ty\"! \n- O, sorry, kolego. \n- Nie jestem twoim kolegą! \n- Słuchaj, przyjacielu. \n- Ani przyjacielem! \n- Posłuchaj mnie, gościu? \n- Nie jestem żadnym \"gościem\"! \n- No to jak mam się zwracać? \n- \"Proszę Pana\"! \n- OK, więc proszę... \n- ... \"szanownego\". \n- Dobra, k..., a więc proszę szanownego pana - dobrze?\n- Dobrze. \n- Czy szanowny pan widzi tamtego małego szczyla? \n- Tego, który wsiada na motor? \n- Tak, właśnie tego. \n- Widzę. \n- No więc chciałem powiedzieć, kiedy byliśmy jeszcze przy \"kolego\" on akurat opierdalał wielce szanownemu panu kieszenie i torbę.",
+    "is_checked": true,
+    "content": "Rynek dużego miasta. Jakieś występy. Gdzieś z tyłu pośród stojących widzów rozlega się nagle: \n- Hej, kolego! \nNieco dalej ktoś odwraca głowę. \n- Kto, ja? \n- Tak, ty... \n- Nie jesteśmy na \"ty\"! \n- O, sorry, kolego. \n- Nie jestem twoim kolegą! \n- Słuchaj, przyjacielu. \n- Ani przyjacielem! \n- Posłuchaj mnie, gościu. \n- Nie jestem żadnym \"gościem\"! \n- No to jak mam się zwracać? \n- \"Proszę Pana\"! \n- OK, więc proszę... \n- ... \"szanownego\". \n- Dobra, kur*a, a więc proszę szanownego pana - dobrze?\n- Dobrze. \n- Czy szanowny pan widzi tamtego małego szczyla? \n- Tego, który wsiada na motor? \n- Tak, właśnie tego. \n- Widzę. \n- No więc chciałem powiedzieć, kiedy byliśmy jeszcze przy \"kolego\" on akurat opierdalał wielce szanownemu panu kieszenie i torbę.",
     "rate": 224,
     "date": "29.10.2015",
     "author": "Jan"
   },
   {
     "id": "6394",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "98-letni staruszek przychodzi do lekarza na badania kontrolne. \nLekarz pyta go o samopoczucie, na co staruszek odpowiada: \n- Nigdy nie czułem się lepiej. Mam 18-letnią narzeczoną. Jest w ciąży i wkrótce będziemy mieć syna. \nDoktor myśli chwilę i mówi: \n- Niech pan pozwoli, że opowiem panu historię: Pewien myśliwy, który nigdy nie zapominał o sezonie myśliwskim, wyszedł raz z domu w takim pośpiechu, że zamiast strzelby wziął ze sobą parasol. Kiedy znalazł się w lesie, z krzaków wyszedł ogromny niedźwiedź. Myśliwy wyciągnął parasol, wycelował w niedźwiedzia i wypalił. I wie pan co stało się potem? \n- Nie - odpowiada staruszek. \n- Niedźwiedź padł martwy jak kłoda. \n- Niemożliwe! - wykrzyknął staruszek - Ktoś inny musiał wystrzelić! \n- I do tego punktu właśnie zmierzałem.",
     "rate": 188,
     "date": "29.10.2015",
@@ -6569,7 +6578,7 @@
   },
   {
     "id": "6393",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W szpitalu lekarz pyta się zmartwionej matki:\n- Czym się pani tak martwi? Przecież urodziła pani ślicznego, zdrowego synka.\n- Ale panie doktorze on jest rudy, mój mąż od razu pozna się, że to nie jego syn.\n- Spokojnie, ja to załatwię.\nLekarz wychodzi na korytarz gdzie czeka ojciec dziecka:\n- Niech pan mi powie jak często uprawia pan seks z żoną?\n- Co tydzień.\n- Proszę nie żartować! \n- No dobrze, co miesiąc.\n- Proszę pana, ja jestem lekarzem i znam się na takich rzeczach, proszę powiedzieć prawdę.\n- No dobrze, raz na pół roku.\n- To pan idź teraz do żony i zobacz co żeś zardzewiałym narządem zmajstrował...",
     "rate": 141,
     "date": "29.10.2015",
@@ -6577,32 +6586,32 @@
   },
   {
     "id": "6391",
-    "is_checked": false,
-    "content": "powyborczy krajobraz...\n\nO wpół do szóstej rano dzwoni dzwonek do drzwi. Zaspany gospodarz:\n- Kto tam?\n- ABW\n- Nie wierzę.\n- No właśnie. My w tej sprawie.",
+    "is_checked": true,
+    "content": "Powyborczy krajobraz...\nO wpół do szóstej rano dzwoni dzwonek do drzwi. Zaspany gospodarz:\n- Kto tam?\n- ABW\n- Nie wierzę.\n- No właśnie. My w tej sprawie.",
     "rate": 37,
     "date": "28.10.2015",
     "author": "rsxxxx"
   },
   {
     "id": "6390",
-    "is_checked": false,
-    "content": "Kaszub, Warszawiak i Ślązak pojechali do Egiptu. Siedzą w łodzi na środku morza i łowią ryby. W pewnym momencie wyłowili jakąś lampę. Na niej była pieczęć, więc ją przełamali. Wtedy wyleciał z tej lampy Dżin.\n- Dziękuję wam, że mnie uwolniliście. W nagrodę spełnię każdemu po jednym życzeniu.\nPierwszy był Kaszub:\n- Ja lubię Kaszuby, więc spraw żeby woda w każdym jeziorze była czysta, żeby dowiedziało nas dużo turystów i żeby byli bogaci.\n- Trochę nudne życzenie, ale je spełnię.\nPóźniej Warszawiak:\n- Odgrodź Warszawę takim murem, żeby mi tam żadne wieśniaki się nie dostały.\n- Dobra spełnię to życzenie.\nNastępny Ślązak:\n- Opowiedz mi coś jeszcze o tym murze.\nNa to Dżin:\n- Wysoki na trzy metry, gruby na metr, solidny, że mysz się nie prześliźnie.\n- Dobra to teraz nalej tam wody!",
+    "is_checked": true,
+    "content": "Kaszub, Warszawiak i Ślązak pojechali do Egiptu. Siedzą w łodzi na środku morza i łowią ryby. W pewnym momencie wyłowili jakąś lampę. Na niej była pieczęć, więc ją przełamali. Wtedy wyleciał z tej lampy Dżin.\n- Dziękuję wam, że mnie uwolniliście. W nagrodę spełnię każdemu po jednym życzeniu.\nPierwszy był Kaszub:\n- Ja lubię Kaszuby, więc spraw żeby woda w każdym jeziorze była czysta, żeby odwiedzało nas dużo turystów i żeby byli bogaci.\n- Trochę nudne życzenie, ale je spełnię.\nPóźniej Warszawiak:\n- Odgrodź Warszawę takim murem, żeby mi tam żadne wieśniaki się nie dostały.\n- Dobra spełnię to życzenie.\nNastępny Ślązak:\n- Opowiedz mi coś jeszcze o tym murze.\nNa to Dżin:\n- Wysoki na trzy metry, gruby na metr, solidny, że mysz się nie prześliźnie.\n- Dobra to teraz nalej tam wody!",
     "rate": 108,
     "date": "28.10.2015",
     "author": "bm"
   },
   {
     "id": "6388",
-    "is_checked": false,
-    "content": "Egzamin wstępny na studia:\n- Proszę powiedzieć, dlaczego silnik elektryczny się obraca? - pyta egzaminator.\n- Bo jest elektryczność.\n- I to ma być odpowiedź? Dlaczego, w takim razie, żelazko się nie obraca? Tez jest elektryczne!\n- A bo ono nie jest okrągłe.\n- No, a kuchenka elektryczna? Okrągła przecież, czemu się nie obraca?\n- To z powodu tarcia - nóżki przeszkadzają.\n- Dobrze... A żarówka? Okrągła! Gładka! Bez nóżek! Czemu żarówka się nie obraca?\n- Obraca się, jak najbardziej!\n- ?!\n- Przecież jak pan profesor ją chce wymienić, to co pan robi? Obraca ją pan!\n- Hm, no tak, w samej rzeczy. Ale to przecież ja nią obracam, nie ona sama!\n- Widzi pan... Samo z siebie nic się nie obraca! Taki silnik elektryczny, na przykład, potrzebuje do tego elektryczności.",
+    "is_checked": true,
+    "content": "Egzamin wstępny na studia:\n- Proszę powiedzieć, dlaczego silnik elektryczny się obraca? - pyta egzaminator.\n- Bo jest elektryczność.\n- I to ma być odpowiedź? Dlaczego, w takim razie, żelazko się nie obraca? Też jest elektryczne!\n- A bo ono nie jest okrągłe.\n- No, a kuchenka elektryczna? Okrągła przecież, czemu się nie obraca?\n- To z powodu tarcia - nóżki przeszkadzają.\n- Dobrze... A żarówka? Okrągła! Gładka! Bez nóżek! Czemu żarówka się nie obraca?\n- Obraca się, jak najbardziej!\n- Słucham?!\n- Przecież jak pan profesor ją chce wymienić, to co pan robi? Obraca ją pan!\n- Hm, no tak, w samej rzeczy. Ale to przecież ja nią obracam, nie ona sama!\n- Widzi pan... Samo z siebie nic się nie obraca! Taki silnik elektryczny, na przykład, potrzebuje do tego elektryczności.",
     "rate": 119,
     "date": "25.10.2015",
     "author": "kowzan"
   },
   {
     "id": "6386",
-    "is_checked": false,
-    "content": "Pan Nowak udał się do szpitala po wyniki badań żony.\nPracownik szpitala mówi:\n- Bardzo nam przykro, ale mieliśmy tu trochę zamieszania i niestety wyniki  \npańskiej żony wróciły z laboratorium razem z wynikami jakiejś innej pani  \nNowak i teraz nie wiemy, które są które. Szczerze mówiąc, ani te, ani te  \nnie są nadzwyczajne.\n- Co to znaczy?\n- Jedna z pań ma Alzheimera, a druga uzyskała pozytywny wynik testu na  \nAIDS.\n- Ale chyba badania można powtórzyć ?!\n- Teoretycznie można, ale te badania są bardzo drogie, a Narodowy Fundusz  \nZdrowia nie zapłaci za dwa testy dla tego samego pacjenta.\n- To co ja mam robić ?\n- Narodowy Fundusz Zdrowia zaleca w takiej sytuacji, by zawiózł Pan żonę  \ndo śródmieścia i tam zostawił. Jeżeli trafi sama do domu, po prostu proszę  \nzrezygnować ze współżycia.",
+    "is_checked": true,
+    "content": "Pan Nowak udał się do szpitala po wyniki badań żony. Pracownik szpitala mówi:\n- Bardzo nam przykro, ale mieliśmy tu trochę zamieszania i niestety wyniki pańskiej żony wróciły z laboratorium razem z wynikami jakiejś innej pani Nowak i teraz nie wiemy, które są które. Szczerze mówiąc, ani te, ani te nie są nadzwyczajne.\n- Co to znaczy?\n- Jedna z pań ma Alzheimera, a druga uzyskała pozytywny wynik testu na AIDS.\n- Ale chyba badania można powtórzyć ?!\n- Teoretycznie można, ale te badania są bardzo drogie, a Narodowy Fundusz Zdrowia nie zapłaci za dwa testy dla tego samego pacjenta.\n- To co ja mam robić ?\n- Narodowy Fundusz Zdrowia zaleca w takiej sytuacji, by zawiózł Pan żonę do śródmieścia i tam zostawił. Jeżeli trafi sama do domu, po prostu proszę zrezygnować ze współżycia.",
     "rate": 108,
     "date": "25.10.2015",
     "author": null
@@ -10402,7 +10411,8 @@
   },
   {
     "id": "4696",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Ona i On.\nKilka lat w wolnym związku. Niedzielne śniadanie, strój tradycyjny - rozciągnięta piżamka i bokserki. Ona pochylona nad kubkiem kawy, On podnosi się leniwie i, grzebiąc sobie w bokserkach, rzuca ospale:\n- Wyjdziesz za mnie...\nOna... Zadrżały jej dłonie. Jeszcze nie może uwierzyć, że w końcu się odważył, że dojrzał do decyzji, że nareszcie będą małżeństwem! Cichutko, aby się nie przestraszył i nie domyślił, że czekała na to całe lata, odpowiedziała:\n-Tak.\nOn, nie przestając miętolić bokserek:\n- ...ze śmieciami, bo zimno i nie chce mi się?",
     "rate": 64,
     "date": "15.04.2011",
@@ -12725,7 +12735,8 @@
   },
   {
     "id": "23",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Kaszub, Warszawiak i Ślązak pojechali do Egiptu. Siedzą w łódce na środku morza i łowią ryby. W pewnym momencie wyłowili jakąś lampę. Na niej była pieczęć więc ją przełamali. Wtedy wyleciał z tej lampy Dżin.\n- Dziękuję wam, że mnie uwolniliście. W nagrodę spełnię każdemu po jednym życzeniu.\nPierwszy był Kaszub:\n- Ja lubię Kaszuby, więc spraw żeby woda w każdym jeziorze była czysta, żeby odwiedzało nas dużo turystów i żeby byli bogaci.\n- Trochę nudne życzenie ale je spełnię.\nPóźniej był Warszawiak:\n- Odgrodź Warszawę takim murem, żeby mi tam żadne wieśniaki się nie dostały.\n- Dobra spełnię to życzenie.\nNastępny był Ślązak:\n- Opowiedz mi coś jeszcze o tym murze.\nNa to Dżin:\n- Wysoki na trzy metry, gruby na metr, no spoko, że mysz się nie prześliźnie.\n- Dobra to teraz nalej tam wody!",
     "rate": 108,
     "date": "04.11.2008",
