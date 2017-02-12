@@ -353,6 +353,7 @@
   {
     "id": "8443",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Moja żona myśli, że oblała prawko w momencie, w którym nie zatrzymała się przed zebrą. \nJa wiem, że stało się to już w momencie wjechania do zoo",
     "rate": 15,
     "date": "16.01.2017",
@@ -361,6 +362,7 @@
   {
     "id": "8442",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Rozmowa męża z żoną:\n- Piwo się skończyło! Skoczysz do sklepu?\n- Ale na zewnątrz jest lód, jeszcze się wywrócę!\n- To kup w puszce, żeby się nie stłukło.",
     "rate": 13,
     "date": "16.01.2017",
@@ -6758,6 +6760,7 @@
   {
     "id": "6336",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Rzecz się dzieje w górach. Siedzą turyści przy ognisku, popijają tatrzańską naleweczkę, przyjemny klimat, ognia pilnuje baca.\n- Baco, a opowiedzcie nam jakąś historię, co by było raźniej i jeszcze przyjemniej.\n- Ano mogę opowiedzieć, a radosna ma być czy smutną wolicie?\n- Jasne, że radosną.\nBaca namyślił się chwilę i ochoczo rozpoczął:\n- Kiedyś żeśmy z juhasami owieczki na hali wypasali. Pasły się pasły, myśmy trochę popili na polanie i nam się jedna owieczka zgubiła. Szukaliśmy, szukaliśmy aż się wreszcie zguba znalazła i z tej radości żeśmy ją wszyscy jak jeden wyruchali.\nTuryści spojrzeli jeden na drugiego z obrzydzeniem w oczach, po czym jeden z nich nieśmiało zapytał:\n- Baco, a może jest jakaś inna radosna historia?\n- Ano jest i inna. Kiedyś żeśmy z juhasami barany na hali wypasali i ni się obejrzeli, a jeden baran nam się zgubił. Godzinami żeśmy go szukali, ale wreszcie zgubę odnaleźli. No i z tej radości żeśmy go wszyscy wyruchali jeden po drugim.\n- Nie no baco, to ma być radosna historia?! To może jakaś smutna jest?\n- Ano jest i smutna - kiedyś to ja się zgubiłem.",
     "rate": 175,
     "date": "23.09.2015",
@@ -7429,7 +7432,7 @@
   },
   {
     "id": "5936",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Małżonek wraca ze szpitala, gdzie odwiedzał bardzo chorą teściową i wkurzony do granic mówi do żony:\n- Twoja matka jest zdrowa jak ryba, niedługo wyjdzie ze szpitala i zamieszka z nami.\n- Nie rozumiem - mówi żona - wczoraj doktor powiedział mi, że mama jest w stanie agonalnym.\n- Nie wiem co on tobie powiedział, ale mnie kur*a radził przygotować się na najgorsze.",
     "rate": 835,
     "date": "23.05.2014",
@@ -7437,23 +7440,23 @@
   },
   {
     "id": "5927",
-    "is_checked": false,
-    "content": "Pan Jezus pewnego dnia incognito przechadzał się po Nowym Yorku. W momencie kiedy przechodził przez slumsy, zaczepili go hipisi, którzy palili trawkę. Zaproponowali Jezusowi, żeby z nimi zapalił. Pan Jezus mówi sobie - czemu nie i zaciągnął się. Po pewnym czasie przypomniał sobie że się nie przedstawił hipisom, i mówi:\n- Jestem Jezus...\nA oni na to:\n- I o to chodzi!",
+    "is_checked": true,
+    "content": "Pan Jezus pewnego dnia incognito przechadzał się po Nowym Yorku. W momencie kiedy przechodził przez slumsy, zaczepili go hipisi, którzy palili trawkę. Zaproponowali Jezusowi, żeby z nimi zapalił. Pan Jezus mówi sobie - czemu nie - i zaciągnął się. Po pewnym czasie przypomniał sobie że się nie przedstawił hipisom, i mówi:\n- Jestem Jezus...\nA oni na to:\n- I o to chodzi!",
     "rate": 195,
     "date": "09.05.2014",
     "author": "nocturne"
   },
   {
     "id": "5924",
-    "is_checked": false,
-    "content": "Awantura domowa, w pewnym momencie mąż z wrzaskiem do żony:\n- Jak myślisz, czemu kur*a sąsiedzi nazywają cię idiotką?!\n- Byłbyś chuju generałem, nazywaliby mnie \"generałowa\"!",
+    "is_checked": true,
+    "content": "Awantura domowa, w pewnym momencie mąż z wrzaskiem do żony:\n- Jak myślisz, czemu sąsiedzi nazywają cię idiotką?!\n- Byłbyś chu*u generałem, nazywaliby mnie \"generałowa\"!",
     "rate": 256,
     "date": "07.05.2014",
     "author": "Grzegorz F."
   },
   {
     "id": "5923",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rzecz się dzieje w górach. Siedzą turyści przy ognisku, popijają tatrzańską naleweczkę, przyjemny klimat, ognia pilnuje baca.\n- Baco, a opowiedzcie nam jakąś historię, co by było raźniej i jeszcze przyjemniej.\n- Ano mogę opowiedzieć, a radosna ma być czy smutną wolicie?\n- Jasne, że radosną.\nBaca namyślił się chwilę i ochoczo rozpoczął:\n- Kiedyś żeśmy z juhasami owieczki na hali wypasali. Pasły się pasły, myśmy trochę popili na polanie i nam się jedna owieczka zgubiła. Szukaliśmy, szukaliśmy aż się wreszcie zguba znalazła i z tej radości żeśmy ją wszyscy jak jeden wyruchali.\nTuryści spojrzeli jeden na drugiego z obrzydzeniem w oczach, po czym jeden z nich nieśmiało zapytał:\n- Baco, a może jest jakaś inna radosna historia?\n- Ano jest i inna. Kiedyś żeśmy z juhasami barany na hali wypasali i ni się obejrzeli, a jeden baran nam się zgubił. Godzinami żeśmy go szukali, ale wreszcie zgubę odnaleźli. No i z tej radości żeśmy go wszyscy wyruchali jeden po drugim.\n- Nie no baco, to ma być radosna historia?! To może jakaś smutna jest?\n- Ano jest i smutna - kiedyś to ja się zgubiłem.",
     "rate": 746,
     "date": "03.05.2014",
@@ -7461,31 +7464,32 @@
   },
   {
     "id": "5919",
-    "is_checked": false,
-    "content": "Dwóch dziadków siedzi sobie przed domem i tak sobie obserwują stadko drobiu.\nW pewnym momencie kogut wskoczył na kurę, a panowie obserwują.\nW tym samym czasie wyszła z domu babcia i sypnęła kurom ziarna.\nKogut zeskoczył z kury i pobiegł dziobać ziarno.\nDziadek widząc to mówi do drugiego:\n- nie daj Boże, taki głód",
+    "is_checked": true,
+    "content": "Dwóch dziadków siedzi sobie przed domem i tak sobie obserwują stadko drobiu.\nW pewnym momencie kogut wskoczył na kurę, a panowie obserwują. W tym samym czasie wyszła z domu babcia i sypnęła kurom ziarna. Kogut zeskoczył z kury i pobiegł dziobać ziarno. Dziadek widząc to mówi do drugiego:\n- Nie daj Boże, taki głód",
     "rate": 248,
     "date": "22.04.2014",
     "author": "krzyś"
   },
   {
     "id": "5906",
-    "is_checked": false,
-    "content": "Jest rok 1941, amerykański komandos dostaje zadanie od generała. \nMa przelecieć na terytorium Francji, skoczyć ze spadochronu, odnaleźć rower ukryty w krzakach, na nim dostać się do najbliższego miasta i tam połączyć się ze swoim kontaktem, w celu uzyskania dalszych instrukcji sabotażowych. Komandos spakował cały osprzęt, przygotował się do lotu.\nPo pewny  czasie pilot w głośniku poinformował go, że są nad strefą zrzutu. Gdy zapaliła się zielona lampka - komandos wyskoczył.\nSpada w dół, ciągnie za jedną linkę od spadochronu - nic,\nciągnie za drugą linkę - nic,\ntak sobie spada w dół i myśli \" kur*a, jak jeszcze roweru nie będzie to już w ogóle przejebane\"",
+    "is_checked": true,
+    "content": "Jest rok 1941, amerykański komandos dostaje zadanie od generała. Ma przelecieć na terytorium Francji, skoczyć ze spadochronu, odnaleźć rower ukryty w krzakach, na nim dostać się do najbliższego miasta i tam połączyć się ze swoim kontaktem, w celu uzyskania dalszych instrukcji sabotażowych. Komandos spakował cały osprzęt, przygotował się do lotu.\nPo pewnym  czasie pilot w głośniku poinformował go, że są nad strefą zrzutu. Gdy zapaliła się zielona lampka - komandos wyskoczył.\nSpada w dół, ciągnie za jedną linkę od spadochronu - nic, ciągnie za drugą linkę - nic, tak sobie spada w dół i myśli \"kur*a, jak jeszcze roweru nie będzie to już w ogóle przejebane\"",
     "rate": 171,
     "date": "28.03.2014",
     "author": "IruńcioPupuńcio"
   },
   {
     "id": "5901",
-    "is_checked": false,
-    "content": "- po co wymyślono biała czekoladę?\n- zęby murzyn tez mógł się upie*olic",
+    "is_checked": true,
+    "content": "- Po co wymyślono białą czekoladę?\n- Żeby murzyn tez mógł się upier*olić",
     "rate": 97,
     "date": "14.02.2014",
     "author": "r3"
   },
   {
     "id": "5898",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Co robi dzik w zamku?\n- Penetruje lochy",
     "rate": 198,
     "date": "14.02.2014",
@@ -7493,15 +7497,15 @@
   },
   {
     "id": "5896",
-    "is_checked": false,
-    "content": "Trwa rewolucja. Przychodzi faks z Moskwy:\n\"Możemy uznać waszą rewolucję ale musicie dać nam Kijów i Lwów. \nW sztabie Juszczenki chwilowa konsternacja. Jednak za chwilę pada odpowiedź: \n\"Ok. Kijów możemy wam dać. Lwów musicie sobie jednak sami nałapać.\"",
+    "is_checked": true,
+    "content": "Trwa rewolucja. Przychodzi faks z Moskwy:\n\"Możemy uznać waszą rewolucję, ale musicie dać nam Kijów i Lwów\".\nW sztabie Juszczenki chwilowa konsternacja. Jednak za chwilę pada odpowiedź: \n\"Ok. Kijów możemy wam dać. Lwów musicie sobie jednak sami nałapać.\"",
     "rate": 184,
     "date": "10.02.2014",
     "author": "x"
   },
   {
     "id": "5886",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Jestem lesbijką - mówi córka do ojca.\n- W porządku.\n- Tato, ja też jestem lesbijką... - mówi druga córka.\n- Boże, czy w tej rodzinie naprawdę nikt nie lubi penisów?! - pyta ojciec.\n- Ja lubię... - wtrąca się syn.",
     "rate": 826,
     "date": "24.01.2014",
@@ -7509,7 +7513,7 @@
   },
   {
     "id": "5885",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Rozmowa męża z żoną:\n- Piwo się skończyło! Skoczysz do sklepu?\n- Ale na zewnątrz jest lód, jeszcze się wywrócę!\n- To kup w puszce, żeby się nie stłukło.",
     "rate": 662,
     "date": "24.01.2014",
@@ -7517,95 +7521,96 @@
   },
   {
     "id": "5879",
-    "is_checked": false,
-    "content": "Chłopu pewnemu, gdzieś z lubelskiego\n fujarka nie chciała, no wiecie, ten tego...\n Z rozpaczy żonę po \"głębszym\" był walił\n lecz nie fujarką (tym się nie chwalił)\n Stwierdził, że renta mu się należy:\n on leży, c*j leży, robota leży...\n Wracając raz z Kr Usu ploteczkę zasłyszał\n o mędrcu co sprawić miał, by mu nie wisiał\n Udał się zatem do starca szybciutko\n ten mu doradził, zwięźle i krótko:\n \"Masz tu złośliwca trollem zwanego\n weź go do domu, c*j będzie ten tego...\n Dopóki zajęty troll będzie robotą\n żonkę przelecisz z wielką ochotą\n Lecz jeśli roboty trollowi zbraknie\n koniec r*Chania, fujarka klapnie\"\n \"Ogródek idź skopać!\" - już leży na żonie\n nie r*chną ni razu - ten wrzeszczy \"Skończone!\"\n \"Garaż idź postaw!\" - gramoli się znowu\n nie zdążył wleźć nawet - troll stoi u progu\n KW*rwiła się baba, rozgrzana już cała\n na ucho trollowi coś zrobić kazała\n Trzy dni się bzykali! aż rolnik zapytał\n co robi troll mały, że tu nie zawitał?\n Żona bez słowa do męża mrugnęła\n i na wycieczkę nad wodę go wzięła\n Nad brzegiem jeziora troll siedzi i pierze\n i co raz majtasy do ręki bierze\n Pod słońce patrzy, na boki się buja:\n \"to żółte z dupy nie zejdzie, ni c*ja\"",
+    "is_checked": true,
+    "is_duplicate": true,
+    "content": "Chłopu pewnemu, gdzieś z lubelskiego fujarka nie chciała, no wiecie, ten tego... Z rozpaczy żonę po \"głębszym\" był walił, lecz nie fujarką (tym się nie chwalił). Stwierdził, że renta mu się należy:\n on leży, ch*j leży, robota leży...\n Wracając raz z Kr Usu ploteczkę zasłyszał\n o mędrcu co sprawić miał, by mu nie wisiał\n Udał się zatem do starca szybciutko\n ten mu doradził, zwięźle i krótko:\n \"Masz tu złośliwca trollem zwanego\n weź go do domu, c*j będzie ten tego...\n Dopóki zajęty troll będzie robotą\n żonkę przelecisz z wielką ochotą\n Lecz jeśli roboty trollowi zbraknie\n koniec r*Chania, fujarka klapnie\"\n \"Ogródek idź skopać!\" - już leży na żonie\n nie r*chną ni razu - ten wrzeszczy \"Skończone!\"\n \"Garaż idź postaw!\" - gramoli się znowu\n nie zdążył wleźć nawet - troll stoi u progu\n KW*rwiła się baba, rozgrzana już cała\n na ucho trollowi coś zrobić kazała\n Trzy dni się bzykali! aż rolnik zapytał\n co robi troll mały, że tu nie zawitał?\n Żona bez słowa do męża mrugnęła\n i na wycieczkę nad wodę go wzięła\n Nad brzegiem jeziora troll siedzi i pierze\n i co raz majtasy do ręki bierze\n Pod słońce patrzy, na boki się buja:\n \"to żółte z dupy nie zejdzie, ni c*ja\"",
     "rate": 148,
     "date": "09.01.2014",
     "author": "sokker"
   },
   {
     "id": "5874",
-    "is_checked": false,
-    "content": "Kupiła sobie baba dużą szafę.\nRadość jednak wnet przeszła w irytacje, gdyż za każdym razem po przejechaniu tramwaju obok bloku, otwierały się drzwi owej szafy.\nZadzwoniła więc po speca. Gdy ten oglądał szafę, akurat przejechał na dole tramwaj. Drzwi natychmiast się otworzyły.\nSpec pomyślał chwilkę i mówi:\n-Wie pani co? Coś puszcza od środka. Ja wejdę do szafy, pani mnie zamknie i jak przejedzie tramwaj zobaczę w czym rzecz.\nTak więc zrobił. Wszedł do szafy. Kobieta go zamknęła i wyszła, a ten w środku czeka i nadsłuchuje.\nMinęło parę dobrych minut, gdy nagle spec słyszy kroki w kierunku szafy. \nDewi się otwierają i widzi jakiegoś faceta chcącego zawiesić płaszcz, który na widok mężczyzny w szafie staje jak wryty.\n-O kur*a- myśli spec- to pewnie mąż tej kobiety. Zrezygnowanym głosem więc mówi:\n-Dobra, to mi pan odrazy przypierdol, bo prawdopodobnie pan nie uwierzy, że czekam tu na tramwaj...",
+    "is_checked": true,
+    "content": "Kupiła sobie baba dużą szafę. Radość jednak wnet przeszła w irytację, gdyż za każdym razem po przejechaniu tramwaju obok bloku, otwierały się drzwi owej szafy.\nZadzwoniła więc po speca. Gdy ten oglądał szafę, akurat przejechał na dole tramwaj. Drzwi natychmiast się otworzyły. Spec pomyślał chwilkę i mówi:\n- Wie pani co? Coś puszcza od środka. Ja wejdę do szafy, pani mnie zamknie i jak przejedzie tramwaj zobaczę w czym rzecz.\nTak więc zrobił. Wszedł do szafy. Kobieta go zamknęła i wyszła, a ten w środku czeka i nadsłuchuje.\nMinęło parę dobrych minut, gdy nagle spec słyszy kroki w kierunku szafy. \nDrzwi się otwierają i widzi jakiegoś faceta chcącego zawiesić płaszcz, który na widok mężczyzny w szafie staje jak wryty.\n- O kur*a - myśli spec - to pewnie mąż tej kobiety. Zrezygnowanym głosem więc mówi:\n- Dobra, to mi pan odrazy przypierdol, bo prawdopodobnie pan nie uwierzy, że czekam tu na tramwaj...",
     "rate": 779,
     "date": "11.12.2013",
     "author": "nocturne"
   },
   {
     "id": "5871",
-    "is_checked": false,
-    "content": "Co mówi prostytutka po obsłużeniu klienta?\n\"Baza wirusów została zaktualizowana\"",
+    "is_checked": true,
+    "content": "Co mówi prostytutka po obsłużeniu klienta?\n- Baza wirusów została zaktualizowana",
     "rate": 225,
     "date": "02.12.2013",
     "author": "koms"
   },
   {
     "id": "5868",
-    "is_checked": false,
-    "content": "Słyszeliście, że ministrant uratował życie biskupowi?\n- w jaki sposób?\n- wymacał mu guza na jądrze.",
+    "is_checked": true,
+    "content": "Słyszeliście, że ministrant uratował życie biskupowi?\n- W jaki sposób?\n- Wymacał mu guza na jądrze.",
     "rate": 92,
     "date": "29.11.2013",
     "author": "Maks"
   },
   {
     "id": "5864",
-    "is_checked": false,
-    "content": "Idzie facet przez pustynie i nagle na horyzoncie ukazuje mu się wielki kort tenisowy.\nPodchodzi bliżej i widzi zrezygnowanego faceta z rakietą tenisową z mnóstwem piłek do gry.\nZdziwiony pyta:\n-Panie, skąd Ty żeś kur*a taki wielki kort na środku pustyni wytrzasnął?\n-A od złotej rybki- mówi poirytowany-sto metrów dalej jest sadzawka.\nFacet bez namysłu poszedł w stronę sadzawki. Podchodzi i rzeczywiście widzi złotą rybkę.\n-Złota rybko, złota rybko, proszę tu o gore złota...!\nCoś słyszy za plecami, odwraca się i widzi zaschniętą gore błota.\nWraca na kort i mówi: \n-Coś ta rybka kur*a głuchawa...\nA facet:\n-A ja myślisz prosiłem o wielki tenis?",
+    "is_checked": true,
+    "content": "Idzie facet przez pustynie i nagle na horyzoncie ukazuje mu się wielki kort tenisowy.\nPodchodzi bliżej i widzi zrezygnowanego faceta z rakietą tenisową z mnóstwem piłek do gry.\nZdziwiony pyta:\n- Panie, skąd Ty żeś kur*a taki wielki kort na środku pustyni wytrzasnął?\n- A od złotej rybki- mówi poirytowany - sto metrów dalej jest sadzawka.\nFacet bez namysłu poszedł w stronę sadzawki. Podchodzi i rzeczywiście widzi złotą rybkę.\n- Złota rybko, złota rybko, proszę tu o górę złota!\nCoś słyszy za plecami, odwraca się i widzi zaschniętą gore błota.\nWraca na kort i mówi: \n- Coś ta rybka kur*a głuchawa...\nA facet:\n-A myślisz, że ja prosiłem o wielki tenis?",
     "rate": 263,
     "date": "13.11.2013",
     "author": null
   },
   {
     "id": "5860",
-    "is_checked": false,
-    "content": "Przychodzi facet do lekarza i mówi. \n- Panie doktorze mam straszny problem z pamięcią.\n- A czy to się objawia? - odpowiada lekarz\n- A no kurcze położę rano książkę potem szukam jej cały dzień ni cholery nie pamiętam gdzie ją położyłem\n- Panie toż to żaden problem chodź pan na korytarz ja panu pokaże prawdziwy problem. - Wychodzą razem przed gabinet na ławce siedzi gość macający się jak nie po głowie to pod pachami i tak cały czas. Lekarz krzyczy\n- Kowalski co ty się tak macasz?\n- Aj kur*a panie doktorze sikać mi się chce, wiem, że gdzieś we włosach ale gdzie?",
+    "is_checked": true,
+    "content": "Przychodzi facet do lekarza i mówi: \n- Panie doktorze mam straszny problem z pamięcią.\n- A czym to się objawia? - odpowiada lekarz\n- A no kurcze położę rano książkę potem szukam jej cały dzień, ni cholery nie pamiętam gdzie ją położyłem\n- Panie toż to żaden problem chodź pan na korytarz ja panu pokaże prawdziwy problem. - Wychodzą razem przed gabinet na ławce siedzi gość macający się jak nie po głowie to pod pachami i tak cały czas. Lekarz krzyczy:\n- Kowalski co ty się tak macasz?\n- Aj kur*a panie doktorze sikać mi się chce, wiem, że gdzieś we włosach ale gdzie?",
     "rate": 96,
     "date": "25.10.2013",
     "author": "boston91"
   },
   {
     "id": "5855",
-    "is_checked": false,
-    "content": "Wytwórnia narkotyków gdzieś w Kolumbii. \n- Wyjątkowo dobra wyszła mi ostatnia partia - mówi młody chemik.\n- Niby dlaczego? - pyta boss.\n- Nieco towaru spadło mi na podłogę, na której był ślimak - wyjaśnia chemik.\n- No i co? - dopytuje boss.\n- No i do tej pory gdzieś tu biega - odpowiada chemik.",
+    "is_checked": true,
+    "content": "Wytwórnia narkotyków gdzieś w Kolumbii. \n- Wyjątkowo dobra wyszła mi ostatnia partia - mówi młody chemik.\n- Niby dlaczego? - pyta boss.\n- Nieco towaru spadło mi na podłogę na której był ślimak - wyjaśnia chemik.\n- No i co? - dopytuje boss.\n- No i do tej pory gdzieś tu biega - odpowiada chemik.",
     "rate": 110,
     "date": "13.10.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5846",
-    "is_checked": false,
-    "content": "Przychodzi baba do lekarza i opowiada że jej mąż w ogóle nie ma ochoty się z nią kochać.\nLekarz na to: No wie Pani co, no ciężko jest na to znaleźć jakiekolwiek lekarstwo, ale może.. taki sposób:\nżeby zainteresować męża jak wróci z pracy to proszę się rozebrać i wypiąć się w stronę drzwi. Jak zobaczy że Pani jest już gotowa na igraszki to może coś z tego będzie.\n\nJak jej kazał, tak zrobiła. Mąż do domu wraca po 16 a ona czeka naga, wypięta w stronę drzwi.\nMąż przychodzi do domu, otwiera drzwi...\ni ?! i Krzyczy, drze się, wybiega z domu i poleciał do najbliższego baru i od wejścia woła:\nBarman SETKA!\nbarman polał, a facet drżącą ręką przechylił na raz kieliszek.\nBarman DRUGA SETKA!\nBarman lekko zdziwiony polał i znowu chłop wypił.\nBarman TRZECIA SETKA!\nBarman polał i pyta co się stało?!\nChłop wypił trzeci kieliszek i mówi:\nCo się stało?! Co się stało?! Wracam do domu k*rwa zmęczony, po robocie, otwieram drzwi i co widzę? \na tam karzeł, metr na metr, broda po kolana, szrama przez pół ryja i jeszcze się k*rwa mać ślini ! ! !",
+    "is_checked": true,
+    "content": "Przychodzi baba do lekarza i opowiada, że jej mąż w ogóle nie ma ochoty się z nią kochać. \nLekarz na to: No wie Pani co, no ciężko jest na to znaleźć jakiekolwiek lekarstwo, ale może taki sposób:\nŻeby zainteresować męża jak wróci z pracy to proszę się rozebrać i wypiąć się w stronę drzwi. Jak zobaczy że Pani jest już gotowa na igraszki to może coś z tego będzie.\nJak jej kazał, tak zrobiła. Mąż do domu wraca po 16, a ona czeka naga, wypięta w stronę drzwi. Mąż przychodzi do domu, otwiera drzwi... i krzyczy, drze się, wybiega z domu i poleciał do najbliższego baru i od wejścia woła:\nBarman SETKA!\nBarman polał, a facet drżącą ręką przechylił na raz kieliszek.\nBarman DRUGA SETKA!\nBarman lekko zdziwiony polał i znowu chłop wypił.\nBarman TRZECIA SETKA!\nBarman polał i pyta co się stało?!\nChłop wypił trzeci kieliszek i mówi:\nCo się stało?! Co się stało?! Wracam do domu k*rwa zmęczony, po robocie, otwieram drzwi i co widzę? Karzeł, metr na metr, broda po kolana, szrama przez pół ryja i jeszcze się k*rwa mać ślini!",
     "rate": 205,
     "date": "17.09.2013",
     "author": "Ralf"
   },
   {
     "id": "5834",
-    "is_checked": false,
-    "content": "Czym się różni opona od murzyna.Jak Założysz łańcuchy na oponę to nie zacznie rapować",
+    "is_checked": true,
+    "content": "- Czym się różni opona od murzyna? \n- Jak Założysz łańcuchy na oponę to nie zacznie rapować",
     "rate": 172,
     "date": "18.08.2013",
     "author": "Jasio"
   },
   {
     "id": "5833",
-    "is_checked": false,
-    "content": "Było sobie dwóch kumpli-drwali: Wiesław i Patryk. Poszli pewnego razu do roboty i Wiesiek odrąbał sobie rękę. Patryk - myk, myk - wrzucił rękę do torebki foliowej, Wiesława do samochodu i szybko zawiózł do szpitala.\n - Ręka... aaa... - mruczy chirurg. - Będzie ciężko. Za cztery godziny proszę przyjechać po kolegę.\n Po tym czasie Patryk przyjeżdża do szpitala.\n - Gdzie Wiesiek?\n - W ping-ponga gra.\n Rzeczywiście - drwal niepiżdżąca w pinga przyszytą ręką aż miło.\n Po tygodniu Wiesławowi przydarzył się podobny wypadek - odrąbał sobie nogę. Patryk analogicznie - noga, torebka, Wiesiek, samochód, szpital.\n - Noga, ciężka sprawa - mówi chirurg. - Proszę przyjść za sześć godzin.\n Po tym czasie Patryk przyjeżdża do szpitala, a tam na trawniku Wiesio przyszytą nogą w piłkę gra, aż szyby lecą.\n Po tygodniu Wisława dopadł pech jeszcze większy. Odrąbał sobie głowę. Patryk - standard: głowa, torebka, korpus Wiesława, auto, szpital.\n - Uuu... ciężka operacja z tą głową, ale za 10 godzin powinno być OK - mówi chirurg.\n Po tym czasie do szpitala zajeżdża Patryk.\n - Gdzie Wiesław?\n - Nie żyje.\n - Jak to?! Przecież miało być OK. Operacja wprawdzie ciężka...\n - Bo była ciężka! Ale żeś pan, kuźwa, Wieśka w torebce udusił!",
+    "is_checked": true,
+    "content": "Było sobie dwóch kumpli-drwali: Wiesław i Patryk. Poszli pewnego razu do roboty i Wiesiek odrąbał sobie rękę. Patryk - myk, myk - wrzucił rękę do torebki foliowej, Wiesława do samochodu i szybko zawiózł do szpitala.\n - Ręka... aaa... - mruczy chirurg. - Będzie ciężko. Za cztery godziny proszę przyjechać po kolegę.\n Po tym czasie Patryk przyjeżdża do szpitala.\n - Gdzie Wiesiek?\n - W ping-ponga gra.\n Rzeczywiście - drwal gra w pingla przyszytą ręką aż miło.\n Po tygodniu Wiesławowi przydarzył się podobny wypadek - odrąbał sobie nogę. Patryk analogicznie - noga, torebka, Wiesiek, samochód, szpital.\n - Noga, ciężka sprawa - mówi chirurg. - Proszę przyjść za sześć godzin.\n Po tym czasie Patryk przyjeżdża do szpitala, a tam na trawniku Wiesio przyszytą nogą w piłkę gra, aż szyby lecą.\n Po tygodniu Wisława dopadł pech jeszcze większy. Odrąbał sobie głowę. Patryk - standard: głowa, torebka, korpus Wiesława, auto, szpital.\n - Uuu... ciężka operacja z tą głową, ale za 10 godzin powinno być OK - mówi chirurg.\n Po tym czasie do szpitala zajeżdża Patryk.\n - Gdzie Wiesław?\n - Nie żyje.\n - Jak to?! Przecież miało być OK. Operacja wprawdzie ciężka...\n - Bo była ciężka! Ale żeś pan, kuźwa, Wieśka w torebce udusił!",
     "rate": 131,
     "date": "16.08.2013",
     "author": "bobek"
   },
   {
     "id": "5832",
-    "is_checked": false,
-    "content": "Facet odkrył nowe prezerwatywy: Olimpijskie. Kupił zestaw i pokazuje go w domu żonie.\n- Dlaczego te kondomy nazywają się Olimpijskie?- pyta się żona.\n- Są w trzech kolorach, jak medale: złoty, srebrny i brązowy- wyjaśnia mąż.\n- A jaki dziś założysz?- zalotnie pyta żona.\n- Jasne, że złoty- pręży się facet.\n- Tak, myślałam. Założyłbyś srebrny i choć raz doszedłbyś drugi, co?",
+    "is_checked": true,
+    "content": "Facet odkrył nowe prezerwatywy: Olimpijskie. Kupił zestaw i pokazuje go w domu żonie.\n- Dlaczego te kondomy nazywają się Olimpijskie?- pyta się żona.\n- Są w trzech kolorach jak medale: złoty, srebrny i brązowy - wyjaśnia mąż.\n- A jaki dziś założysz?- zalotnie pyta żona.\n- Jasne, że złoty- pręży się facet.\n- Tak, myślałam. Założyłbyś srebrny i choć raz doszedłbyś drugi, co?",
     "rate": 217,
     "date": "05.08.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5829",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W sądzie trwa rozprawa rozwodowa, a dokładniej sprawa o przyznanie opieki nad dzieckiem.\nMatka (jeszcze żona, już nie kochanka) wstała i jasno dała do zrozumienia sędziemu, że dzieci należą się jej.\nTo ona je urodziła, więc to są jej dzieci.\nSędzia zwrócił się do męża, co on ma do powiedzenia.\nMaż przez chwilę milczał, po czym powoli podniósł się z krzesła i rzekł:\n- Panie sędzio, kiedy wkładam złotówkę do automatu ze słodyczami i wypada z niego batonik, to czy batonik należy do mnie, czy do automatu?",
     "rate": 390,
     "date": "01.08.2013",
@@ -7613,7 +7618,7 @@
   },
   {
     "id": "5827",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Pracownik często spóźniał się do pracy, bo zasypiał. Kierownik zagrozili chłopu zwolnieniem i biedak kupił sobie kilka budzików. Któregoś dnia budzi się rano 8:15 (do pracy na 8). Budziki nawet nie gdaknęły. Przerażony leci do sąsiada - dentysty i mówi:\n - Rwij pan 4 zęby z przodu i pomaż pan mi twarz krwią, powiem, że miałem wypadek.\n Po zabiegu, pyta dentysty ile się należy, ten mówi 400zł. Gość zdziwiony mówi, że normalnie jest 40zł od sztuki, dentysta na to:\n - Tak, ale dzisiaj jest niedziela...",
     "rate": 334,
     "date": "29.07.2013",
@@ -7621,7 +7626,7 @@
   },
   {
     "id": "5823",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Słuchaj stary, wczoraj, gdy akurat nie było mojej ślubnej, bzykam sobie elegancko lalę, którą poderwałem na ulicy i nagle wchodzi moja teściowa!\n- I co? I co?\n- Bardzo pozytywnie mnie kobita zaskoczyła. Bardzo pozytywnie.\n- Co zrobiła? No co?\n- A, no kulturalnie wzięła i zeszła.\n- Na dwór?\n- Nie, na zawał.",
     "rate": 285,
     "date": "19.07.2013",
@@ -7629,39 +7634,41 @@
   },
   {
     "id": "5821",
-    "is_checked": false,
-    "content": "W Harlemie pięciu murzynów napadło i zaczęło tarmosić niemieckiego turystę. Niemiec zaczął krzyczeć:\n- Nin, tein!\nPrzybiegło jeszcze czterech...",
+    "is_checked": true,
+    "content": "W Harlemie pięciu murzynów napadło i zaczęło tarmosić niemieckiego turystę. Niemiec zaczął krzyczeć:\n- Nein, nein!\nPrzybiegło jeszcze czterech...",
     "rate": 91,
     "date": "15.07.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5815",
-    "is_checked": false,
-    "content": "Tata, mama i synek stoją przed budką z lodami. Tata zamówił lody czekoladowe, mama waniliowe. W tym momencie ojciec z rozmachem trzaska synka w głowę i pyta:\n- A ty jakie chcesz, Wielki Łbie?\nOburzona starsza pani pyta:\n- Dlaczego pan go bije i tak wyzywa?!\nOjciec na to:\n- Są trzy rzeczy w życiu, które facet chce mieć.\nPo pierwsze: duży, fajny samochód. Proszę spojrzeć tam na\nparking-ojciec wskazuje piękne BMW. Oto on.\nPo drugie: wielki, wygodny dom. Widzi pani tamten dom na\nwzgórzu?-ojciec wskazuje na wielką willę z basenem. \nTo mój.\nPo trzecie: Fajną laskę z ciasną c*pąk.\nI taką też miałem dopóki nie urodził się Wielki Łeb!",
+    "is_checked": true,
+    "content": "Tata, mama i synek stoją przed budką z lodami. Tata zamówił lody czekoladowe, mama waniliowe. W tym momencie ojciec z rozmachem trzaska synka w głowę i pyta:\n- A ty jakie chcesz Wielki Łbie?\nOburzona starsza pani pyta:\n- Dlaczego pan go bije i tak wyzywa?!\nOjciec na to:\n- Są trzy rzeczy w życiu, które facet chce mieć.\nPo pierwsze: duży, fajny samochód. Proszę spojrzeć tam na parking - ojciec wskazuje piękne BMW. Oto on.\nPo drugie: wielki, wygodny dom. Widzi pani tamten dom na wzgórzu? - ojciec wskazuje na wielką willę z basenem. To mój.\nPo trzecie: Fajną laskę z ciasną ci*ką.\nI taką też miałem dopóki nie urodził się Wielki Łeb!",
     "rate": 433,
     "date": "06.07.2013",
     "author": "truebaran"
   },
   {
     "id": "5810",
-    "is_checked": false,
-    "content": "Na ruchliwym skrzyżowaniu stoi młoda ładna policjantka i kieruje ruchem\n nagle stwierdza że zaczyna się u niej okres niestety jej służba potrwa jeszcze pięć godzin\n a ona nic przy sobie nie ma co mogłoby jej pomóc\n nie wiedząc co począć łapie za krótkofalówkę i łączy się z dyspozytorem na komendzie\n przez radio zgłasza się jej kolega Józek\n - Józek możesz coś dla mnie zrobić?\n - dla Ciebie wszystko !\n - słuchaj ja stoję tu na skrzyżowaniu, moja służba kończy się dopiero na pięć godzin\n a ja dostałam okresu i nie mam nic przy sobie. Możesz to sobie wyobrazić - Czy mógłbyś mi jak najszybciej przywieźć mi moje tampony?\n są w moim biurku po prawej stronie w górnej szufladzie. Bardzo Cie proszę pośpiesz się !\n Policjantka dalej kieruje ruchem. Mija jedna godzina druga dopiero po trzech godzinach na sygnale z piskiem opon\n na skrzyżowanie wpada policyjny radiowóz i wyskakuje z niego zadowolony Józek i wymachuje pudełkiem z tamponami\n - Józek ty pierdoło przecież cię prosiłam żebyś się śpieszył gdzieś ty był tak długo ?\n - Jakby ci to powiedzieć - Jak przez radio podałaś że masz znowu okres to najpierw przyleciał ucieszony Kazik z kartonem szampana, potem uradowany Tomek postawił klatkę browaru no i Franek przyniósł kilka flaszek dobrego wina\n - No i?\n - No i murze ci uczciwie powiedzieć że i mnie spadł kamień z serca!",
+    "is_checked": true,
+    "content": "Na ruchliwym skrzyżowaniu stoi młoda ładna policjantka i kieruje ruchem, gdy nagle stwierdza że zaczyna się u niej okres. Niestety jej służba potrwa jeszcze pięć godzin, a ona nic przy sobie nie ma co mogłoby jej pomóc. Nie wiedząc co począć łapie za krótkofalówkę i łączy się z dyspozytorem na komendzie. Przez radio zgłasza się jej kolega Józek. \n- Józek możesz coś dla mnie zrobić?\n- Dla Ciebie wszystko!\n- Słuchaj ja stoję tu na skrzyżowaniu, moja służba kończy się dopiero za pięć godzin, a ja dostałam okresu i nie mam nic przy sobie. Możesz to sobie wyobrazić! Czy mógłbyś mi jak najszybciej przywieźć moje tampony? Są w moim biurku po prawej stronie w górnej szufladzie. Bardzo Cie proszę pospiesz się!\nPolicjantka dalej kieruje ruchem. Mija jedna godzina, druga, dopiero po trzech godzinach na sygnale z piskiem opon na skrzyżowanie wpada policyjny radiowóz i wyskakuje z niego zadowolony Józek i wymachuje pudełkiem z tamponami.\n- Józek ty pierdoło przecież cię prosiłam żebyś się spieszył gdzieś ty był tak długo? \n- Jakby ci to powiedzieć? Jak przez radio podałaś, że masz znowu okres to najpierw przyleciał ucieszony Kazik z kartonem szampana, potem uradowany Tomek postawił kratkę browaru no i Franek przyniósł kilka flaszek dobrego wina.\n- No i?\n- No i muszę ci uczciwie powiedzieć, że i mnie spadł kamień z serca!",
     "rate": 253,
     "date": "21.06.2013",
     "author": "Józek"
   },
   {
     "id": "5809",
-    "is_checked": false,
-    "content": "Stoi facet na klatce schodowej i pali. Nagle z sąsiedniego mieszkania rozlegają się krzyki, wrzaski. Za chwilę wychodzi sąsiad z połamanymi okularami 3D. Facet go pyta:\n- Sąsiedzie, czemu Pan taki ściekły?\n- Kupiłem sobie telewizor 3D i właśnie rozwaliłem go w drzazgi.\n- Dlaczego?\n- Próbowałem obejrzeć pornola i pięć razy mi mało c..ja do mordy nie wsadzili.",
+    "is_checked": true,
+    "is_duplicate": true,
+    "content": "Stoi facet na klatce schodowej i pali. Nagle z sąsiedniego mieszkania rozlegają się krzyki, wrzaski. Za chwilę wychodzi sąsiad z połamanymi okularami 3D. Facet go pyta:\n- Sąsiedzie, czemu Pan taki wściekły?\n- Kupiłem sobie telewizor 3D i właśnie rozwaliłem go w drzazgi.\n- Dlaczego?\n- Próbowałem obejrzeć pornola i pięć razy mi mało c..ja do mordy nie wsadzili.",
     "rate": 278,
     "date": "20.06.2013",
     "author": "tip76"
   },
   {
     "id": "5804",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Zajączek przychodzi do nory lisa, puka ale otwiera mu lisica.\n- stary jest?\n- nie, na ryby poszedł\n- słuchaj lisica dam Ci 100zł jak mi zrobisz laskę.\n- nie no co Ty 100zł to mało, zresztą zaraz stary może wrócić.\n- dobra lisica dam ci 200ZL jak mi zrobisz laskę.\nLisica pomyślała, że 200zł piechotą nie chodzi i zrobiła mu laskę. Zając zadowolony, ale po 2 minutach mówi do lisicy\n- słuchaj lisica dam Ci 300zł jak mi dasz dupy.\n- zając no co Ty 200zł mi dałeś za laskę a teraz za danie dupy z trzema stówami wyskakujesz?\n- No dobra lisica dam Ci 500zł\nNo i lisica dała mu dupy za 500zł poszedł zając zadowolony do domu. Po godzinie wraca lis.\n- zając był?\n- no był\n- pieniądze oddał?",
     "rate": 290,
     "date": "14.06.2013",
@@ -7669,23 +7676,23 @@
   },
   {
     "id": "5801",
-    "is_checked": false,
-    "content": "Żona do męża:\n-Czy naprawdę musiałeś znowu wypić całą butelkę wódki?\n-Kochanie, tym razem zostałem zmuszony.\n-Przez kogo?\n-Przez przypadek. Zgubiłem nakrętkę od butelki.",
+    "is_checked": true,
+    "content": "Żona do męża:\n- Czy naprawdę musiałeś znowu wypić całą butelkę wódki?\n- Kochanie, tym razem zostałem zmuszony.\n- Przez kogo?\n- Przez przypadek. Zgubiłem nakrętkę od butelki.",
     "rate": 172,
     "date": "05.06.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5800",
-    "is_checked": false,
-    "content": "Wybrał się facet na wycieczkę po Polsce. W jednym z miast wszedł do sklepu w celu kupienia jakiejś ciekawej suweniry. Sklepik był mały, ale mieściło się w nim chyba wszystko - od pocztówek, przez doniczki i antyki, aż po magiczne kamienie. Facet się rozgląda, nie może się na nic zdecydować. Lecz nagle jego wzrok padł na drewnianą figurkę kota i patrzy na cenę - Figurka kota 10zł, Historia kota - 1000zł. Facet, nie namyślając się długo, wziął figurkę i podszedł do lady. Stary subiekt zapytał:\n- Z historią czy bez?\n- Daj se pan spokój, biorę kota i wychodzę.\nStary uśmiechnął się pod nosem:\n- Tak pan teraz mówi... I tak pan przyjdzie po historię...\nFacet nie powiedział już nic, tylko pomyślał, jak można być tak pój***nym i płacić 1000zł za jakąś tam historię kota. Zapłacił, podziękował i wyszedł. I nagle zaczęły się dziać dziwne rzeczy. Idąc z figurką w torbie, usłyszał miauczenie kotów. Potem zobaczył, że idzie za nim jakiś kot. Potem następny. I następny. I jeszcze inny. Z każdego zakamarka wyłaniały się koty i szły za facetem, który kupił figurkę kota. Koleś trochę się przestraszył i zaczął uciekać. Koty za nim. Przyspieszył. Koty za nim. Zwolnił. Koty też zwolniły. Stanął. I wokół niego stanęło kilkaset kotów.\nNo k***a, co jest?! O co w tym chodzi?!\nNiewiele myśląc, facet wyciągnął z torby tę figurkę i wrzucił ją do rzeki. Wszystkie koty skoczyły też do wody i wszystkie się utopiły. Facet wytrzeszczył oczy ze zdumienia. Chwilę stał jak wryty, ale nagle pognał w stronę sklepiku, w którym był wcześniej. Wpada zdyszany do środka, a stary subiekt zaczął rechotać.\n- Heh ehe, wiedziałem, że pan przyjdzie po historię...\n- Panie! - przerwał facet. - j***a tę historię! Ma pan może figurkę cygana?",
+    "is_checked": true,
+    "content": "Wybrał się facet na wycieczkę po Polsce. W jednym z miast wszedł do sklepu w celu kupienia jakiejś ciekawej suweniry. Sklepik był mały, ale mieściło się w nim chyba wszystko - od pocztówek, przez doniczki i antyki, aż po magiczne kamienie. Facet się rozgląda, nie może się na nic zdecydować. Lecz nagle jego wzrok padł na drewnianą figurkę kota i patrzy na cenę - Figurka kota 10zł, Historia kota - 1000zł. Facet, nie namyślając się długo, wziął figurkę i podszedł do lady. Stary subiekt zapytał:\n- Z historią czy bez?\n- Daj se pan spokój, biorę kota i wychodzę.\nStary uśmiechnął się pod nosem:\n- Tak pan teraz mówi... I tak pan przyjdzie po historię...\nFacet nie powiedział już nic, tylko pomyślał, jak można być tak poje*anym i płacić 1000zł za jakąś tam historię kota. Zapłacił, podziękował i wyszedł. I nagle zaczęły się dziać dziwne rzeczy. Idąc z figurką w torbie, usłyszał miauczenie kotów. Potem zobaczył, że idzie za nim jakiś kot. Potem następny. I następny. I jeszcze inny. Z każdego zakamarka wyłaniały się koty i szły za facetem, który kupił figurkę kota. Koleś trochę się przestraszył i zaczął uciekać. Koty za nim. Przyspieszył. Koty za nim. Zwolnił. Koty też zwolniły. Stanął. I wokół niego stanęło kilkaset kotów.\nNo kur*a, co jest?! O co w tym chodzi?!\nNiewiele myśląc, facet wyciągnął z torby tę figurkę i wrzucił ją do rzeki. Wszystkie koty skoczyły też do wody i wszystkie się utopiły. Facet wytrzeszczył oczy ze zdumienia. Chwilę stał jak wryty, ale nagle pognał w stronę sklepiku, w którym był wcześniej. Wpada zdyszany do środka, a stary subiekt zaczął rechotać.\n- Hehehe, wiedziałem, że pan przyjdzie po historię...\n- Panie! - przerwał facet. - je*ać tę historię! Ma pan może figurkę cygana?",
     "rate": 346,
     "date": "04.06.2013",
     "author": "bArTiX"
   },
   {
     "id": "5793",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Moja żona myśli, że oblała prawko w momencie, w którym nie zatrzymała się przed zebrą. Ja wiem, że stało się to już w momencie wjechania do zoo.",
     "rate": 294,
     "date": "24.05.2013",
@@ -7693,7 +7700,7 @@
   },
   {
     "id": "5792",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Mówi żona do męża:\n- Kochanie, sprawmy sobie wyśmienity weekend!\n- Cudowny pomysł moja droga, do zobaczenia w poniedziałek.",
     "rate": 629,
     "date": "24.05.2013",
@@ -7701,15 +7708,15 @@
   },
   {
     "id": "5787",
-    "is_checked": false,
-    "content": "Małżeństwo w łóżku:\n- Patrz, stanął mi!\n- To dawaj, przysuń się do mnie szybko....\n- Ciszej! bo jeszcze pozna cię po głosie!",
+    "is_checked": true,
+    "content": "Małżeństwo w łóżku:\n- Patrz, stanął mi!\n- To dawaj, przysuń się do mnie szybko....\n- Ciszej, bo jeszcze pozna cię po głosie!",
     "rate": 368,
     "date": "20.05.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5782",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W XI wieku Arabowie wynaleźli prezerwatywę wkładając penisa w jelito grube owcy.\nW XIX wieku Francuzi znacząco udoskonalili ten wynalazek poprzez uprzednie wyjęcie jelita grubego z owcy.",
     "rate": 399,
     "date": "21.04.2013",
@@ -7717,7 +7724,7 @@
   },
   {
     "id": "5781",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Przed przejściem dla pieszych stoi trzęsąca się starowinka o laseczce. Obok młodzian.\n- Chłopcze, przeprowadzisz mnie na drugą stronę?\n- Oczywiście, babciu. Zaraz się zapali zielone światło...\n- Na zielonym, kur*a, to se sama przejdę!",
     "rate": 243,
     "date": "14.04.2013",
@@ -7725,15 +7732,15 @@
   },
   {
     "id": "5780",
-    "is_checked": false,
-    "content": "Facet próbuje wyrzucić teściową przez balkon.\nPod balkonem przechodzi sąsiad i krzyczy:\n- Panie, zabijesz pan człowieka!\n- To się pan odsuń!",
+    "is_checked": true,
+    "content": "Facet próbuje wyrzucić teściową przez balkon. Pod balkonem przechodzi sąsiad i krzyczy:\n- Panie, zabijesz pan człowieka!\n- To się pan odsuń!",
     "rate": 752,
     "date": "11.04.2013",
     "author": "Grzegorz F."
   },
   {
     "id": "5779",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Palisz?\n- Tak.\n- Ile paczek dziennie?\n- Trzy.\n- Ile kosztuje jedna?\n- 12 zł\n- Od dawna palisz?\n- Od 20 lat.\n- Uśredniając wydajesz 36 zł dziennie na papierosy, co daje 13140 zł rocznie. W ciągu ostatnich 20 lat wypaliłeś 262 800 zł. Nawet biorąc pod uwagę fakt, że kiedyś papierosy były tańsze, nie uwzględniamy przecież kosztów inflacji, itp. Możemy więc założyć, że to faktycznie przybliżone wydatki?\n- Zgadza się.\n- Czy wiesz, że gdybyś odkładał te pieniądze w banku na oprocentowanym rachunku oszczędnościowym mógłbyś kupić sobie za to nowiutkie Porsche?\n- Palisz?\n- Nie.\n- Gdzie twoje Porsche?",
     "rate": 297,
     "date": "10.04.2013",
@@ -7741,15 +7748,15 @@
   },
   {
     "id": "5775",
-    "is_checked": false,
-    "content": "Leci sobie duży pasażerski samolot. Spokojnie, bez ciśnień, pogoda ładna. Nagle podlatuje do niego wojskowy AF16, którego pilotowi straszliwie się nudzi i zaczyna wkurwiać pilota dużej maszyny. Przelatuje nad nim, pod nim, jakieś beczki, korkociągi w niebezpiecznej odległości itp. Przy czym cały czas szydzi z pilota samolotu pasażerskiego:\n - Czym ty latasz? Stodołą? Patrz na to gościu. Zrobisz tak? Nie zrobisz! Mam lepszy samolot i nie ma czegoś takiego co potrafisz ty i Twoja maszyna, czego ja bym nie zrobił milion razy lepiej!\n Koleś w pasażerce coraz bardziej wnerwiony, po którejś tam sugestii by się żołnierzyk ustosunkował, w końcu proponuje:\n - OK, DeltaTangoCharlieCośTam. Teraz wykonam jeden myk, ale jak go nie powtórzysz - na dole stawiasz kolację, panienki, a na kadłubie swojego \"odkurzacza\" piszesz: JESTEM ZŁOMEM. Umowa?\n - Dawaj, misiu! Nie ma takiej opcji, żebyś wygrał, więc to Ty napiszesz ten tekst na swoim kadłubie, a wódeczka, panienki itp. na Twój koszt!\n - Uwaga, zaczynam, tylko się nieco odsuń.\n Pilot AF16 czeka. Mija pół minuty, pułap ten sam, prędkość ta sama, nic się nie zmienia. Mija minuta, dalej nic. W końcu pilot pasażerskiego odzywa się w słuchawce:\n - Dobra, skończyłem.\n - A co to, kur*a, miało niby być?!\n - Byłem się odlać.",
+    "is_checked": true,
+    "content": "Leci sobie duży pasażerski samolot. Spokojnie, bez ciśnień, pogoda ładna. Nagle podlatuje do niego wojskowy F16, którego pilotowi straszliwie się nudzi i zaczyna wkurwiać pilota dużej maszyny. Przelatuje nad nim, pod nim, jakieś beczki, korkociągi w niebezpiecznej odległości itp. Przy czym cały czas szydzi z pilota samolotu pasażerskiego:\n- Czym ty latasz? Stodołą? Patrz na to gościu. Zrobisz tak? Nie zrobisz! Mam lepszy samolot i nie ma czegoś takiego co potrafisz ty i Twoja maszyna, czego ja bym nie zrobił milion razy lepiej!\nKoleś w pasażerce coraz bardziej wnerwiony, po którejś tam sugestii by się żołnierzyk ustosunkował, w końcu proponuje:\n- OK, DeltaTangoCharlieCośTam. Teraz wykonam jeden myk, ale jak go nie powtórzysz - na dole stawiasz kolację, panienki, a na kadłubie swojego \"odkurzacza\" piszesz: JESTEM ZŁOMEM. Umowa?\n- Dawaj, misiu! Nie ma takiej opcji, żebyś wygrał, więc to Ty napiszesz ten tekst na swoim kadłubie, a wódeczka, panienki itp. na Twój koszt!\n- Uwaga, zaczynam, tylko się nieco odsuń.\nPilot F16 czeka. Mija pół minuty, pułap ten sam, prędkość ta sama, nic się nie zmienia. Mija minuta, dalej nic. W końcu pilot pasażerskiego odzywa się w słuchawce:\n- Dobra, skończyłem.\n- A co to, kur*a, miało niby być?!\n- Byłem się odlać.",
     "rate": 526,
     "date": "04.04.2013",
     "author": "tonieja"
   },
   {
     "id": "5772",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Sprzedam: Garnitur Ślubny. Włożony tylko raz. Przez pomyłkę.",
     "rate": 257,
     "date": "02.04.2013",
@@ -7757,8 +7764,8 @@
   },
   {
     "id": "5555",
-    "is_checked": false,
-    "content": "Rok 1497. Płynie sobie statek piracki straszliwego kapitana \"Rudobrodego\". Nagle na horyzoncie pojawia się statek towarowy. Majtek z bocianiego gniazda woła:\n - Kapitanie statek towarowy na horyzoncie!\n - Dobra jest! Podajcie moją czerwoną koszulę!\n Kapitan założył koszulę, dokonali abordażu, straszliwej rzezi i statek był ich. Płyną dalej. Nagle na horyzoncie pojawia się drugi statek towarowy. Majtek z bocianiego gniazda woła:\n - Kapitanie statek towarowy na horyzoncie!\n - Dobra jest! Podajcie moją czerwoną koszulą!\n Znów założył koszulę, dokonali abordażu, straszliwej rzezi i statek był ich.\n Po kilku takich \"akcjach\", jeden z marynarzy pyta:\n - Kapitanie! Dlaczego na \"akcje\" zawsze zakłada pan czerwoną koszulę?\n - Bo jak napadamy na statek, to mogą mnie przecież ranić, a na czerwonej koszuli nie widać plam krwi. A gdy nie widać, że kapitan jest ranny, to duch załogi nie upada i wszyscy walczą jak lwy!\n W tym momencie majtek z bocianiego gniazda woła:\n - Kapitanie 12 brytyjskich statków wojennych!\n - Dobra jest! Podajcie moje brązowe spodnie.",
+    "is_checked": true,
+    "content": "Rok 1497. Płynie sobie statek piracki straszliwego kapitana \"Rudobrodego\". Nagle na horyzoncie pojawia się statek towarowy. Majtek z bocianiego gniazda woła:\n - Kapitanie statek towarowy na horyzoncie!\n - Dobra jest! Podajcie moją czerwoną koszulę!\nKapitan założył koszulę, dokonali abordażu, straszliwej rzezi i statek był ich. Płyną dalej. Nagle na horyzoncie pojawia się drugi statek towarowy. Majtek z bocianiego gniazda woła:\n- Kapitanie statek towarowy na horyzoncie!\n- Dobra jest! Podajcie moją czerwoną koszulą!\nZnów założył koszulę, dokonali abordażu, straszliwej rzezi i statek był ich.\nPo kilku takich \"akcjach\", jeden z marynarzy pyta:\n - Kapitanie! Dlaczego na \"akcje\" zawsze zakłada pan czerwoną koszulę?\n- Bo jak napadamy na statek, to mogą mnie przecież ranić, a na czerwonej koszuli nie widać plam krwi. A gdy nie widać, że kapitan jest ranny, to duch załogi nie upada i wszyscy walczą jak lwy!\nW tym momencie majtek z bocianiego gniazda woła:\n- Kapitanie 12 brytyjskich statków wojennych!\n- Dobra jest! Podajcie moje brązowe spodnie.",
     "rate": 263,
     "date": "01.03.2013",
     "author": "jarek.ZIP"
