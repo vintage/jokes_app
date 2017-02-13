@@ -547,6 +547,7 @@
   {
     "id": "8357",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Szesnastoletni poznaniak wraca do domu po sylwestrze.\n- Co tam synku?\n- Dobrze mamo.\n- Jak sylwestra spędziłeś?\n- Fajnie. Parę piwek wypiliśmy, o północy szampana, zjaraliśmy jointa. Potem szybki seks.\n- A dziewczyny jakieś były?",
     "rate": 27,
     "date": "04.01.2017",
@@ -555,6 +556,7 @@
   {
     "id": "8356",
     "is_checked": true,
+    "is_duplicate": true,
     "content": "Byłem dzisiaj na siłowni. Przywieźli nową maszynę, całkiem fajna. Po pół godzinie jednak miałem dość: spuchłem, rzygać mi się chciało.\nAle naprawdę ma wszystko! Żelki, snickersy, marsy, kit-katy.",
     "rate": 28,
     "date": "03.01.2017",
@@ -8619,7 +8621,8 @@
   },
   {
     "id": "5320",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Kierownik sklepu uczy młodych sprzedawców, jak powinno się obsługiwać klientów.\n- Patrzcie i uczcie się ode mnie.\nWchodzi klientka:\n- Poproszę proszek do prania firan.\n- Proszę bardzo, ale doradzam pani również kupić płyn do mycia okien. Skoro pierze pani firany, to może pani też umyć okna.\n- Widzisz, Jasiu, tak musi pracować sprzedawca. Teraz twoja kolej - mówi szef, widząc następną klientkę.\n- Poproszę podpaski.\n- Proszę bardzo, ale doradzam pani również kupić płyn do mycia okien.\n- Ale po co?\n- Skoro nie może pani dawać dupy, to niech pani chociaż okna umyje. nomada - 2005-09-28, 22:50\nWielki salon sprzedaży, wchodzi klient, podlatuje do niego wypachniony doradca i pyta w czym może pomóc.\nk - chciałem kupić rękawiczki\nd - czy mają to być rękawiczki damskie czy męskie\nk - męskie\nd - skórzane, czy materiałowe, czy może wełniane\nk - raczej skórzane\nd - a kolor, są brązowe, czarne, beżowe, granatowe, zielone ...\nk - prosił bym o czarne\nd - czy życzy pan sobie ocieplane, lub tylko z podszewką, a może sama skóra\nk - z podszewką\nd - czy mają być gładkie czy z wzorkiem\nk - niech będą z wzorkiem\nd - a wzorek ma być na całych rękawiczkach czy tylko z brzegu\n----Klient zaczyna się troszkę niecierpliwić----\nk - z brzegu\nd - proszę mi jeszcze powiedzieć .....\n\nNagle w sklepie słychać łomot powstaje zamieszanie, wpada zasapany facet taszcząc ze sobą kibel wraz ze spłuczką wyrwany z kawałkiem ściany i podłogi, rzuca to wszystko na ladę i mówi jednym tchem.\nTak wygląda mój kibel, płytki na ścianie i podłodze widać rodzaj i kolor spłuczki, zwróćcie Państwo uwagę na ułożenie i kolor fug, sedes i sznurek przy spłuczce, dupę pokazywałem wczoraj, a teraz sprzedajcie mi rolkę papieru toaletowego.",
     "rate": 60,
     "date": "28.06.2012",
@@ -8627,23 +8630,23 @@
   },
   {
     "id": "5319",
-    "is_checked": false,
-    "content": "Pewien facet miał 50-centymetrowy interes. Stwierdził że z tak dużym nie będzie chciała go żadna dziewczyna, więc musiał się z tym uporać. Poszedł do czarownicy, a ta powiedziała mu że ma iść do lasu, tam na środku lasu będzie kamień i na nim będzie siedziała żaba. Miał zadać jej takie pytanie, na które żabka odpowie ...nie i wtedy interes skróci się o 10 cm. Poszedł więc i pyta żabkę:\n- Żabko, dasz mi buzi?\nŻabka na to:\n- Nie!\nUbyło 10 cm. Facet już wraca, ale stwierdził, że 40 cm to jeszcze za dużo, więc znów pyta:\n- Żabko, dasz mi buzi?\n- Nie!\nTeraz facet wraca z 30 cm. Pomyślał jednak, że 20 cm w zupełności wystarczy. Idzie więc jeszcze raz i pyta:\n- Żabko, dasz mi buzi?\nA żabka na to:\n- Nie, nie i jeszcze raz nie!",
+    "is_checked": true,
+    "content": "Pewien facet miał 50-centymetrowy interes. Stwierdził że z tak dużym nie będzie chciała go żadna dziewczyna, więc musiał się z tym uporać. Poszedł do czarownicy, a ta powiedziała mu że ma iść do lasu, tam na środku lasu będzie kamień i na nim będzie siedziała żaba. Miał zadać jej takie pytanie, na które żabka odpowie - \"nie\" - i wtedy interes skróci się o 10 cm. Poszedł więc i pyta żabkę:\n- Żabko, dasz mi buzi?\nŻabka na to:\n- Nie!\nUbyło 10 cm. Facet już wraca, ale stwierdził, że 40 cm to jeszcze za dużo, więc znów pyta:\n- Żabko, dasz mi buzi?\n- Nie!\nTeraz facet wraca z 30 cm. Pomyślał jednak, że 20 cm w zupełności wystarczy. Idzie więc jeszcze raz i pyta:\n- Żabko, dasz mi buzi?\nA żabka na to:\n- Nie, nie i jeszcze raz nie!",
     "rate": 145,
     "date": "28.06.2012",
     "author": "Aerts"
   },
   {
     "id": "5316",
-    "is_checked": false,
-    "content": "Porucznik sprawdza umiejętności 3 nowych szeregowych:\n-Powiedzcie nam, co potraficie zrobić pożytecznego?\nPierwszy mówi:\n-Ja potrafię obsługiwać komputer.\n-Dobrze, może być, a Ty?\n-Ja znam się na gotowaniu - mówi drugi.\n-Nieźle. A co Ty potrafisz? - pyta trzeciego.\n-Ja potrafię zrobić turbulator.\n-A co to jest?\n-Proszę o kawałek blachy, gwoździe, młotek i szklankę wody to pokażę.\nOtrzymał to, o co prosił, wbił gwoździe w blachę, robiąc w niej dziurki, zalał to wodą i mówi:\n-Robi bul bul? No to turbulator!\nZirytowany porucznik:\n-Ty głupi jesteś, będziesz hańbą dla wojska!\nI wyrzuca blachę przez okno. Po chwili przychodzi major:\n-k***a! Co za tępy c*j wyrzucił nowy turbulator!?",
+    "is_checked": true,
+    "content": "Porucznik sprawdza umiejętności 3 nowych szeregowych:\n-Powiedzcie nam, co potraficie zrobić pożytecznego?\nPierwszy mówi:\n-Ja potrafię obsługiwać komputer.\n-Dobrze, może być, a Ty?\n-Ja znam się na gotowaniu - mówi drugi.\n-Nieźle. A co Ty potrafisz? - pyta trzeciego.\n-Ja potrafię zrobić bulbulator.\n-A co to jest?\n-Proszę o kawałek blachy, gwoździe, młotek i szklankę wody to pokażę.\nOtrzymał to, o co prosił, wbił gwoździe w blachę, robiąc w niej dziurki, zalał to wodą i mówi:\n-Robi bul bul? No to bulbulator!\nZirytowany porucznik:\n-Ty głupi jesteś, będziesz hańbą dla wojska!\nI wyrzuca blachę przez okno. Po chwili przychodzi major:\n-O kur*a! Co za tępy ch*j wyrzucił nowy bulbulator!?",
     "rate": 127,
     "date": "24.06.2012",
     "author": "art444"
   },
   {
     "id": "5307",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W tramwaju facet pyta drugiego:\n- Ile przystanków jest do Placu Wolności?\n- Trzy\nZa dwa przystanki facet upewnia się:\n- To teraz jeszcze jeden?\n- Nie, teraz pięć",
     "rate": 73,
     "date": "14.06.2012",
@@ -8651,7 +8654,7 @@
   },
   {
     "id": "5304",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W Warszawie postanowiono zorganizować konkurs na wzorcowy budynek \"bez barier\".\nKomisja stwierdziła, że takim, najlepiej spełniającym wymogi konkursu budynkiem, jest Sejm. W uzasadnieniu podała, że nie ma takiego stopnia upośledzenia, który uniemożliwiłby dostanie się tam!",
     "rate": 134,
     "date": "09.06.2012",
@@ -8659,47 +8662,47 @@
   },
   {
     "id": "5300",
-    "is_checked": false,
-    "content": "Prezydent Polski  dzwoni do Prezydenta Litwy. \nCzesi, Rosja wypowiedziała nam wojnę, czy moglibyście pożyczyć nam czołgi, abyśmy mogli walczyć z Rosja?\nLitewski Prezydent ;\nA chcecie jeden czy obydwa ?",
+    "is_checked": true,
+    "content": "Prezydent Polski dzwoni do Prezydenta Litwy.\n- Cześć, słuchaj Rosja wypowiedziała nam wojnę, czy moglibyście pożyczyć nam czołgi, abyśmy mogli z nimi walczyć?\nLitewski Prezydent:\n- A chcecie jeden czy obydwa?",
     "rate": 89,
     "date": "07.06.2012",
     "author": "lubin"
   },
   {
     "id": "5296",
-    "is_checked": false,
-    "content": "Dzwoni Bama do Putina i mówi :\n- Słuchaj, musimy zmienić strefy czasowe na\ntakie same! Wczoraj dzwoniłem do Chin z\nżyczeniami, a okazało się że urodziny były\nwczoraj...\nPutin na to:  - To co ja mam powiedzieć jak dzwoniłem do Polski z kondolencjami, a\nokazało się że samolot jeszcze nie wystartował...",
+    "is_checked": true,
+    "content": "Dzwoni Bama do Putina i mówi:\n- Słuchaj, musimy zmienić strefy czasowe na takie same! Wczoraj dzwoniłem do Chin z życzeniami, a okazało się że urodziny były wczoraj...\nPutin na to: \n - To co ja mam powiedzieć jak dzwoniłem do Polski z kondolencjami, a okazało się że samolot jeszcze nie wystartował...",
     "rate": 281,
     "date": "05.06.2012",
     "author": "dawid"
   },
   {
     "id": "5295",
-    "is_checked": false,
-    "content": "- Koleżanka pije ?\n- Nie\n- Dlaczego?\n- Mam problemy z nogami\n- Uginają się?\n- Nie, rozkładają...",
+    "is_checked": true,
+    "content": "- Koleżanka pije?\n- Nie\n- Dlaczego?\n- Mam problemy z nogami\n- Uginają się?\n- Nie, rozkładają...",
     "rate": 130,
     "date": "04.06.2012",
     "author": "Aerts"
   },
   {
     "id": "5294",
-    "is_checked": false,
-    "content": "Biegnie synek do mamy..\n- Mamo, mamo! czemu ciocia nazwała swoją córkę Róża..?\n- Bo bardzo lubiła róże.\n- A Ty co lubiłaś..?\n- Wacek! nie zadawaj głupich pytań!",
+    "is_checked": true,
+    "content": "Biegnie synek do mamy:\n- Mamo, mamo! Czemu ciocia nazwała swoją córkę Róża..?\n- Bo bardzo lubiła róże.\n- A Ty co lubiłaś..?\n- Wacek! Nie zadawaj głupich pytań!",
     "rate": 173,
     "date": "04.06.2012",
     "author": "Aerts"
   },
   {
     "id": "5291",
-    "is_checked": false,
-    "content": "Jaś pyta taty \n- Tata mogę skoczyć na bungie? \n- Synu twoje życie zaczęło się od pękniętej gumki, więc nie chcę żeby skończyło się z powodu pękniętej gumy!",
+    "is_checked": true,
+    "content": "Jaś pyta taty: \n- Tata, mogę skoczyć na bungie? \n- Synu twoje życie zaczęło się od pękniętej gumki, więc nie chcę żeby skończyło się z powodu pękniętej gumy!",
     "rate": 83,
     "date": "02.06.2012",
     "author": "reniat58"
   },
   {
     "id": "5288",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Co pan taki smutny ostatnio, panie dyrektorze?\n- A no bo sekretarkę zmieniłem\n- I co? Niezbyt bystra, tak?\n- Nie, właśnie całkiem mądra\n- To może leniwa?\n- Skąd! Bardzo pracowita!\n- To może hmmm... ten... tego... nie chce...\n- No coś pan! ........kilka razy dziennie!\n- No to o co chodzi?\n- Aaa... bo kawę robi jakąś taką słabą...",
     "rate": 78,
     "date": "30.05.2012",
@@ -8707,7 +8710,7 @@
   },
   {
     "id": "5287",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Mąż wraca późno do domu. Żona leży już w łóżku, więc mąż szybko się rozbiera i przytula się do niej. A żona:\n- Boli mnie głowa...\n- Umówiłyście się dzisiaj, czy co?!",
     "rate": 164,
     "date": "30.05.2012",
@@ -8715,15 +8718,15 @@
   },
   {
     "id": "5285",
-    "is_checked": false,
-    "content": "Żona wysyła SMS do męża.....\n...Policja cały czas trąbi, że znalazła całkowicie spalone ciało z małym fiutkiem. Daj znać, że żyjesz, bo się niepokoję!",
+    "is_checked": true,
+    "content": "Żona wysyła SMS do męża: \n- Policja cały czas trąbi, że znalazła całkowicie spalone ciało z małym fiutkiem. Daj znać, że żyjesz, bo się niepokoję!",
     "rate": 126,
     "date": "29.05.2012",
     "author": "reniat58"
   },
   {
     "id": "5283",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kapitan Titanica wchodzi do sali balowej i oznajmia pasażerom:\n- Mam dwie wiadomości - dobrą i złą. Od której mam zacząć?\n- Od złej.\n- Za chwilę nasz statek zatonie.\n- A ta dobra?\n- Dostaniemy 11 Oskarów!",
     "rate": 80,
     "date": "29.05.2012",
@@ -8731,55 +8734,55 @@
   },
   {
     "id": "5281",
-    "is_checked": false,
-    "content": "Bolek i Lolek śpią w namiocie nagle Bolek pyta Lolka:\nLolek - walisz konia?\nTak\nTo wal swojego.",
+    "is_checked": true,
+    "content": "Bolek i Lolek śpią w namiocie nagle Bolek pyta Lolka:\n- Lolek, walisz konia?\n- Tak\n- To wal swojego.",
     "rate": 151,
     "date": "29.05.2012",
     "author": "Kotek"
   },
   {
     "id": "5276",
-    "is_checked": false,
-    "content": "Wchodzi policjant do księgarni, a sprzedawca do niego:\n-co, pada ?",
+    "is_checked": true,
+    "content": "Wchodzi policjant do księgarni, a sprzedawca do niego:\n- Co, pada?",
     "rate": 119,
     "date": "23.05.2012",
     "author": "Wykop Kurwa"
   },
   {
     "id": "5275",
-    "is_checked": false,
-    "content": "Nie za grubo wyglądam w tych dżinsach, pyta dziewczyna chłopaka\n-A nie obrazisz się jak powiem prawdę ?\n-Nie\n-Posuwam twoją siostrę",
+    "is_checked": true,
+    "content": "- Nie za grubo wyglądam w tych dżinsach? - pyta dziewczyna chłopaka\n- A nie obrazisz się jak powiem prawdę?\n- Nie\n- Posuwam twoją siostrę",
     "rate": 109,
     "date": "23.05.2012",
     "author": "Wykop Kurwa"
   },
   {
     "id": "5271",
-    "is_checked": false,
-    "content": "Pani na lekcji pyta dzieci :\n-Dzieci kto to napisał: A niechaj narodowe wżdy postronni znają Iż Polacy nie gęsi, iż swój język mają\nPodnosi rękę Małgosia i mówi:\n-Mikołaj Rej, proszę Pani.\n-Brawo Małgosiu, w nagrodę jesteś zwolniona z reszty lekcji i możesz iść do domu.\n-Nie dziękuje proszę Pani, ja jestem Żydówką, a my chcemy czerpać z życia jak najwięcej wiedzy dlatego chce zostać.\n-No skoro tak to dobrze.\nNastępnie pani zadaje pytanie klasie:\n-Dzieci a kto napisał to: A słońce Prawdy wschodu nie zna i zachodu?\nPodnosi rękę Krzysio i mówi:\n- Adam Mickiewicz, proszę pani.\n-Brawo Krzysiu, w nagrodę jesteś zwolniony z reszty zajęć i możesz iść do domu.\nNa to Krzysiu mówi:\n-Nie ja również dziękuję i również jak Małgosia jestem Żydem i wolałbym zostać na zajęciach.\npo tym zdaniu gdzieś z końca klasy ktoś krzyknął:\n-Żydzi do gazu!\nOburzona pani mówi:\n-Kto to powiedział?\nWstaje Jasiu i mówi:\n-Adolf Hitler, do widzenia !",
+    "is_checked": true,
+    "content": "Pani na lekcji pyta dzieci:\n- Dzieci kto to napisał: \"A niechaj narodowie wżdy postronni znają iż Polacy nie gęsi, i swój język mają\"?\nPodnosi rękę Małgosia i mówi:\n-Mikołaj Rej, proszę Pani.\n-Brawo Małgosiu, w nagrodę jesteś zwolniona z reszty lekcji i możesz iść do domu.\n- Nie dziękuję proszę Pani, ja jestem Żydówką, a my chcemy czerpać z życia jak najwięcej wiedzy dlatego chcę zostać.\n- No skoro tak to dobrze.\nNastępnie pani zadaje pytanie klasie:\n- Dzieci a kto napisał to: \"A słońce Prawdy wschodu nie zna i zachodu\"?\nPodnosi rękę Krzysio i mówi:\n- Adam Mickiewicz, proszę pani.\n- Brawo Krzysiu, w nagrodę jesteś zwolniony z reszty zajęć i możesz iść do domu.\nNa to Krzysiu mówi:\n- Nie ja również dziękuję i również jak Małgosia jestem Żydem i wolałbym zostać na zajęciach.\nPo tym zdaniu gdzieś z końca klasy ktoś krzyknął:\n- Żydzi do gazu!\nOburzona pani mówi:\n- Kto to powiedział?\nWstaje Jasiu i mówi:\n- Adolf Hitler, do widzenia !",
     "rate": 233,
     "date": "22.05.2012",
     "author": "pavvelll"
   },
   {
     "id": "5270",
-    "is_checked": false,
-    "content": "Grupa studentów przyjechała na praktyki do kołchozu na obrzeżach\n Syberii. Miejscowi zaprosili ich na wieczorek integracyjny. W trakcie -\n jeden ze studentów widzi, jak w pewnej chwili sześciu kołchoźników\nwynosi jednego z nich - zalanego w trupa.\n Pyta jednego z miejscowych:\n - Gdzie oni go niosą?\n - Do sąsiedniego pokoju.\n - A po co?\n - No wiesz..., u nas kobiet nie ma, więc trzeba korzystać z tego, co los\n da - idą tam w kilku i sobie poużywają...\n Student wystraszony, postanowił się pilnować, niestety, pół godziny\n później i jemu się ...zmarło... Ocknął się po jakimś czasie i czuje, że\n jest niesiony - zaczyna wrzeszczeć niemiłosiernie:\n - Nie! Nie chcę! Puśćcie mnie! Nie chcę do tamtego pokoju! W\n odpowiedzi słyszy:\n - Nie szarp się tak i nie denerwuj. My cię już z powrotem niesiemy!",
+    "is_checked": true,
+    "content": "Grupa studentów przyjechała na praktyki do kołchozu na obrzeżach Syberii. Miejscowi zaprosili ich na wieczorek integracyjny. W trakcie, jeden ze studentów widzi, jak w pewnej chwili sześciu kołchoźników wynosi jednego z nich - zalanego w trupa.\nPyta jednego z miejscowych:\n- Gdzie oni go niosą?\n- Do sąsiedniego pokoju.\n- A po co?\n- No wiesz... u nas kobiet nie ma, więc trzeba korzystać z tego, co los da - idą tam w kilku i sobie poużywają... \nStudent wystraszony, postanowił się pilnować, niestety, pół godziny później i jemu się \"odpadło\". Ocknął się po jakimś czasie i czuje, że jest niesiony - zaczyna wrzeszczeć niemiłosiernie:\n- Nie! Nie chcę! Puśćcie mnie! Nie chcę do tamtego pokoju! W odpowiedzi słyszy:\n- Nie szarp się tak i nie denerwuj. My cię już z powrotem niesiemy!",
     "rate": 103,
     "date": "20.05.2012",
     "author": "reniat58"
   },
   {
     "id": "5268",
-    "is_checked": false,
-    "content": "Akademik, noc, impreza na całego. Na środku korytarza leży nachlany, zarzygany student. Obok stoi dwóch jego kolegów z pokoju- paląc papierosy. Przyglądają mu się dokładnie, przykucając nad \"ciałem\" :\n- Widzisz jaki kutafon - bełkocze jeden - przysięgał, że to nie on WP***dolił cały makaron!",
+    "is_checked": true,
+    "content": "Akademik, noc, impreza na całego. Na środku korytarza leży nachlany, zarzygany student. Obok stoi dwóch jego kolegów z pokoju paląc papierosy. Przyglądają mu się dokładnie, przykucając nad \"ciałem\":\n- Widzisz jaki kutafon - bełkocze jeden - przysięgał, że to nie on wpier*olił cały makaron!",
     "rate": 58,
     "date": "17.05.2012",
     "author": "reniat58"
   },
   {
     "id": "5267",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Spotykają się dwaj kumple ze studiów.\n- Wiesz co, Stasiek? Jak sobie pomyślę jaki ze mnie inżynier, to aż się boję iść do lekarza!",
     "rate": 99,
     "date": "17.05.2012",
@@ -8787,23 +8790,23 @@
   },
   {
     "id": "5261",
-    "is_checked": false,
-    "content": "Papierz Jan Paweł II po śmierci poszedł oczywiście prosto do nieba\nSpaceruje sobie po tych niebiańskich ogrodach,aniołowie śpiewają itd - trochę nudno \nSpogląda z nieba w stronę pieklą, a tam balanga na całego  tance, hulanki swawole \nStolc uginają się od jedzenia, na gorąco, na zimno, grill,alkohole - wiadomo piekło\nPanie zapytał się Pana Boga, dlaczego tam tak bogato a u nas tylko owsianka i grysik\nKarolku odpowiedział Pan Bóg dla nas dwojga nie opłaca się gotować",
+    "is_checked": true,
+    "content": "Papież Jan Paweł II po śmierci poszedł oczywiście prosto do nieba.\nSpaceruje sobie po tych niebiańskich ogrodach, aniołowie śpiewają itd - trochę nudno. \nSpogląda z nieba w stronę piekła, a tam balanga na całego - tańce, hulanki swawole. \nStoły uginają się od jedzenia, na gorąco, na zimno, grill, alkohole - wiadomo piekło.\n- Panie - zapytał się Pana Boga - dlaczego tam tak bogato, a u nas tylko owsianka i grysik?\n- Karolku - odpowiedział Pan Bóg - dla nas dwojga nie opłaca się gotować",
     "rate": 69,
     "date": "08.05.2012",
     "author": "Eric"
   },
   {
     "id": "5259",
-    "is_checked": false,
-    "content": "Po 25 latach jeżdżenia Harleyem facet doszedł do wniosku, że zobaczył już kawał świata i uznał, że czas osiąść gdzieś na stałe. Kupił więc kawałek ziemi w Vermont, tak daleko od innych ludzi, jak to tylko możliwe. Z listonoszem widział się raz na tydzień, a po zakupy jeździł raz na miesiąc. Poza tym była tylko natura i on. Po mniej więcej pół roku takiego życia słyszy stukanie do drzwi. Idzie, otwiera i widzi wielkiego, brodatego tubylca.\n- Cześć - mówi tubylec. - Jestem Enoch, twój sąsiad, mieszkający jakieś cztery mile w tamtym kierunku. Za jakieś dwa dni, wieczorem, urządzam małe przyjęcie. Miałbyś ochotę przyjść?\n- Jasne, po pół roku na tym odludziu, będzie fajnie.\nEnoch pożegnał się i już miał iść, ale odwraca się i mówi:\n- Słuchaj, jesteś tu nowy, więc chyba powinienem cię ostrzec, że będziemy tam ostro pili.\n- Nie ma problemu, 25 lat jeździłem Harleyem. Myślę, że dam sobie radę.\nEnoch już ma odchodzić, ale jeszcze odwraca się i mówi:\n- Powinienem cię też ostrzec, że nie było jeszcze imprezy bez bijatyki.\n- Z dwudziestopięcioletnim doświadczeniem jako motocyklista myślę, że dam sobie radę.\nEnoch odwraca się i już ma iść, ale przypomina sobie jeszcze coś i mówi:\n- Muszę ci też powiedzieć, że te przyjęcia to istna orgia seksu.\nWidziałem już tam rzeczy, o których mi się nawet nie śniło.\n- Po 25 latach jeżdżenia Harleyem i pół roku na tym odludziu jestem więcej niż gotów, zwłaszcza na to. Aha, Enoch, zanim zapomnę. Jak powinienem się ubrać na to przyjęcie?\n- Ubierz się jak chcesz. I tak będziemy tylko my dwaj...",
+    "is_checked": true,
+    "content": "Po 25 latach jeżdżenia Harleyem facet doszedł do wniosku, że zobaczył już kawał świata i uznał, że czas osiąść gdzieś na stałe. Kupił więc kawałek ziemi w Vermont, tak daleko od innych ludzi, jak to tylko możliwe. Z listonoszem widział się raz na tydzień, a po zakupy jeździł raz na miesiąc. Poza tym była tylko natura i on. Po mniej więcej pół roku takiego życia słyszy stukanie do drzwi. Idzie, otwiera i widzi wielkiego, brodatego tubylca.\n- Cześć - mówi tubylec - Jestem Enoch, twój sąsiad, mieszkający jakieś cztery mile w tamtym kierunku. Za jakieś dwa dni, wieczorem, urządzam małe przyjęcie. Miałbyś ochotę przyjść?\n- Jasne, po pół roku na tym odludziu, będzie fajnie.\nEnoch pożegnał się i już miał iść, ale odwraca się i mówi:\n- Słuchaj, jesteś tu nowy, więc chyba powinienem cię ostrzec, że będziemy tam ostro pili.\n- Nie ma problemu, 25 lat jeździłem Harleyem. Myślę, że dam sobie radę.\nEnoch już ma odchodzić, ale jeszcze odwraca się i mówi:\n- Powinienem cię też ostrzec, że nie było jeszcze imprezy bez bijatyki.\n- Z dwudziestopięcio letnim doświadczeniem jako motocyklista myślę, że dam sobie radę.\nEnoch odwraca się i już ma iść, ale przypomina sobie jeszcze coś i mówi:\n- Muszę ci też powiedzieć, że te przyjęcia to istna orgia seksu.\nWidziałem już tam rzeczy, o których mi się nawet nie śniło.\n- Po 25 latach jeżdżenia Harleyem i pół roku na tym odludziu jestem więcej niż gotów, zwłaszcza na to. Aha, Enoch, zanim zapomnę. Jak powinienem się ubrać na to przyjęcie?\n- Ubierz się jak chcesz. I tak będziemy tylko my dwaj...",
     "rate": 102,
     "date": "06.05.2012",
     "author": "Grzegorz F."
   },
   {
     "id": "5249",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Do księdza przychodzi młoda para. Facet pyta księdza:\n- To ile kosztuje ślub?\n- A na ile wyceniasz przyszłą żonę?\nFacet spojrzał na dziewczyna i dał księdzu 100 zł.\nKsiądz również na nią spojrzał i oddał mu 50.",
     "rate": 178,
     "date": "29.04.2012",
@@ -8811,7 +8814,7 @@
   },
   {
     "id": "5246",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Wchodzi dwóch mocno zawianych gości, wieczorem, do domu jednego z nich, z zamiarem wypicia jeszcze jednej flaszki. W progu wita ich, zła jak osa, żona i z wyrzutem mówi: \n- Nie, no teraz to przesadziłeś! Masz na miesiąc szlaban na seks! \nKolega zaczyna się śmiać, patrząc na głupią minę przyjaciela, a pani domu na to: \n- No i co tak rżysz! Ten zakaz ciebie też dotyczy!",
     "rate": 141,
     "date": "28.04.2012",
@@ -8819,23 +8822,23 @@
   },
   {
     "id": "5243",
-    "is_checked": false,
-    "content": "Konduktor do pijaka:\n-Bilet proszę!\n-Nieee maa mmm!\n- To płaci pan mandat!\n- Nie mamom pieniędzy!\n-A na wódkę Pan miał? \n-Kolegiatur mnie ugościł!\n-A na podróż to już nie dał?- z sarkazmem pyta konduktor\nNa to pijak wyciągając flaszkę zza pazuchy:\n- Jak to nie dał?!",
+    "is_checked": true,
+    "content": "Konduktor do pijaka:\n- Bilet proszę!\n- Nieee maammm!\n- To płaci pan mandat!\n- Nie maaaam pieniędzy!\n-A na wódkę Pan miał? \n-Koooleeega mnie ugościł!\n- A na podróż to już nie dał?- z sarkazmem pyta konduktor\nNa to pijak wyciągając flaszkę zza pazuchy:\n- Jak to nie dał?!",
     "rate": 151,
     "date": "28.04.2012",
     "author": "reniat58"
   },
   {
     "id": "5241",
-    "is_checked": false,
-    "content": "Jedzie papież swoim papa-mobile.Nagle wybiega blondynka i biegnie za samochodem.\nPapież każe przyspieszyć. 40 km/eh...blondynka nadal biegnie, powoli dogania...\nPapież znów każe przyspieszyć. 50 km/eh...blondynka jakimś cudem nadal ma siłę i biegnie, już prawie dogania samochód...!\nPapież znów każe przyspieszyć. 60 km/eh... Po kilku kilometrach blondynka dogania papa-mobile.\nWtedy papież każe zatrzymać samochód, bo go już zaczęło to wkurzać...\nA blondynka: - Myślałam, że już nie dogonię! Dwa śmietankowe proszę!",
+    "is_checked": true,
+    "content": "Jedzie papież swoim papa-mobile. Nagle wybiega blondynka i biegnie za samochodem.\nPapież każe przyspieszyć. 40 km/h... blondynka nadal biegnie, powoli dogania...\nPapież znów każe przyspieszyć. 50 km/h... blondynka jakimś cudem nadal ma siłę i biegnie, już prawie dogania samochód!\nPapież znów każe przyspieszyć. 60 km/h... Po kilku kilometrach blondynka dogania papa-mobile.\nWtedy papież każe zatrzymać samochód, bo go już zaczęło to wkurzać, a blondynka: \n- Myślałam, że już nie dogonię! Dwa śmietankowe proszę!",
     "rate": 61,
     "date": "27.04.2012",
     "author": "christoff"
   },
   {
     "id": "5240",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Dzisiaj jadąc metrem wpadłem na moją ex.\nTo był jeden z najfajniejszych dni od kiedy jestem motorniczym w metrze.",
     "rate": 71,
     "date": "26.04.2012",
@@ -8843,47 +8846,48 @@
   },
   {
     "id": "5239",
-    "is_checked": false,
-    "content": "Początek roku szkolnego, a tu remont szkoły jak zwykle opóźniony, robotnicy tynkują ściany\n Przez otwarte okno słychać Wacek pierdolnij tu wapnem\n Zdenerwowana nauczycielka wychyla się przez okno\n Panowie proszę wyrażać się delikatnie - dzieci\n Za chwile słychać Wacek pierdolnij tu wapieniem",
+    "is_checked": true,
+    "content": "Początek roku szkolnego, a tu remont szkoły jak zwykle opóźniony, robotnicy tynkują ściany. Przez otwarte okno słychać \n- Wacek pierdolnij tu wapnem\n Zdenerwowana nauczycielka wychyla się przez okno: \n- Panowie proszę wyrażać się delikatniej, tu są dzieci\nZa chwilę słychać: \n- Wacek pierdolnij tu wapienkiem",
     "rate": 82,
     "date": "24.04.2012",
     "author": "Eric"
   },
   {
     "id": "5236",
-    "is_checked": false,
-    "content": "-  Zychu, jak noc poślubna? \n - Człowieku... Jazda na maksa. Raz Alina na dole, za chwilę na górze. Od tyłu, z boku. Nogi na pagonach, ręce na zwisie. Kamasutra się chowa! \n - Heh ehe, no to kto pierwszy powiedział: \"Starczy, już nie mogę!\"? \n - Sąsiad zza ściany.",
+    "is_checked": true,
+    "content": "- Zbychu, jak noc poślubna? \n- Człowieku... Jazda na maksa. Raz Alina na dole, za chwilę na górze. Od tyłu, z boku. Nogi na pagonach, ręce na zwisie. Kamasutra się chowa! \n- Heh ehe, no to kto pierwszy powiedział: \"Starczy, już nie mogę!\"? \n - Sąsiad zza ściany.",
     "rate": 141,
     "date": "22.04.2012",
     "author": "irek-z-czarnego-lasu"
   },
   {
     "id": "5233",
-    "is_checked": false,
-    "content": "Zenon Kuro łapka spod Sanoka wybrał się na polowanie. Przez pomyłkę zabrał papierosy syna. Do śniadania ustrzelił dwie żyrafy, kangura i dwugłowego smoka.",
+    "is_checked": true,
+    "content": "Zenek Kurołapka spod Sanoka wybrał się na polowanie. Przez pomyłkę zabrał papierosy syna. Do śniadania ustrzelił dwie żyrafy, kangura i dwugłowego smoka.",
     "rate": 145,
     "date": "22.04.2012",
     "author": "irek-z-czarnego-lasu"
   },
   {
     "id": "5231",
-    "is_checked": false,
-    "content": "Żona wraca do domu i mówi do męża:\n- Kochanie wróciłam z salonu kosmetycznego.\nMąż patrzy na One i mówi:\n- I co, zamknięte było?",
+    "is_checked": true,
+    "content": "Żona wraca do domu i mówi do męża:\n- Kochanie wróciłam z salonu kosmetycznego. \nMąż patrzy na nią i mówi:\n- I co, zamknięte było?",
     "rate": 90,
     "date": "20.04.2012",
     "author": "M:)"
   },
   {
     "id": "5230",
-    "is_checked": false,
-    "content": "Bryl sobie pewnego razu bardzo dobry ginekolog miał wszystko co dusza zapragnie i był nieszczęśliwy pytacie się dlaczego dlatego ze on cale życie marzył aby być mechanikiem samochodowym.Pewnego dnia podjął decyzje. Zapisał się na kurs, uczył się z wielkim zapalę i następnie przystąpił do egzaminu. Po egzaminach czeka dzień dwa trzy - żadnej wiadomości. Zdenerwowany dzwoni do egzaminatora z zapytaniem czy zdał.  Trosze pana odpowiada egzaminator  za teorie ma pan 100% a za praktykę ma pan 200% Jak to pyta się ginekolog 200% to jest niemożliwe. Możliwe-100% za rozebranie i złożenie silnika samochodu a następne 100% za to ze zrobił pan to wszystko przez rurę wydechowa.",
+    "is_checked": true,
+    "content": "Był sobie pewnego razu bardzo dobry ginekolog. Miał wszystko co dusza zapragnie i był nieszczęśliwy. Pytacie się dlaczego? Dlatego, że on całe życie marzył, aby być mechanikiem samochodowym. Pewnego dnia podjął decyzję. Zapisał się na kurs, uczył się z wielkim zapałem i następnie przystąpił do egzaminu. Po egzaminach czeka dzień, dwa, trzy - żadnej wiadomości. Zdenerwowany dzwoni do egzaminatora z zapytaniem czy zdał. \n- Proszę pana - odpowiada egzaminator - za teorię ma pan 100%, a za praktykę ma pan 200%. \n- Jak to? - pyta się ginekolog - 200% to jest niemożliwe! \n- Możliwe. 100% za rozebranie i złożenie silnika samochodu, a następne 100% za to, że zrobił pan to wszystko przez rurę wydechowa.",
     "rate": 140,
     "date": "19.04.2012",
     "author": "eric"
   },
   {
     "id": "5228",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Nauczycielka pyta dzieci:\n- Jakie warzywo sprawia, że oczy łzawią?\n- Kalarepa, proszę pani - wyrywa się z odpowiedzią Jasiu.\n- Nie Jasiu, zapewne miałeś na myśli cebulę.\n- Nie, proszę pani. Pani chyba nigdy nie oberwała kalarepą po jajach.",
     "rate": 140,
     "date": "16.04.2012",
@@ -8892,6 +8896,7 @@
   {
     "id": "5225",
     "is_checked": false,
+    "is_duplicate": true,
     "content": "Ostatnio oglądałem sobie film na DVD i poniosły mnie emocje:\n- Nie! Nie wchodź tam ty głupcze. Nie wchodź do tego kościoła!\nWeszła moja żona i spytała jaki film oglądam.\n- Nasze nagranie ze ślubu.",
     "rate": 121,
     "date": "16.04.2012",
@@ -8899,7 +8904,7 @@
   },
   {
     "id": "5223",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Siedzi facet w teatrze i czuje, że coś śmierdzi niemiłosiernie. Trąca typa co siedzi przed nim i pyta:\n- Przepraszam, zesrał się pan?\n- Tak, a o co chodzi?",
     "rate": 99,
     "date": "16.04.2012",
@@ -8907,7 +8912,7 @@
   },
   {
     "id": "5222",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Byłem dzisiaj na siłowni. Przywieźli nową maszynę, całkiem fajna. Po pół godzinie jednak miałem dość: spuchłem, rzygać mi się chciało.\nAle naprawdę ma wszystko! Żelki, snickersy, marsy, kit-katy.",
     "rate": 98,
     "date": "16.04.2012",
@@ -8915,7 +8920,7 @@
   },
   {
     "id": "5221",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Franek, jak ty właściwie rozróżniasz żonę od jej siostry bliźniaczki?\n- To proste. Wkładam rękę pod sukienkę. Jak zaczyna jęczeć i rozszerza nogi to jej siostra.",
     "rate": 63,
     "date": "16.04.2012",
@@ -8923,7 +8928,7 @@
   },
   {
     "id": "5217",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Facet w ubrudzonym cementem roboczym kombinezonie, w żółtym kasku budowlańca,  wchodzi do autosalonu:\n- Dzień dobry. Ile kosztuje Bentley Continental GT?\n- 190 000 euro.\n- Cholera... A na kredyt? Na rok?\n- 19 000 euro miesięcznie.\n- Dużo, kurde... A na dwa lata?\n- 10 500 euro miesięcznie.\n- Cholera, też niemało.\n- To może miałby pan ochotę na tańszy samochód?\n- Ochotę bym miał, ale płyta betonowa przewróciła się nam na taki model.",
     "rate": 93,
     "date": "16.04.2012",
@@ -8931,7 +8936,7 @@
   },
   {
     "id": "5216",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona uradowana wybiega z łazienki:\n- Zenek, zrzuciłam dwa kilogramy!\n- Tylko nie zapomnij spuścić wody.",
     "rate": 172,
     "date": "16.04.2012",
@@ -8939,7 +8944,7 @@
   },
   {
     "id": "5213",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Zapiski w notatniku pedanta.\nSobota:\n1) Kefir i 4 kajzerki - 2.40 PLN\n2) Fakt - 1.50 PLN\n3) Pasta do zębów - 6.80 PLN\n4) Nie wiem i nie pamiętam co i gdzie wieczorem - 1700.00 PLN",
     "rate": 95,
     "date": "16.04.2012",
@@ -8947,15 +8952,15 @@
   },
   {
     "id": "5212",
-    "is_checked": false,
-    "content": "Przesłuchanie do akademii muzycznej.\nPrzychodzi skrzypek, prowadzący gra mu dźwięki, na co skrzypek perfekcyjnie odpowiada:\n- as, fis, gis, d, cis, a, \nNastępnie przychodzi pianista, efekt ten sam, wszystkie dźwięki bezbłędnie odgadnięte.\nW końcu przychodzi perkusista, prowadzący gra mu dźwięk.\n- Hm... można jeszcze raz? - pyta perkusista.\nProwadzący gra jeszcze raz ten sam dźwięk. Na co perkusista:\n- Kurde, nie wiem. Fortepian?",
+    "is_checked": true,
+    "content": "Przesłuchanie do akademii muzycznej. Przychodzi skrzypek, prowadzący gra mu dźwięki, na co skrzypek perfekcyjnie odpowiada:\n- as, fis, gis, d, cis, a. \nNastępnie przychodzi pianista, efekt ten sam, wszystkie dźwięki bezbłędnie odgadnięte.\nW końcu przychodzi perkusista, prowadzący gra mu dźwięk.\n- Hm... można jeszcze raz? - pyta perkusista.\nProwadzący gra jeszcze raz ten sam dźwięk. Na co perkusista:\n- Kurde, nie wiem. Fortepian?",
     "rate": 64,
     "date": "16.04.2012",
     "author": "salceson"
   },
   {
     "id": "5203",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Szesnastoletni poznaniak wraca do domu po sylwestrze.\n- Co tam synku?\n- Dobrze mamo.\n- Jak sylwestra spędziłeś?\n- Fajnie. Parę piwek wypiliśmy, o północy szampana, zjaraliśmy jointa. Potem szybki seks.\n- A dziewczyny jakieś były?",
     "rate": 68,
     "date": "16.04.2012",
@@ -8963,31 +8968,31 @@
   },
   {
     "id": "5200",
-    "is_checked": false,
-    "content": "Facet chciał sobie zrobić tatuaż na penisie. Poszedł do studia tatuażu i mówi, że chce wytatuować sobie tam \"Willy\", bo tak go nazywa jego dziewczyna.\n- No ok, ale żeby się zmieściło, to musisz go pan postawić.\nFacet sobie trochę potrzepał, fujara stanęła, koleś wytatuował. Po paru dniach facet poszedł na plażę nudystów. Leży, ale na penisie widać tylko pierwszą i ostatnią literę \"Wy\".  Patrzy - obok leży murzyn i też ma wytatuowane na penisie \"Wy\". Facet się na chwilę odwrócił, trochę potrzepał i leży dumnie z napisem \"Willy\". Murzyn popatrzył, odwrócił się,  potrzepał i leży na wznak z napisem \"Welcome to Ibiza everymany\"",
+    "is_checked": true,
+    "content": "Facet chciał sobie zrobić tatuaż na penisie. Poszedł do studia tatuażu i mówi, że chce wytatuować sobie tam \"Willy\", bo tak go nazywa jego dziewczyna.\n- No ok, ale żeby się zmieściło, to musisz go pan postawić.\nFacet sobie trochę potrzepał, fujara stanęła, koleś wytatuował. Po paru dniach facet poszedł na plażę nudystów. Leży, ale na penisie widać tylko pierwszą i ostatnią literę \"Wy\".  Patrzy - obok leży murzyn i też ma wytatuowane na penisie \"Wy\". Facet się na chwilę odwrócił, trochę potrzepał i leży dumnie z napisem \"Willy\". Murzyn popatrzył, odwrócił się, potrzepał i leży na wznak z napisem \"Welcome to Ibiza everybody\"",
     "rate": 96,
     "date": "04.04.2012",
     "author": "shazza"
   },
   {
     "id": "5199",
-    "is_checked": false,
-    "content": "Zebrał wódz indiański \"Siedzący Pies\" całe swoje plemię na naradę wojenną: \n- Czerwonoskórzy! Jesteśmy wielkim narodem? \n- Taaak! \n- To dlaczego nie mamy własnej rakiety z ładunkiem nuklearnym? \n- Ta aaa... Zbudujemy? Hurrareform! \nŚcięli tomahawkami największą sekwoję w okolicy, wydrążyli ją w trudzie i znoju, według starej, indiańskiej recepty wyprodukowali proch, napchali do wydrążonego pnia, zapletli linę z lian i jako lont wyprowadzili na zewnątrz rakiety. \n- Gdzie ją wystrzelimy? \n- Na Erewań! \n- A dlaczego na Erewań? \n- Innych miast nie znamy... \nNapisali na rakiecie \"Na Erewań\", zbili się w gromadę i podpalili lont. Jak nie pieprznęło! Prawdziwy Armagedon! Dym, swąd, wszystkich rozrzuciło w promieniu kilkunastu metrów... Wódz bez nogi, bez ręki otrzepuje się z kurzu i mówi: \n- Ja pierd*len! Wyobrażacie sobie, co się dzieje w Erewaniu?",
+    "is_checked": true,
+    "content": "Zebrał wódz indiański \"Siedzący Pies\" całe swoje plemię na naradę wojenną: \n- Czerwonoskórzy! Jesteśmy wielkim narodem? \n- Taaak! \n- To dlaczego nie mamy własnej rakiety z ładunkiem nuklearnym? Zbudujemy? \n- Taaak! \nŚcięli tomahawkami największą sekwoję w okolicy, wydrążyli ją w trudzie i znoju, według starej, indiańskiej recepty wyprodukowali proch, napchali do wydrążonego pnia, zapletli linę z lian i jako lont wyprowadzili na zewnątrz rakiety. \n- Gdzie ją wystrzelimy? \n- Na Erewań! \n- A dlaczego na Erewań? \n- Innych miast nie znamy... \nNapisali na rakiecie \"Na Erewań\", zbili się w gromadę i podpalili lont. Jak nie pieprznęło! Prawdziwy Armagedon! Dym, swąd, wszystkich rozrzuciło w promieniu kilkunastu metrów... Wódz bez nogi, bez ręki otrzepuje się z kurzu i mówi: \n- Ja pier*olę! Wyobrażacie sobie, co się dzieje w Erewaniu?",
     "rate": 160,
     "date": "03.04.2012",
     "author": "reniat58"
   },
   {
     "id": "5195",
-    "is_checked": false,
-    "content": "Jechał facet autostradą i nagle mu się coś zachciało.\nPotrzeba nie cierpiąca zwłoki.\nDojechał do najbliższej stacji benzynowej i udał się do świątyni dumania.\nKiedy już siedział i się koncentrował, usłyszał jak ktoś wchodzi do kabiny obok.\nPo chwili z tejże kabiny dobiegło pytanie:\n- Cześć, co tam u Ciebie słychać?\nFacet głupio się poczuł, na ogół nie rozmawiał z obcymi, a tu jeszcze w takim miejscu.\nAle niepewnie odpowiedział:\n- Nic, wszystko w porządku.\n- Słuchaj, a powiedz mi co zamierzasz teraz zrobić?\n- No, nie wiem - facet czuł się coraz bardziej skrępowany tą wymianą zdań.\n- Jadę do Gdańska a potem wracam do Katowic.\n- Wiesz co, zadzwonię do Ciebie później. Jakiś debil w kiblu obok odpowiada na wszystkie moje pytania.",
+    "is_checked": true,
+    "content": "Jechał facet autostradą i nagle mu się coś zachciało. Potrzeba nie cierpiąca zwłoki. \nDojechał do najbliższej stacji benzynowej i udał się do świątyni dumania.\nKiedy już siedział i się koncentrował, usłyszał jak ktoś wchodzi do kabiny obok.\nPo chwili z tejże kabiny dobiegło pytanie:\n- Cześć, co tam u Ciebie słychać?\nFacet głupio się poczuł, na ogół nie rozmawiał z obcymi, a tu jeszcze w takim miejscu.\nAle niepewnie odpowiedział:\n- Nic, wszystko w porządku.\n- Słuchaj, a powiedz mi co zamierzasz teraz zrobić?\n- No, nie wiem - facet czuł się coraz bardziej skrępowany tą wymianą zdań.\n- Jadę do Gdańska a potem wracam do Katowic.\n- Wiesz co, zadzwonię do Ciebie później. Jakiś debil w kiblu obok odpowiada na wszystkie moje pytania.",
     "rate": 235,
     "date": "02.04.2012",
     "author": "axe"
   },
   {
     "id": "5193",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Pewien facet chciał przenocować w hotelu, ale wszystkie pokoje były zajęte.\n- Może ma pan jednak jakiś wolny pokój, albo chociaż jakieś łóżko? Mogę spać gdziekolwiek - poprosił recepcjonistę.\n- No cóż, mam dwuosobowy pokój w którym mieszka tylko jeden facet i prawdopodobnie byłby zadowolony ze współlokatora, bo to obniżyłoby mu koszty. Ale prawdę mówiąc on chrapie tak głośno, że skarżą się na niego lokatorzy sąsiednich pokoi, tak więc nie wiem, czy będzie pan zainteresowany.\n- Nie ma sprawy, wezmę ten pokój.\nNastępnego ranka recepcjonista pyta faceta:\n- Jak się panu spało?\n- Lepiej niż kiedykolwiek.\n- A co z chrapaniem - nie przeszkadzało panu?\n- Nie, natychmiast go uciszyłem.\n- W jaki sposób?\n- Już był w łóżku chrapiąc, kiedy wszedłem do pokoju. Przechodząc pocałowałem go w policzek i powiedziałem \"Dobranoc, przystojniaku!\", a on nie zmrużył oka całą noc obserwując mnie!",
     "rate": 274,
     "date": "01.04.2012",
@@ -8995,8 +9000,8 @@
   },
   {
     "id": "5192",
-    "is_checked": false,
-    "content": "W czasie drugiej wojny światowej jeden z dowódców rosyjskich woła swojego adiutanta i mówi:\n- Lejtnant, kiedy dziś wieczorem przyjdziemy na kwaterę to znajdź mi dietetyczkę. Tylko pamiętaj - cnotliwą!\nNa drugi dzień generał mówi tak samo do lejtnanta:\n- Lejtnant, dziś wieczorem ma być dietetyczka, tylko Duraku pamiętaj, że ma być cnotliwa!\nTrzeciego dnia generał powtarza to samo, ale bardzo zdecydowanie:\n- Lejtnant, pamiętaj, wieczorem dietetyczka - C N O T L I W A! Jak nie będzie cnotliwa to ubij kk Sabaku!\nNastępnego dnia wstaje rano generał i woła lejtnanta. Po zameldowaniu się lejtnanta generał mówi: - Tak jak skazał, ubij jak Sabaku! - i sięga po broń.\nA lejtnant krzyczy:\n- Stawiszczan generał, ja nie pani maju: ja aprobując - cnotliwa, Wy probostwie, inte cnotliwa!",
+    "is_checked": true,
+    "content": "W czasie drugiej wojny światowej jeden z dowódców rosyjskich woła swojego adiutanta i mówi:\n- Lejtnant, kiedy dziś wieczorem przyjdziemy na kwaterę to znajdź mi dziewoczkę. Tylko pamiętaj - cnotliwą!\nNa drugi dzień generał mówi tak samo do lejtnanta:\n- Lejtnant, dziś wieczorem ma być dziewoczka, tylko duraku pamiętaj, że ma być cnotliwa!\nTrzeciego dnia generał powtarza to samo, ale bardzo zdecydowanie:\n- Lejtnant, pamiętaj, wieczorem dziewoczka - C N O T L I W A! Jak nie będzie cnotliwa to ubiju kak sabaku!\nNastępnego dnia wstaje rano generał i woła lejtnanta. Po zameldowaniu się lejtnanta generał mówi: - Tak jak skazał, ubiju jak sabaku! - i sięga po broń.\nA lejtnant krzyczy:\n- Tawariszcz gienerał, ja nie pani maju: ja probuju - cnotliwa, Wy probujetie, niet cnotliwa!",
     "rate": 76,
     "date": "01.04.2012",
     "author": "reniat58"
