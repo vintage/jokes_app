@@ -10013,7 +10013,7 @@
   },
   {
     "id": "4893",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Przychodzi mama Jasia do biura pośrednictwa pracy, żeby synowi robotę jakąś załatwić:\n- Pani, nie byłoby dla Jasia jakieś roboty, bo pije chłopak i pije....\n- A co Jasiu potrafi?\n- No murować umie, podstawówkę skończył...\n- A to mamy: murarz, 4000 na rękę...\n- Pani kochana! Toć przecież Jasiu cały czas będzie chodził pijany, jak tyle pieniędzy zarobi... A za mniej coś nie ma?\n- No jest jeszcze - pomocnik murarza, 3000 na rękę ....\n- No ale 3000? To przecież będzie pił i pił... A tak za 600-700 złotych to coś by się nie znalazło?\n- 600-700... Hmmm... To by Jasio musiał studia skończyć..",
     "rate": 95,
     "date": "02.11.2011",
@@ -11003,15 +11003,16 @@
   },
   {
     "id": "3972",
-    "is_checked": false,
-    "content": "Dlaczego mężczyźni pierdzą mocniej niż kobiety?\n\nBo kobiety nie potrafią trzymać ust zamkniętych wystarczająco długo aby wytworzyć odpowiednie ciśnienie.",
+    "is_checked": true,
+    "content": "Dlaczego mężczyźni pierdzą mocniej niż kobiety?\nBo kobiety nie potrafią trzymać ust zamkniętych wystarczająco długo aby wytworzyć odpowiednie ciśnienie.",
     "rate": 73,
     "date": "26.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3970",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Obcięło facetowi chuja więc ten szybko do lekarza\n- Panie doktorze obcięło mi chuja przyszyj mi coś\n- Ale nie mam żadnych protez, mam tylko trąbę małego słonia\n- Przyszywaj pan lepsze to niż nic\n\nStykają się po miesiącu i lekarz pyta\n- I jak tam? Zadowolony?\n- Superman kobiety zaspokajam co do jednej jest tylko jeden problem, jak idę po rynku to kradnie jabłka i mi do dupy wpycha",
     "rate": 99,
     "date": "26.03.2010",
@@ -11019,15 +11020,15 @@
   },
   {
     "id": "3955",
-    "is_checked": false,
-    "content": "Wiesz co Patrycja? jak tak patrzę po litrze wódki to całkiem fajna laska z ciebie.                                                                                                                                                                                                                                                                                               - no co ty Roman to ja Bronek",
+    "is_checked": true,
+    "content": "Wiesz co Patrycja? Jak tak patrzę po litrze wódki to całkiem fajna laska z ciebie. \n- Co co ty Roman to ja Bronek",
     "rate": 66,
     "date": "19.03.2010",
     "author": "dawcio"
   },
   {
     "id": "3954",
-    "is_checked": false,
+    "is_checked": true,
     "is_duplicate": true,
     "content": "Siedzi sobie stary piracki kapitan na rufie statku. Wiadomo, jak to stary pirat, zamiast nogi kawałek drewna zamiast dłoni hak i bez jednego oka.\nObserwuje go młody majtek pokładowy. W końcu zdobywa się na odwagę i zaczyna pytać starego kapitana.\n-Dlaczego nie ma pan nogi?\n-Stare dzieje. Rekin mi odgryzł.\n-A czemu hak zamiast dłoni?\n-Stare dzieje. Ucięta pod czas abordażu.\n-No a czemu oka pan nie ma?\n-Bo mi mewa nasrała.\n-I od tego stracił pan oko?!\n-Nie, ale to był mój pierwszy dzień z hakiem.",
     "rate": 129,
@@ -11036,31 +11037,31 @@
   },
   {
     "id": "3953",
-    "is_checked": false,
-    "content": "Nowy manager zatrudnił się w dużej międzynarodowej firmie.\nPierwszego dnia wykręcił wewnętrzny do swojej sekretarki i drze się:\n- Przynieś mi ku**a tej kawy szybko!\nZ drugiej strony odezwał się gniewny męski głos:\n- Wybrałeś zły numer! Wiesz z kim rozmawiasz?!\n- Nie!\n- Z Dyrektorem Naczelnym, ty idioto!\n- A wiesz, z kim ty ku**a rozmawiasz?!\n- Nie!\n- No i dobrze!",
+    "is_checked": true,
+    "content": "Nowy manager zatrudnił się w dużej międzynarodowej firmie.\nPierwszego dnia wykręcił wewnętrzny do swojej sekretarki i drze się:\n- Przynieś mi kur*a tej kawy szybko!\nZ drugiej strony odezwał się gniewny męski głos:\n- Wybrałeś zły numer! Wiesz z kim rozmawiasz?!\n- Nie!\n- Z Dyrektorem Naczelnym, ty idioto!\n- A wiesz, z kim ty kur*a rozmawiasz?!\n- Nie!\n- No i dobrze!",
     "rate": 236,
     "date": "17.03.2010",
     "author": "misha"
   },
   {
     "id": "3950",
-    "is_checked": false,
-    "content": "Szkoła, nauczycielka pyta klasie:\n- Jeśli pięć ptaków siedzi na płocie i zestrzelimy jednego z nich, to\nile zostanie?\nDo odpowiedzi rwie się Jasiu:\n- Żaden, pani profesor, na dźwięk strzału wszystkie odlecą.\n- Poprawna odpowiedź to cztery, Jasiu, ale podoba mi się twój tok\nrozumowania...\n- To teraz ja zadam pani pytanie - mówi Jasiu.\n- Na ławce siedzą trzy kobiety. Każda z nich je loda. Pierwsza\ndelikatnie oblizuje gałkę, druga ssie go całymi ustami tworząc z loda\nstożek, a trzecia odgryza jednym ruchem pół loda. Która z nich jest\nmężatką?\nPani chwile się zastanawia i pewnym głosem odpowiada:\n- Wydaje mi się, że ta, która ssie loda całymi ustami tworząc stożek.\n- Poprawna odpowiedź brzmi: ta, która ma obrączkę na palcu, ale podoba mi się pani tok rozumowania...",
+    "is_checked": true,
+    "content": "Szkoła, nauczycielka pyta klasie:\n- Jeśli pięć ptaków siedzi na płocie i zestrzelimy jednego z nich, to ile zostanie?\nDo odpowiedzi rwie się Jasiu:\n- Żaden, pani profesor, na dźwięk strzału wszystkie odlecą.\n- Poprawna odpowiedź to cztery, Jasiu, ale podoba mi się twój tok rozumowania...\n- To teraz ja zadam pani pytanie - mówi Jasiu.\n- Na ławce siedzą trzy kobiety. Każda z nich je loda. Pierwsza delikatnie oblizuje gałkę, druga ssie go całymi ustami tworząc z loda stożek, a trzecia odgryza jednym ruchem pół loda. Która z nich jest mężatką?\nPani chwile się zastanawia i pewnym głosem odpowiada:\n- Wydaje mi się, że ta, która ssie loda całymi ustami tworząc stożek.\n- Poprawna odpowiedź brzmi: ta, która ma obrączkę na palcu, ale podoba mi się pani tok rozumowania...",
     "rate": 195,
     "date": "13.03.2010",
     "author": "fago"
   },
   {
     "id": "3943",
-    "is_checked": false,
-    "content": "W synagodze kontrola z urzędu skarbowego. Kontroler bardzo chce zagiąć rabina i pyta:\n-A co robicie z niedopalonymi resztkami świec?\n-Wszystko skrzętnie zbieramy i wysyłamy do producenta i raz w roku przysyłają nam świece za darmo.\n-Aha..\nPo chwili namysłu:\n-A co robicie z okruszkami chleba po jedzeniu?\n-Wszystko skrzętnie zbieramy i wysyłamy do piekarza, w zamian raz w roku dostajemy bochenek chleba za darmo\n-Aaa..\nMyśli, myśli i w końcu:\nA co robicie z tymi wszystkimi napletkami po obrzezaniu?\n-Wszystko skrzętnie zbieramy, wysyłamy do Urzędu Skarbowego i raz w roku przysyłają nam chuja na kontrole.",
+    "is_checked": true,
+    "content": "W synagodze kontrola z urzędu skarbowego. Kontroler bardzo chce zagiąć rabina i pyta:\n- A co robicie z niedopalonymi resztkami świec?\n- Wszystko skrzętnie zbieramy i wysyłamy do producenta i raz w roku przysyłają nam świecę za darmo.\n- Aha.\nPo chwili namysłu:\n- A co robicie z okruszkami chleba po jedzeniu?\n -Wszystko skrzętnie zbieramy i wysyłamy do piekarza, w zamian raz w roku dostajemy bochenek chleba za darmo\n-Aha.\nMyśli, myśli i w końcu:\n- A co robicie z tymi wszystkimi napletkami po obrzezaniu?\n- Wszystko skrzętnie zbieramy, wysyłamy do Urzędu Skarbowego i raz w roku przysyłają nam chuja na kontrolę.",
     "rate": 228,
     "date": "12.03.2010",
     "author": "budniak"
   },
   {
     "id": "3940",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Trzech facetów rozmawia o tym co chcieliby usłyszeć na swoim pogrzebie. \nPierwszy mówi: \n- Chciałbym aby w mowie pogrzebowej postawili mnie jako wzór ojca, przykład kochającego męża i oddanego pracownika... \nDrugi mówi: \n- Ja to bym chciał, żeby powiedzieli o mnie, że zawsze za mną szalały panienki i że byłem największym ogierem. \n- A ja chciałbym usłyszeć - mówi trzeci - Patrzcie, patrzcie, on się chyba rusza!",
     "rate": 94,
     "date": "11.03.2010",
@@ -11068,23 +11069,24 @@
   },
   {
     "id": "3938",
-    "is_checked": false,
-    "content": "Ksiądz, pastor i rabin postanowili sprawdzić, \nktóry z nich jest najlepszym duszpasterzem. \nUradzili, że każdy z nich uda się do puszczy, \nznajdzie niedźwiedzia i nawróci go na swoją wiarę. \nPo powrocie spotkali się i wymienili \ndoświadczeniami. \n\nZaczął ksiądz: \n\n- kiedy znalazłem niedźwiedzia, poczytałem \nmu katechizm i pokropiłem wodą święconą. \nW przyszłym tygodniu idzie do I Komunii. \n\nPastor: \n- ja spotkałem niedźwiedzia nad strumieniem. \nZacząłem mu głosić Dobrą Nowinę. \nNiedźwiedź stał jak zahipnotyzowany i pozwolił \nsię ochrzcić. \n\nObaj spojrzeli na rabina, całego w gipsie, \nleżącego na szpitalnym łóżku. \n\nRabin uniósł oczy do góry i szepnął: \n- tak sobie teraz na spokojnie myślę, \nże może nie powinienem był zaczynać \nod obrzezania..",
+    "is_checked": true,
+    "content": "Ksiądz, pastor i rabin postanowili sprawdzić, który z nich jest najlepszym duszpasterzem. \nUradzili, że każdy z nich uda się do puszczy, znajdzie niedźwiedzia i nawróci go na swoją wiarę. \nPo powrocie spotkali się i wymienili doświadczeniami. \nZaczął ksiądz: \n- kiedy znalazłem niedźwiedzia, poczytałem mu katechizm i pokropiłem wodą święconą. W przyszłym tygodniu idzie do I Komunii. \nPastor: \n- ja spotkałem niedźwiedzia nad strumieniem. Zacząłem mu głosić Dobrą Nowinę. Niedźwiedź stał jak zahipnotyzowany i pozwolił się ochrzcić. \nObaj spojrzeli na rabina, całego w gipsie, leżącego na szpitalnym łóżku. \nRabin uniósł oczy do góry i szepnął: \n- tak sobie teraz na spokojnie myślę, że może nie powinienem był zaczynać od obrzezania.",
     "rate": 134,
     "date": "11.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3937",
-    "is_checked": false,
-    "content": "Mój dziadek ciągle narzeka - że koszty życia strasznie wzrosły w dzisiejszych czasach. M \nowi: \n- \"Pamiętam kiedy byłem młody - mama mi dała 5 złotych na zakupy, a ja wróciłem do domu z pełną reklamówką - wędliny, mleko, chleb, ser, masło, konfitury. A teraz co? Wszędzie te lustra, te kamery!\"",
+    "is_checked": true,
+    "is_duplicate": true,
+    "content": "Mój dziadek ciągle narzeka - że koszty życia strasznie wzrosły w dzisiejszych czasach. Mówi: \n- \"Pamiętam kiedy byłem młody - mama mi dała 5 złotych na zakupy, a ja wróciłem do domu z pełną reklamówką - wędliny, mleko, chleb, ser, masło, konfitury. A teraz co? Wszędzie te lustra, te kamery!\"",
     "rate": 86,
     "date": "11.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3934",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Radiowóz wpada na drzewo. Z rozbitego pojazdu gramoli się dwóch \n\"wesołych\" funkcjonariuszy. Jeden mówi do drugiego: \n- No, Stasiu, tak szybko na miejscu wypadku to jeszcze nigdy nie byliśmy.",
     "rate": 109,
     "date": "11.03.2010",
@@ -11092,79 +11094,79 @@
   },
   {
     "id": "3925",
-    "is_checked": false,
-    "content": "Poszedł facet do lekarza po jakieś leki bo czuł że go zaczyna jakaś grypa łapać.\nLekarz go obejrzał, osłuchał i zaczyna przepisywać receptę.\nFacet się pyta czy te tabletki co mu przepisuje będą skuteczne, ale lekarz mówi ze najskuteczniejsze to będą czopki.\nGościu się trochę zmartwił na myśl o wkładaniu czegokolwiek w tyłek, no ale co zrobić.\nLekarz zauważył że facet nie jest zadowolony, zaproponował że pierwszą dawkę mu sam zaaplikuje bo ma już doświadczenie i że facet niczego nie poczuje.  \nNo to facet się wypiął, opuścił spodnie i trochę zdenerwowany czeka. Nagle coś delikatnie chlupnęło. \n- No i już po strachu, nawet pan pewnie nic nie poczuł.\nGość uradowany ze wszystko tak gładko poszło, wrócił do domu. Wieczorem poprosił żonę że by tez tak delikatnie załatwiła sprawę.\nWypięty, spodnie na kostkach. Żona położyła jedną dłoń na ramieniu i ciśnie.\nFacet nagle na cały głos:\n- O rzesz kur*a mać!\nŻona wystraszona co się stało, pyta czy go zabolało.\nA facet na to:\n- Właśnie sobie przypomniałem ze ten lekarz położył obie ręce na moich ramionach!",
+    "is_checked": true,
+    "content": "Poszedł facet do lekarza po jakieś leki bo czuł że go zaczyna jakaś grypa łapać.\nLekarz go obejrzał, osłuchał i zaczyna przepisywać receptę.\nFacet się pyta czy te tabletki co mu przepisuje będą skuteczne, ale lekarz mówi że najskuteczniejsze to będą czopki.\nGościu się trochę zmartwił na myśl o wkładaniu czegokolwiek w tyłek, no ale co zrobić.\nLekarz zauważył że facet nie jest zadowolony, zaproponował że pierwszą dawkę mu sam zaaplikuje, bo ma już doświadczenie i że facet niczego nie poczuje. \nNo to facet się wypiął, opuścił spodnie i trochę zdenerwowany czeka. Nagle coś delikatnie chlupnęło. \n- No i już po strachu, nawet pan pewnie nic nie poczuł.\nGość uradowany że wszystko tak gładko poszło, wrócił do domu. Wieczorem poprosił żonę żeby też tak delikatnie załatwiła sprawę.\nWypięty, spodnie na kostkach. Żona położyła jedną dłoń na ramieniu i ciśnie.\nFacet nagle na cały głos:\n- O rzesz kur*a mać!\nŻona wystraszona co się stało, pyta czy go zabolało.\nA facet na to:\n- Właśnie sobie przypomniałem ze ten lekarz położył obie ręce na moich ramionach!",
     "rate": 106,
     "date": "07.03.2010",
     "author": "PrzeMoC"
   },
   {
     "id": "3924",
-    "is_checked": false,
-    "content": "Do wybrzeża afrykańskiego przypłynęła rosyjska łódź podwodna.\nWłaz się otworzył i ze środka wynurzył się marynarz z liną.\nPatrzy po tym wybrzeżu i dostrzega że na plaży stoi murzyn i go obserwuje.\nRuski niewiele myśląc rzuca do niego linę i krzyczy.\n- Ej dzierży liny! - murzyn nic\n- No dzierży liny - murzyn dalej zero reakcji.\nRuski się podrapał po głowie i zaczyna inaczej.\n- Gawarecki ty pa ruski? \n- cisza\n- Sprecyzować się Deutsch? \n- cisza\n- Parez-vous franglais? \n- cisza\nRusku zły ale jeszcze jedną próbę podejmuje.\n- Do sou peak English? \n- Yes I do! - wykrzykuje murzyn ucieszony.\n- No to dzierzyk liny!",
+    "is_checked": true,
+    "content": "Do wybrzeża afrykańskiego przypłynęła rosyjska łódź podwodna.\nWłaz się otworzył i ze środka wynurzył się marynarz z liną.\nPatrzy po tym wybrzeżu i dostrzega że na plaży stoi murzyn i go obserwuje.\nRuski niewiele myśląc rzuca do niego linę i krzyczy.\n- Ej dzierży linu! - murzyn nic\n- No dzierży linu - murzyn dalej zero reakcji.\nRuski się podrapał po głowie i zaczyna inaczej.\n- Gawarisz ty pa ruski? \n- cisza\n- Sprechen sie deutsch? \n- cisza\n- Parlez-vous français? \n- cisza\nRuski zły ale jeszcze jedną próbę podejmuje.\n- Do you speak english? \n- Yes I do! - wykrzykuje murzyn ucieszony.\n- No to dzierzyj linu!",
     "rate": 78,
     "date": "07.03.2010",
     "author": "PrzeMoC"
   },
   {
     "id": "3923",
-    "is_checked": false,
-    "content": "Międzynarodowy kongres feministek.\nNa mównicę wychodzi jedna z aktywistek i wygłasza kwiecistą mowę o zerwaniu kajdan posłuszeństwa i niewolnictwa, kończąc słowami:\n- I od dziś przestajemy im sprzątać, prać i gotować! Niech radzą sobie sami!\nZ sali burza braw, owacje na stające. Ustalono, że po miesiące odbędzie się ponowny kongres w celu zweryfikowania i podzielenia się wynikami i opiniami.\nJak ustalono tak się stało. Na mównicę pierwsza weszła Francuzka.\n- Miesiąc temu wróciłam do domu o oświadczyłam - Pierre od dzisiaj przestaje gotować, radź sobie sam! \n   Pierwszy dzień nic nie widzę, drugi dzień nic, trzeciego dnia widzę jak na śniadanie gotuje sobie jajko.\nBrawa, ogólna radość. Na mównicę wkracza Amerykanka.\n- Ja po powrocie do domu oświadczyłam - Steven od dzisiaj przestaje prać, radź sobie! \n   Pierwszy dzień nic nie widzę, drugi dzień nic, trzeciego dnia widzę jak dość nieudolnie pierze sobie skarpetki.\nZnowu burza braw. Teraz ma się wypowiedzieć Rosjanka.\n- Ja oświadczyłam w domu - Michaił od dzisiaj sam po sobie sprzątasz! \n   Pierwszy dzień nic nie wiedzę, drugi dzień nic nie widzę, trzeci dzień nic nie widzę, czwartego dnia zaczęłam widzieć na lewe oko.",
+    "is_checked": true,
+    "content": "Międzynarodowy kongres feministek.\nNa mównicę wychodzi jedna z aktywistek i wygłasza kwiecistą mowę o zerwaniu kajdan posłuszeństwa i niewolnictwa, kończąc słowami:\n- I od dziś przestajemy im sprzątać, prać i gotować! Niech radzą sobie sami!\nZ sali burza braw, owacje na stojąco. Ustalono, że po miesiące odbędzie się ponowny kongres w celu zweryfikowania i podzielenia się wynikami i opiniami.\nJak ustalono tak się stało. Na mównicę pierwsza weszła Francuzka.\n- Miesiąc temu wróciłam do domu i oświadczyłam - Pierre od dzisiaj przestaję gotować, radź sobie sam! \nPierwszy dzień nic nie widzę, drugi dzień nic, trzeciego dnia widzę jak na śniadanie gotuje sobie jajko.\nBrawa, ogólna radość. Na mównicę wkracza Amerykanka.\n- Ja po powrocie do domu oświadczyłam - Steven od dzisiaj przestaję prać, radź sobie! \n Pierwszy dzień nic nie widzę, drugi dzień nic, trzeciego dnia widzę jak dość nieudolnie pierze sobie skarpetki.\nZnowu burza braw. Teraz ma się wypowiedzieć Rosjanka.\n- Ja oświadczyłam w domu - Michaił od dzisiaj sam po sobie sprzątasz! \nPierwszy dzień nic nie wiedzę, drugi dzień nic nie widzę, trzeci dzień nic nie widzę, czwartego dnia zaczęłam widzieć na lewe oko.",
     "rate": 94,
     "date": "07.03.2010",
     "author": "PrzeMoC"
   },
   {
     "id": "3921",
-    "is_checked": false,
-    "content": "Mężczyzna ogląda się nago w lustrze, nagle jego członek zaczyna się\npodnosić.\n- Spokojnie, spokojnie, to tylko ja!",
+    "is_checked": true,
+    "content": "Mężczyzna ogląda się nago w lustrze, nagle jego członek zaczyna się podnosić.\n- Spokojnie, spokojnie, to tylko ja!",
     "rate": 82,
     "date": "06.03.2010",
     "author": "Diamante"
   },
   {
     "id": "3919",
-    "is_checked": false,
-    "content": "Dwaj kumple siedzą przy piwku w knajpce i rozmawiają\n- Wiesz, sex z moją żoną jest ostatnio coraz gorszy. Jeszcze trochę i chyba całkiem przestaniemy się kochać...\n- Chłopie, gdyby moja żona nie spała z otwartymi ustami...to w ogóle zapomniał bym co to sex!",
+    "is_checked": true,
+    "content": "Dwaj kumple siedzą przy piwku w knajpce i rozmawiają\n- Wiesz, sex z moją żoną jest ostatnio coraz gorszy. Jeszcze trochę i chyba całkiem przestaniemy się kochać...\n- Chłopie, gdyby moja żona nie spała z otwartymi ustami, to w ogóle zapomniał bym co to sex!",
     "rate": 71,
     "date": "05.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3917",
-    "is_checked": false,
-    "content": "W kościele do spowiedzi przychodzi kobieta klęka przy konfesjonale i mówi:\nKobieta:Proszę księdza zgrzeszyłam...\nKsiądz:w jaki sposób córko?\nKobieta: przed chwilą odbyłam stosunek analny...\nKsiądz: oj to będzie Piekło!\nKobieta:No właśnie proszę księdza już piecze",
+    "is_checked": true,
+    "content": "W kościele do spowiedzi przychodzi kobieta, klęka przy konfesjonale i mówi:\nKobieta: Proszę księdza zgrzeszyłam...\nKsiądz: W jaki sposób córko?\nKobieta: Przed chwilą odbyłam stosunek analny...\nKsiądz: Oj, to będzie Piekło!\nKobieta: No właśnie proszę księdza już piecze",
     "rate": 62,
     "date": "04.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3916",
-    "is_checked": false,
-    "content": "Rodzice i ich dziecko niemowa jedzą obiad.\nNagle dziecko mówi:\n-A gdzie kompot?\nNa to zdezorientowana matka:\n-Synku! Przez całe życie nic nie powiedziałeś, czemu?!\n-Bo zawsze był kompot.",
+    "is_checked": true,
+    "content": "Rodzice i ich dziecko niemowa jedzą obiad.\nNagle dziecko mówi:\n- A gdzie kompot?\nNa to zdezorientowana matka:\n- Synku! Przez całe życie nic nie powiedziałeś, czemu?!\n- Bo zawsze był kompot.",
     "rate": 98,
     "date": "04.03.2010",
     "author": "Grzegorz F."
   },
   {
     "id": "3914",
-    "is_checked": false,
-    "content": "Adwokat do klienta:\n- Mam dla pana zła i dobrą wiadomość. Analiza DNA wykazała, że na miejscu zbrodni znaleziono pańską krew.\n- Oj, to źle... a... ta dobra?\n- Cholesterol i cukier w normie.",
+    "is_checked": true,
+    "content": "Adwokat do klienta:\n- Mam dla pana zła i dobrą wiadomość. Analiza DNA wykazała, że na miejscu zbrodni znaleziono pańską krew.\n- Oj, to źle... a ta dobra?\n- Cholesterol i cukier w normie.",
     "rate": 71,
     "date": "03.03.2010",
     "author": "kinomaniakus"
   },
   {
     "id": "3910",
-    "is_checked": false,
-    "content": "Pewnego dnia zajączek złowił złotą rybkę. Rybka, jak to złote rybki mają w zwyczaju rzekła: \n- Zajączku wypuść mnie to spełnię trzy twoje życzenia! \n- Dobrze - odpowiada zajączek - wypuszczę cię ale, jak spełnisz trzy pierwsze życzenia misia, które wypowie po przebudzeniu ze snu zimowego. \n- No co ty, zajączku! Chcesz oddać swoje życzenia misiowi?! Rybka nie kryła zdziwienia. \n- Tak, to moje ostatnie słowo - stanowczo rzekł zajączek. \n- Zgoda! Odrzekła złota rybka. \nJasik czas później miś budzi się ze snu zimowego, przeciąga się leniwie i mruczy zaspanym głosem: Sto c..ów w dupę i kotwica w plecy, byle była ładna pogoda! :))",
+    "is_checked": true,
+    "content": "Pewnego dnia zajączek złowił złotą rybkę. Rybka, jak to złote rybki mają w zwyczaju rzekła: \n- Zajączku wypuść mnie to spełnię trzy twoje życzenia! \n- Dobrze - odpowiada zajączek - wypuszczę cię ale, jak spełnisz trzy pierwsze życzenia misia, które wypowie po przebudzeniu ze snu zimowego. \n- No co ty, zajączku! Chcesz oddać swoje życzenia misiowi?! Rybka nie kryła zdziwienia. \n- Tak, to moje ostatnie słowo - stanowczo rzekł zajączek. \n- Zgoda! Odrzekła złota rybka. \nJakiś czas później miś budzi się ze snu zimowego, przeciąga się leniwie i mruczy zaspanym głosem: Sto chu*ów w dupę i kotwica w plecy, byle była ładna pogoda!",
     "rate": 86,
     "date": "01.03.2010",
     "author": "prettyasaswastika"
   },
   {
     "id": "3898",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Żona pokazuje mężowi magazyn mody z najnowszymi modelami zimowymi i mówi:\n- Chciałabym mieć takie futro...\nMąż:\n- To jedz Whiskas...",
     "rate": 139,
     "date": "24.02.2010",
@@ -11172,31 +11174,32 @@
   },
   {
     "id": "3891",
-    "is_checked": false,
-    "content": "W przedszkolu Jasiu siedzi na nocniczku i płacze.\n- Dlaczego płaczesz? - pyta pani wychowawczyni\n- Bo pani Zosia powiedziała, że jak ktoś nie zrobi kupki to nie\npójdzie na spacer.\n- I co? Nie możesz zrobić...\n- Ja zrobiłem, ale Wojtek mi ukradł !",
+    "is_checked": true,
+    "is_duplicate": true,
+    "content": "W przedszkolu Jasiu siedzi na nocniczku i płacze.\n- Dlaczego płaczesz? - pyta pani wychowawczyni\n- Bo pani Zosia powiedziała, że jak ktoś nie zrobi kupki to nie\npójdzie na spacer.\n- I co? Nie możesz zrobić...\n- Ja zrobiłem, ale Wojtek mi ukradł!",
     "rate": 157,
     "date": "24.02.2010",
     "author": "kaczor"
   },
   {
     "id": "3888",
-    "is_checked": false,
-    "content": "Mała dziewczynka spaceruje sobie z psem po parku...\nPodchodzi do niej ksiądz i pyta:\n- Jak się nazywasz, dziewczynko?\n- Mam na imię Płatek.\nKsiądz zrobił wielkie oczy i pyta:\n- Ooo, a skąd się wzięło tak egzotyczne imię?\n- Widzi ksiądz to drzewo? Sześć lat temu moi rodzice wyznali sobie\npod nim miłość... Potem pod tym drzewem gorąco się kochali...\nKochali się tak mocno, że z drzewa zaczęły się sypać płatki\nkwiatów, okrywając ich nagie ciała...\nKsiądz zrobił jeszcze większe oczy, pogładził małą po główce\nmówiąc:\n- Piękna historia z tym twoim imieniem. A jak się wabi twój piesek?\nDziewczynka:\n- Puigi.\nKsiądz jest zdziwiony, gdyż czekał na równie zadziwiającą\nhistorię jak poprzednia, więc pyta:\n- A dlaczego ma tak na imię?\n- Bo rucha świnie!",
+    "is_checked": true,
+    "content": "Mała dziewczynka spaceruje sobie z psem po parku...\nPodchodzi do niej ksiądz i pyta:\n- Jak się nazywasz, dziewczynko?\n- Mam na imię Płatek.\nKsiądz zrobił wielkie oczy i pyta:\n- Ooo, a skąd się wzięło tak egzotyczne imię?\n- Widzi ksiądz to drzewo? Sześć lat temu moi rodzice wyznali sobie pod nim miłość... Potem pod tym drzewem gorąco się kochali...\nKochali się tak mocno, że z drzewa zaczęły się sypać płatki kwiatów, okrywając ich nagie ciała...\nKsiądz zrobił jeszcze większe oczy, pogładził małą po główce\nmówiąc:\n- Piękna historia z tym twoim imieniem. A jak się wabi twój piesek?\nDziewczynka:\n- Pigi.\nKsiądz jest zdziwiony, gdyż czekał na równie zadziwiającą historię jak poprzednia, więc pyta:\n- A dlaczego ma tak na imię?\n- Bo rucha świnie!",
     "rate": 84,
     "date": "24.02.2010",
     "author": "kaczor"
   },
   {
     "id": "3881",
-    "is_checked": false,
-    "content": "Młody chłopak pierze dżinsy i mruczy:\n- Nikomu nie można ufać, nikomu\nNa moment przerywa pranie:\n- Nawet sobie - kontynuuje wściekły - Przecież tylko pierdnąć\nchciałem...",
+    "is_checked": true,
+    "content": "Młody chłopak pierze dżinsy i mruczy:\n- Nikomu nie można ufać, nikomu\nNa moment przerywa pranie:\n- Nawet sobie - kontynuuje wściekły - Przecież tylko pierdnąć chciałem...",
     "rate": 111,
     "date": "24.02.2010",
     "author": "kaczor"
   },
   {
     "id": "3556",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Kolega do kolegi.\n- Czy Ty ze swoją dziewczyną to próbujecie czasem w tę drugą dziurkę?\n- Nie, my na razie nie chcemy mieć dzieci.",
     "rate": 63,
     "date": "30.12.2009",
@@ -11204,47 +11207,47 @@
   },
   {
     "id": "3497",
-    "is_checked": false,
-    "content": "Różewski odwiedził wieś, gdzie spędził najpiękniejsze lata swojej\nmłodości. Przemierzając dziarskim krokiem jedyną bitą drogę, z\nsatysfakcją stwierdził, że nie całkiem go zapomniano. Owce, które\nspokojnie wypasały się na łące, ze strachem w oczach przysiadły na\nzadach....",
+    "is_checked": true,
+    "content": "Różewski odwiedził wieś, gdzie spędził najpiękniejsze lata swojej młodości. Przemierzając dziarskim krokiem jedyną bitą drogę, z satysfakcją stwierdził, że nie całkiem go zapomniano. Owce, które spokojnie wypasały się na łące, ze strachem w oczach przysiadły na zadach....",
     "rate": 73,
     "date": "15.12.2009",
     "author": "Grzegorz F."
   },
   {
     "id": "3489",
-    "is_checked": false,
-    "content": "Między Stanami Zjednoczonymi a Związkiem Radzieckim miał się rozegrać turniej bokserski. Jednak dzieci przed turniejem zawodnik radziecki złamał sobie rękę podczas treningu. Na to jego trenerzy sobie myślą:\n- \"Jeśli nikogo nie postawimy na ringu, to co sobie pomyślą o nas Amerykanie! Musimy kogoś niezwłocznie znaleźć!\".\nI poszli szukać. Patrzą, a tu Iwan orze pole. Trenerzy podeszli do niego i mówią:\n- Iwan, jak wytrzymasz jedną rundę na ringu bokserskim, to dostaniesz 100 dolarów.\n- Ano, wytrzymam... - odparł Iwan.\nNadszedł dzień rozgrywki. Trenerzy radzieccy ustawili Iwana na ringu i obserwują. Walka się rozpoczęła. Iwan stoi pośrodku i rozgląda się, bo przecież tu tak kolorowo, światełka, kamery, pełno ludzi, wszyscy patrzą się na niego. Tylko jakiś facet lata dookoła niego i bije go po twarzy.\nKoniec rundy pierwszej. Trenerzy radzieccy podbiegli do Iwana i mówią:\n- Iwan, jak wytrzymasz drugą rundę, to dostaniesz 200 dolarów!\n- Ano, wytrzymam.\nRozpoczęła się runda druga. Iwan znowu się rozgląda dookoła, bo nigdy w życiu nie był na zawodach bokserskich. I znowu jakiś facet lata i bije go po twarzy.\nKoniec rundy drugiej. Radzieccy trenerzy podbiegają do Iwana i mówią: - Iwan, jak wytrzymasz trzecią rundę, to dostaniesz 500 dolarów!\n- Wytrzymam, wytrzymam.\nRunda trzecia. Iwan znowu się rozgląda i znowu jakiś facet biega dookoła niego i bije go po twarzy.\nKoniec rundy trzeciej. Bardzo podekscytowani trenerzy podbiegają do Iwana i z entuzjazmem i proponują: - Iwan, jak wytrzymasz czwartą rundę, to dostaniesz 1000 dolarów!\n- Teraz, kur*a nie wytrzymam! Teraz mu wpierdolę! - odpowiada Iwan.",
+    "is_checked": true,
+    "content": "Między Stanami Zjednoczonymi a Związkiem Radzieckim miał się rozegrać turniej bokserski. Jednak dzień przed turniejem zawodnik radziecki złamał sobie rękę podczas treningu. Na to jego trenerzy sobie myślą:\n- \"Jeśli nikogo nie postawimy na ringu, to co sobie pomyślą o nas Amerykanie! Musimy kogoś niezwłocznie znaleźć!\".\nI poszli szukać. Patrzą, a tu Iwan orze pole. Trenerzy podeszli do niego i mówią:\n- Iwan, jak wytrzymasz jedną rundę na ringu bokserskim, to dostaniesz 100 dolarów.\n- Ano, wytrzymam... - odparł Iwan.\nNadszedł dzień rozgrywki. Trenerzy radzieccy ustawili Iwana na ringu i obserwują. Walka się rozpoczęła. Iwan stoi pośrodku i rozgląda się, bo przecież tu tak kolorowo, światełka, kamery, pełno ludzi, wszyscy patrzą się na niego. Tylko jakiś facet lata dookoła niego i bije go po twarzy.\nKoniec rundy pierwszej. Trenerzy radzieccy podbiegli do Iwana i mówią:\n- Iwan, jak wytrzymasz drugą rundę, to dostaniesz 200 dolarów!\n- Ano, wytrzymam.\nRozpoczęła się runda druga. Iwan znowu się rozgląda dookoła, bo nigdy w życiu nie był na zawodach bokserskich. I znowu jakiś facet lata i bije go po twarzy.\nKoniec rundy drugiej. Radzieccy trenerzy podbiegają do Iwana i mówią: - Iwan, jak wytrzymasz trzecią rundę, to dostaniesz 500 dolarów!\n- Wytrzymam, wytrzymam.\nRunda trzecia. Iwan znowu się rozgląda i znowu jakiś facet biega dookoła niego i bije go po twarzy.\nKoniec rundy trzeciej. Bardzo podekscytowani trenerzy podbiegają do Iwana i z entuzjazmem i proponują: - Iwan, jak wytrzymasz czwartą rundę, to dostaniesz 1000 dolarów!\n- Teraz, kur*a nie wytrzymam! Teraz mu wpierdolę! - odpowiada Iwan.",
     "rate": 149,
     "date": "12.12.2009",
     "author": "BumeranK"
   },
   {
     "id": "3487",
-    "is_checked": false,
-    "content": "Dzwoni facet do firmy reklamującej odchudzanie i po krótkiej rozmowie zamawia pakiet o nazwie \"5 kilo w 5 dni\".\nNastępnego dnia dzwonek do drzwi. Przed drzwiami stoi cudowna blondyneczka, około 20 lat i oprócz sportowego obuwia i tabliczki zawieszonej na szyi nie ma nic na sobie. Dziewczyna przedstawiła się jako pracownica wspomnianej firmy i programu \"5 kilo w 5 dni\". Na tabliczce napis:\n\"Mam na imię Kasia. Jak mnie złapiesz będę Twoja!\".\nFacet rzuca się bez namysłu w pościg za blondynką. Po paru kilometrach i pewnych początkowych trudnościach, w końcu łapie swoją nagrodę. Sytuacja powtarza się przez kolejne 4 dni.\nFacio staje na wadze i zadowoleniem stwierdza, że rzeczywiście schudł 5 kilo! W takim razie znów dzwoni do firmy i zamawia program - tym razem \"10 kilo w 5 dni\".\nNastępnego dnia: w drzwiach staje zapierająca dech w piersiach kobieta, najpiękniejsza, najbardziej seksowna, jaką widział w życiu. Na sobie nie ma nic oprócz butów sportowych i tabliczki na szyi:\n\"Mów mi Ewa. Jak mnie złapiesz, będę Twoja!\"\nTa kobieta ma jednak taką super kondycję, że faciowi niełatwo jest ją złapać od razu i gonitwa trwa znacznie dłużej. W końcu jednak okazuje się że nagroda warta jest nadludzkiego wysiłku.\nHistoria powtarza się przez następne 4 dni i w końcu facet staje na wadze i jest całkowicie zadowolony: schudł obiecane 10 kilo!\nW takim razie postanawia pójść na całość i dzwoni do firmy trzeci raz. Zamawia pakiet \"25 kilo w 7 dni\". Pani przez telefon pyta:\n- Jest Pan absolutnie pewien? To jest nasz najtrudniejszy program!\nFacet jest jednak głęboko przekonany, że tego właśnie chce.\n- Całe lata nie czułem się tak wspaniale!\nNastępnego dnia dzwonek do drzwi. Przed drzwiami stoi potężny, muskularnie zbudowany, intensywnie opalony dwumetrowy facet. Na sobie ma tylko różowe buty sportowe i tabliczkę:\n\"Jestem Franek. Jak Cię złapię, będziesz mój!\"",
+    "is_checked": true,
+    "content": "Dzwoni facet do firmy reklamującej odchudzanie i po krótkiej rozmowie zamawia pakiet o nazwie \"5 kilo w 5 dni\".\nNastępnego dnia dzwonek do drzwi. Przed drzwiami stoi cudowna blondyneczka, około 20 lat i oprócz sportowego obuwia i tabliczki zawieszonej na szyi nie ma nic na sobie. Dziewczyna przedstawiła się jako pracownica wspomnianej firmy i programu \"5 kilo w 5 dni\". Na tabliczce napis:\n\"Mam na imię Kasia. Jak mnie złapiesz będę Twoja!\".\nFacet rzuca się bez namysłu w pościg za blondynką. Po paru kilometrach i pewnych początkowych trudnościach, w końcu łapie swoją nagrodę. Sytuacja powtarza się przez kolejne 4 dni.\nFacio staje na wadze i zadowoleniem stwierdza, że rzeczywiście schudł 5 kilo! W takim razie znów dzwoni do firmy i zamawia program - tym razem \"10 kilo w 5 dni\".\nNastępnego dnia: w drzwiach staje zapierająca dech w piersiach kobieta, najpiękniejsza, najbardziej seksowna, jaką widział w życiu. Na sobie nie ma nic oprócz butów sportowych i tabliczki na szyi:\n\"Mów mi Ewa. Jak mnie złapiesz, będę Twoja!\"\nTa kobieta ma jednak taką super kondycję, że faciowi niełatwo jest ją złapać od razu i gonitwa trwa znacznie dłużej. W końcu jednak okazuje się że nagroda warta jest nadludzkiego wysiłku.\nHistoria powtarza się przez następne 4 dni i w końcu facet staje na wadze i jest całkowicie zadowolony: schudł obiecane 10 kilo!\nW takim razie postanawia pójść na całość i dzwoni do firmy trzeci raz. Zamawia pakiet \"25 kilo w 7 dni\". Pani przez telefon pyta:\n- Jest Pan absolutnie pewien? To jest nasz najtrudniejszy program!\nFacet jest jednak głęboko przekonany, że tego właśnie chce.\n- Całe lata nie czułem się tak wspaniale!\nNastępnego dnia dzwonek do drzwi. Przed drzwiami stoi potężny, muskularnie zbudowany, intensywnie opalony dwumetrowy murzyn. Na sobie ma tylko różowe buty sportowe i tabliczkę:\n\"Jestem Dżordż. Jak Cię złapię, będziesz mój!\"",
     "rate": 151,
     "date": "12.12.2009",
     "author": "BumeranK"
   },
   {
     "id": "3483",
-    "is_checked": false,
-    "content": "Dwaj kumple, Tom i Jerry spotykają się na ulicy, oboje z psami. Jerry ma labradora, a Tom ratlerka. Gadają, gadają, mija godzina. Nagle Jerry proponuje:\n- Zjedzmy coś w restauracji, dokończymy rozmowę...\n- No nie wiem... Nie wpuszczają tam psów, a to pies córki. Jak go straci to chyba mnie zagryzie!\n- Damy radę! Pokażę Ci coś... - mówi Jerry. Zakłada okulary przeciwsłoneczne i wchodzi z psem. Podchodzi kelner i mówi:\n- Proszę Pana, tu nie wolno wprowadzać psów.\n- Jestem niewidomy, a to mój pies przewodnik.\n- W takim razie OK. - odpowiada kelner, a Jerry zachęca Toma aby zrobił to co on. Zakłada okulary przeciwsłoneczne i wchodzi z ratlerkiem. Kelner:\n- Proszę pana, tutaj nie wolno wchodzić z psami.\n- Ależ ja jestem niewidomy! To mój pies przewodnik.\n- To teraz ratlerki szkolą?!\n- Kurwa, ratlerka mi wcisnęli?!",
+    "is_checked": true,
+    "content": "Dwaj kumple, Tom i Jerry spotykają się na ulicy, oboje z psami. Jerry ma labradora, a Tom ratlerka. Gadają, gadają, mija godzina. Nagle Jerry proponuje:\n- Zjedzmy coś w restauracji, dokończymy rozmowę...\n- No nie wiem... Nie wpuszczają tam psów, a to pies córki. Jak go straci to chyba mnie zagryzie!\n- Damy radę! Pokażę Ci coś... - mówi Jerry. Zakłada okulary przeciwsłoneczne i wchodzi z psem. Podchodzi kelner i mówi:\n- Proszę Pana, tu nie wolno wprowadzać psów.\n- Jestem niewidomy, a to mój pies przewodnik.\n- W takim razie OK. - odpowiada kelner, a Jerry zachęca Toma aby zrobił to co on. Zakłada okulary przeciwsłoneczne i wchodzi z ratlerkiem. Kelner:\n- Proszę pana, tutaj nie wolno wchodzić z psami.\n- Ależ ja jestem niewidomy! To mój pies przewodnik.\n- To teraz ratlerki szkolą?!\n- Kur*a, ratlerka mi wcisnęli?!",
     "rate": 88,
     "date": "12.12.2009",
     "author": "BumeranK"
   },
   {
     "id": "3482",
-    "is_checked": false,
-    "content": "Podchodzi gość do barmana i mówi:\n-Założę się z tobą o 300$, ze nasikam do tamtej szklanki i nie uronię ani jednej kropli.- Barman na to:\n-Nasikasz stad do tamtej szklanki stającej 3m od nas?\n-Tak\n-Zgoda- Facet zdejmuje gacie i zaczyna sikać.... Leje po barze, stołkach, na telefon i samego barmana, nie trafił tylko do szklanki. Barman zadowolony, ze zarobił 300$ skacze z radości,a facet, idzie do kilku mężczyzn grających w bilard. Po chwili wraca i daje barmanowi jego 300$. Barman się pyta:\n-Czemu jesteś taki zadowolony? Przecież właśnie straciłeś 300$...\n-Widzisz tamtych ludzi grających w bilard? Założyłem się z każdym z nich o 500$, ze nasikam ci na bar, stołki, telefon i na ciebie, a ty nie tylko się nie wkurzysz, ale będziesz się cieszył jak dziecko.",
+    "is_checked": true,
+    "content": "Podchodzi gość do barmana i mówi:\n- Założę się z tobą o 300$, że nasikam do tamtej szklanki i nie uronię ani jednej kropli \n- Barman na to:\n- Nasikasz stad do tamtej szklanki stającej 3m od nas?\n- Tak\n- Zgoda \nFacet zdejmuje gacie i zaczyna sikać.... Leje po barze, stołkach, na telefon i samego barmana, nie trafił tylko do szklanki. Barman zadowolony, ze zarobił 300$ skacze z radości, a facet, idzie do kilku mężczyzn grających w bilard. Po chwili wraca i daje barmanowi jego 300$. Barman się pyta:\n- Czemu jesteś taki zadowolony? Przecież właśnie straciłeś 300$...\n- Widzisz tamtych ludzi grających w bilard? Założyłem się z każdym z nich o 500$, ze nasikam ci na bar, stołki, telefon i na ciebie, a ty nie tylko się nie wkurzysz, ale będziesz się cieszył jak dziecko.",
     "rate": 97,
     "date": "12.12.2009",
     "author": "BumeranK"
   },
   {
     "id": "3476",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Co mówi kobieta po wyjściu z łazienki?\n- \"Ładnie wyglądam?\"\nA co mówi facet po wyjściu z łazienki?\n- \"Na razie tam nie wchodź!\"",
     "rate": 82,
     "date": "11.12.2009",
@@ -11252,31 +11255,32 @@
   },
   {
     "id": "3470",
-    "is_checked": false,
-    "content": "Żona do męża:\n- Kochanie powiedz mi coś słodkiego...\n- Nie teraz, jestem zajęty.\n- Kochanie, no powiedz mi coś słodkiego...\n- Naprawdę, teraz nie mam czasu.\n- Ale kochanie, chociaż jedno słówko...\n- MIÓD! do kurwy nędzy i odpierdol się ode mnie!",
+    "is_checked": true,
+    "content": "Żona do męża:\n- Kochanie powiedz mi coś słodkiego...\n- Nie teraz, jestem zajęty.\n- Kochanie, no powiedz mi coś słodkiego...\n- Naprawdę, teraz nie mam czasu.\n- Ale kochanie, chociaż jedno słówko...\n- MIÓD! Do kur*y nędzy i odpier*ol się ode mnie!",
     "rate": 86,
     "date": "11.12.2009",
     "author": "Grzegorz F."
   },
   {
     "id": "3463",
-    "is_checked": false,
-    "content": "- Co ma wspólnego piła łańcuchowa i papier toaletowy? \n- Chwila nieuwagi podczas użycia i palec ujebany.",
+    "is_checked": true,
+    "content": "- Co ma wspólnego piła łańcuchowa i papier toaletowy? \n- Chwila nieuwagi podczas użycia i palec uje*any.",
     "rate": 69,
     "date": "10.12.2009",
     "author": "Piter"
   },
   {
     "id": "3454",
-    "is_checked": false,
-    "content": "Rzecz dzieje się w szpitalu psychiatrycznym. Od wielu lat przebywa tam pan Tadek. Pan Tadek nie odezwał się do nikogo przez ten okres i generalnie zajmuje się patrzeniem w okno. Pewnego letniego popołudnia za oknem pojawia się ogrodnik, który nawozi grządki z truskawkami. Po godzinie wpatrywania się w ogrodnika pan Tadek pomalutku wstaje i rusza w stronę okna, otwiera je powoli,patrzy na ogrodnika, patrzy na truskawki i wypowiada zdanie:\n- A co pan robi?\nkonsternacja. Wszyscy pacjenci i personel zupełnie zszokowani - pan Tadek się odezwał! Ogrodnik odpowiada:\n- Ja, panie Tadku, nawożę truskawki.\nPan Tadek myśli i w końcu:\n- Co ?\nOgrodnik:\n- No... posypuję je nawozem.\nPan Tadek po namyśle:\n- Co?\nOgrodnik:\n- No, posypuję truskawki gównem, żeby były lepsze.\nPan Tadek myśli:\n- Aha....\nPan Tadek zamyka pomału okno i zamyślony wraca na miejsce. Siada i myśli. Po pół godzinie wstaje, podchodzi do okna, otwiera je i mówi:\n- Wie pan co? Ja truskawki posypuję cukrem, żeby były lepsze, ale ja to podobno pojebany jestem...",
+    "is_checked": true,
+    "content": "Rzecz dzieje się w szpitalu psychiatrycznym. Od wielu lat przebywa tam pan Tadek. Pan Tadek nie odezwał się do nikogo przez ten okres i generalnie zajmuje się patrzeniem w okno. Pewnego letniego popołudnia za oknem pojawia się ogrodnik, który nawozi grządki z truskawkami. Po godzinie wpatrywania się w ogrodnika pan Tadek pomalutku wstaje i rusza w stronę okna, otwiera je powoli,patrzy na ogrodnika, patrzy na truskawki i wypowiada zdanie:\n- A co pan robi?\n Pełna konsternacja. Wszyscy pacjenci i personel zupełnie zszokowani - pan Tadek się odezwał! Ogrodnik odpowiada:\n- Ja, panie Tadku, nawożę truskawki.\nPan Tadek myśli i w końcu:\n- Co?\nOgrodnik:\n- No... posypuję je nawozem.\nPan Tadek po namyśle:\n- Co?\nOgrodnik:\n- No, posypuję truskawki gównem, żeby były lepsze.\nPan Tadek myśli:\n- Aha....\nPan Tadek zamyka pomału okno i zamyślony wraca na miejsce. Siada i myśli. Po pół godzinie wstaje, podchodzi do okna, otwiera je i mówi:\n- Wie pan co? Ja truskawki posypuję cukrem, żeby były lepsze, ale ja to podobno pojebany jestem...",
     "rate": 132,
     "date": "07.12.2009",
     "author": "Grzegorz F."
   },
   {
     "id": "3444",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "Lekcja polskiego w klasie szkoły podstawowej.\nPani nauczycielka po kolei do dzieci:\n- Jasiu, przeliteruj słowo \"tata\".\nJasiu przeliterował.\n- Małgosiu, przeliteruj słowo \"mama\"\nGosia przeliterowała\n- Dobrze, teraz Ty Ahmed!\nPrzeliteruj\"dyskryminacja mniejszości rasowych w Polsce w świetle polskich przepisów konstytucyjnych\"",
     "rate": 81,
     "date": "04.12.2009",
@@ -11284,15 +11288,15 @@
   },
   {
     "id": "3442",
-    "is_checked": false,
-    "content": "Pijany facet po piątym piwie wychodzi do toalety. Jakieś 2 minuty po tym knajpą wstrząsa mrożący krew w żyłach krzyk dobywający się z kibelka. Za jakieś pięć minut znowu. W końcu barman nie wytrzymał i idzie sprawdzić, patrzy, siedzi tam ten facet, więc pyta go:\n- Czemu się pan tak drze?\nA facet:\n- Panie, usiadłem na kibelku, zrobiłem co trzeba, spuszczam wodę... i jak mnie coś nie ściśnie za jaja! Za chwilę znowu - ciągnę tę wajchę - i jak mnie nie ściśnie!\n- Bo to nie kibel, idioto, tylko wiadro od mopa...",
+    "is_checked": true,
+    "content": "Pijany facet po piątym piwie wychodzi do toalety. Jakieś 2 minuty po tym knajpą wstrząsa mrożący krew w żyłach krzyk dobywający się z kibla. Za jakieś pięć minut znowu. W końcu barman nie wytrzymał i idzie sprawdzić, patrzy, siedzi tam ten facet, więc pyta go:\n- Czemu się pan tak drze?\nA facet:\n- Panie, usiadłem na kiblu, zrobiłem co trzeba, spuszczam wodę... i jak mnie coś nie ściśnie za jaja! Za chwilę znowu - ciągnę tę wajchę - i jak mnie nie ściśnie!\n- Bo to nie kibel, idioto, tylko wiadro od mopa...",
     "rate": 79,
     "date": "04.12.2009",
     "author": "Grzegorz F."
   },
   {
     "id": "3440",
-    "is_checked": false,
+    "is_checked": true,
     "content": "W autobusie siedzi młody chłopak i ciągle wpatruje się w dekolt młodej dziewczyny. Ona nie wytrzymuje i po chwili mówi:\n- Chcesz w gębę?\n- Tak, a drugiego do ręki.",
     "rate": 78,
     "date": "03.12.2009",
@@ -11300,7 +11304,7 @@
   },
   {
     "id": "3438",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Co to jest: ropucha i 40 ząbek?\nTeściowa wiesza firanki",
     "rate": 61,
     "date": "02.12.2009",
@@ -11308,15 +11312,15 @@
   },
   {
     "id": "2998",
-    "is_checked": false,
-    "content": "Na balkonie w bloku opala się piękna naga kobieta.\nNagle z góry zjeżdża kartka na sznurku. Na kartce jest napisane:\n- Tesli chcesz się ze mną kochać pociągnij 2 razy, jeśli nie\npociągnij 50 razy z czego ostatnie 10 bardzo szybko.",
+    "is_checked": true,
+    "content": "Na balkonie w bloku opala się piękna naga kobieta.\nNagle z góry zjeżdża kartka na sznurku. Na kartce jest napisane:\n- Jeśli chcesz się ze mną kochać pociągnij 2 razy, jeśli nie - pociągnij 50 razy z czego ostatnie 10 bardzo szybko.",
     "rate": 122,
     "date": "20.08.2009",
     "author": "krzysiekk"
   },
   {
     "id": "2989",
-    "is_checked": false,
+    "is_checked": true,
     "content": "- Co jest najważniejsze w pozycji \"od tyłu\"?\n- Aby być z tyłu.",
     "rate": 26,
     "date": "20.08.2009",
@@ -11324,23 +11328,24 @@
   },
   {
     "id": "2983",
-    "is_checked": false,
-    "content": "Ojciec od jakiegoś czasu podejrzewał syna o ćpanie. Pewnej nocy syn wraca późno do domu i szybko kładzie się spać. Ociec wstaje i wali mu rentgena po kieszeniach i?. znajduje torebeczkę z białym proszkiem. Bierze to i idzie do łazienki. Trzaska jedną kreskę i?..pojaśniało, pociemniało i nic. Hmm?.trzasnął na druga dziurę i ?..pojaśniało, pociemniało i nic. Pomału zaczyna się irytować ale wali po raz kolejny. Znów - pojaśniało, pociemniało i nic. Nagle słyszy walenie do drzwi łazienki i głos żony:\n- Stefek co ty robisz ?!\nOdpowiada:\n- Gole się!\nŻona:\n- Kurwa trzy dni ?!?!",
+    "is_checked": true,
+    "content": "Ojciec od jakiegoś czasu podejrzewał syna o ćpanie. Pewnej nocy syn wraca późno do domu i szybko kładzie się spać. Ociec wstaje i wali mu rentgena po kieszeniach. Znajduje torebeczkę z białym proszkiem. Bierze to i idzie do łazienki. Trzaska jedną kreskę, .pojaśniało, pociemniało i nic. Trzasnął na druga dziurę - pojaśniało, pociemniało i nic. Pomału zaczyna się irytować, ale wali po raz kolejny. Znów - pojaśniało, pociemniało i nic. Nagle słyszy walenie do drzwi łazienki i głos żony:\n- Stefek co ty robisz ?!\nOdpowiada:\n- Golę się!\nŻona:\n- Kur*a trzy dni?!",
     "rate": 219,
     "date": "20.08.2009",
     "author": null
   },
   {
     "id": "2981",
-    "is_checked": false,
-    "content": "Przychodzi pedał do lekarza, robi badania na AIDS. Wynik okazuje się pozytywny.\n- Co ja teraz zrobię panie doktorze? - pyta zasmucony.\n-Niech pan zje pół kilo bigosu, wypije pięć piw, kupi jeszcze kilka czekolad, przegryzie to kilkunastoma kanapkami i popije herbatą - odpowiada lekarz.\n- I to mnie uleczy?\n- Nie, ale może wreszcie się dowiesz do czego służy dupa.",
+    "is_checked": true,
+    "content": "Przychodzi pedał do lekarza, robi badania na AIDS. Wynik okazuje się pozytywny.\n- Co ja teraz zrobię panie doktorze? - pyta zasmucony.\n- Niech pan zje pół kilo bigosu, wypije pięć piw, kupi jeszcze kilka czekolad, przegryzie to kilkunastoma kanapkami i popije herbatą - odpowiada lekarz.\n- I to mnie uleczy?\n- Nie, ale może wreszcie się dowiesz do czego służy dupa.",
     "rate": 89,
     "date": "20.08.2009",
     "author": "Philipfry92"
   },
   {
     "id": "2976",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "W Warszawie, na rogu ulicy stoi dwóch policjantów z psem. Podchodzi do nich facet i z uwagą ogląda psa. Ogląda go z boku, z tyłu, zagląda mu pod brzuch, pod ogon. Wreszcie policjanci zainteresowali się gościem.\n- Panie, co pan tu tak tego psa prześwietla?\n- Znów mnie kumple w maliny wpuścili. Powiedzieli, że tu na rogu stoi pies z dwoma chujami.",
     "rate": 95,
     "date": "20.08.2009",
@@ -11348,15 +11353,15 @@
   },
   {
     "id": "2971",
-    "is_checked": false,
-    "content": "Mąż wrócił wcześniej z delegacji. Zobaczył, że spod kołdry ich małżeńskiego łoża wystają 4 nogi.\nZdenerwował się bardzo, chwycił gruby kij i walił w leżących ile wlezie.\nZmęczony poszedł do kuchni, a tam wita go..... ŻONA:\n- Witaj, misiu, przyjechali twoi rodzice, położyli się w naszym łóżku, już się z nimi przywitałeś?",
+    "is_checked": true,
+    "content": "Mąż wrócił wcześniej z delegacji. Zobaczył, że spod kołdry ich małżeńskiego łoża wystają 4 nogi.\nZdenerwował się bardzo, chwycił gruby kij i walił w leżących ile wlezie.\nZmęczony poszedł do kuchni, a tam wita go żona: \n- Witaj misiu! Przyjechali twoi rodzice, położyli się w naszym łóżku, już się z nimi przywitałeś?",
     "rate": 119,
     "date": "19.08.2009",
     "author": "bonus111"
   },
   {
     "id": "2969",
-    "is_checked": false,
+    "is_checked": true,
     "content": "Dwóch mężczyzn udało się na stację benzynową oferującą premię w postaci darmowego seksu za każde zatankowanie samochodu. Napełniwszy zbiornik samochodu podeszli do kierownika stacji po nagrodę.\n- Musicie najpierw zgadnąć, o jakiej liczbie między 1 a 10 w tej chwili myślę.\n- Może siedem? - próbuje zgadnąć jeden z mężczyzn\n- Niestety nie. Myślałem o ósemce.\nPo tygodniu przyjaciele postanowili spróbować ponownie. Po zatankowaniu udali się do kierownika. Podobnie jak za pierwszym razem kazał im odgadnąć liczbę od 1 do 10.\n- Dwa - mówi jeden z mężczyzn.\n- Znowu źle. Myślałem o trójce. Może następnym razem będziecie mieli więcej szczęścia. Wracając do samochodu jeden z facetów mówi do drugiego:\n- Myślę, że on nas oszukuje.\n- Coś ty! To uczciwa gra. W zeszłym tygodniu moja żona wygrała aż dwa razy!",
     "rate": 82,
     "date": "19.08.2009",
@@ -11364,32 +11369,32 @@
   },
   {
     "id": "2968",
-    "is_checked": false,
-    "content": "Do apteki wszedł mężczyzna i poprosił o możliwość rozmowy z aptekarzem mężczyzna. Kobieta w okienku :\n- Trosze pana, nie zatrudniamy ani jednego mężczyzny. Właścicielka apteki jest moja siostra, ja natomiast jestem farmaceutka, w czym mogłabym pomoc?\n- Trosze pani, mam jednak taka sprawę, ze wolałbym porozmawiać z\nmężczyzna...\n- Trosze pana, jestem dyplomowana farmaceutka i zapewniam pana,ze podejdę do sprawy absolutnie profesjonalnie, dyskretnie i bezosobowo... \n- Trosze pani, bardzo ciężko mi o tym mówić, naprawdę wolałbym z\nmężczyzna... Mam wielki kłopot, ponieważ mam permanentna erekcje. Co pani mogłaby mi na to dać? \n- Mmm... proszę poczekać chwilkę, murze zapytać mojej siostry. Po kilku\nminutach wróciła: \n- Trosze pana, naradziłyśmy się z siostra i wszystko, co możemy panu dać to 1/3 udziałów w aptece, służbowy samochód i 5000 miesięcznej pensji....",
+    "is_checked": true,
+    "content": "Do apteki wszedł mężczyzna i poprosił o możliwość rozmowy z aptekarzem mężczyzną. Kobieta w okienku:\n- Proszę pana, nie zatrudniamy ani jednego mężczyzny. Właścicielka apteki jest moją siostrą, ja natomiast jestem farmaceutką, w czym mogłabym pomoc?\n- Proszę pani, mam jednak taką sprawę, że wolałbym porozmawiać z mężczyzną.\n- Proszę pana, jestem dyplomowaną farmaceutką i zapewniam pana, że podejdę do sprawy absolutnie profesjonalnie, dyskretnie i bezosobowo... \n- Proszę pani, bardzo ciężko mi o tym mówić, naprawdę wolałbym z mężczyzną. Mam wielki kłopot, ponieważ mam permanentną erekcję. Co pani mogłaby mi na to dać? \n- Mmm... proszę poczekać chwilkę, muszę zapytać mojej siostry. Po kilku minutach wróciła: \n- Proszę pana, naradziłyśmy się z siostrą i wszystko, co możemy panu dać to 1/3 udziałów w aptece, służbowy samochód i 5000 miesięcznej pensji....",
     "rate": 93,
     "date": "19.08.2009",
     "author": "kaszub"
   },
   {
     "id": "2962",
-    "is_checked": false,
-    "content": "Idzie Turysta nocą przez góry, patrzy a tu samotna chatka - bacówka. Wchodzi do chaty i rozgląda się zdziwiony. Baca i żona Bacy leżą nieruchomo w łóżku z otwartymi oczami, światła pozapalane, w domu cisza grobowa. Facet się trochę wystraszył, ale zaraz pomyślał, że skoro Bacowie nie żyją można coś ukraść z domku. No więc zwinął magnetowid i ruszył z nim na szlak. Po chwili przypomniał sobie, że widział też fajny telewizor i wrócił po tenże.\nBacowie dalej leżeli bez reakcji. Uciekając z TV i VCR pomyślał, że ta Bachowa to całkiem spoko babka i można by ja jeszcze ... (...). \nWrócił więc do domku, zrobił swoje i poszedł w długą. Po chwili Bachowa odzywa się do Bacy:\n- Te, Koziej, to ze łon ukroi wideo to nic, to ze ukroi telewizor to nic, ale że mię wyobracał, a ty nic to już są szczyty !\nA Baca na to:\n- Ha ha, pierwsi się pozezwala ! Gasi światło",
+    "is_checked": true,
+    "content": "Idzie Turysta nocą przez góry, patrzy a tu samotna chatka - bacówka. Wchodzi do chaty i rozgląda się zdziwiony. Baca i żona Bacy leżą nieruchomo w łóżku z otwartymi oczami, światła pozapalane, w domu cisza grobowa. Facet się trochę wystraszył, ale zaraz pomyślał, że skoro Bacowie nie żyją można coś ukraść z domku. No więc zwinął magnetowid i ruszył z nim na szlak. Po chwili przypomniał sobie, że widział też fajny telewizor i wrócił po tenże.\nBacowie dalej leżeli bez reakcji. Uciekając z TV i VCR pomyślał, że ta Bacowa to całkiem spoko babka i można by ją jeszcze przelecieć. \nWrócił więc do domku, zrobił swoje i poszedł w długą. Po chwili Bacowa odzywa się do Bacy:\n- Te, Joziek, to ze łon ukrod wideo to nic, to ze ukrod telewizor to nic, ale że mie wyobracoł, a ty nic to już są szczyty!\nA Baca na to:\n- Ha ha, pierwso sie łodezwala ! Gasi światlo",
     "rate": 124,
     "date": "19.08.2009",
     "author": "kaszub"
   },
   {
     "id": "2961",
-    "is_checked": false,
-    "content": "Caryca Katarzyna szukała wytrawnego kochanka, lecz żaden z kandydatów nie wytrwał dłużej niż 50 orgazmów. Katarzyna była niepocieszona. Wkrótce jednak dowiedziała się ze w dalekiej syberyjskiej puszczy mieszka młody drwal, który może zaspokoić każda kobietę. Udała się Katarzyna do owego drwala i mówi:\n- Albo zaspokoisz mnie 100 razy, albo mój kat zetnie ci głowę.\nDrwal się zgodził i wspólnie z caryca odliczali kolejne orgazmy drwala:\n- 1, 2, 3, ..50, ........,90, ..... Katarzyna już nie wytrzymuje, ale drwal mówi miało być 100, to będzie 100, i liczą dalej. Gdy doszło do 99 orgazmu Katarzyna kłamiąc krzyczy:\n- 100!\n- Nie, 99 mówi drwal.\n- 100, według moich rachunków jest już setny raz.\n- Caryco, mówi drwal, ja jestem człowiek prosty, ale uczciwy, pogubiliśmy się w rachunkach więc zaczynamy od nowa!",
+    "is_checked": true,
+    "content": "Caryca Katarzyna szukała wytrawnego kochanka, lecz żaden z kandydatów nie wytrwał dłużej niż 50 orgazmów. Katarzyna była niepocieszona. Wkrótce jednak dowiedziała się ze w dalekiej syberyjskiej puszczy mieszka młody drwal, który może zaspokoić każdą kobietę. Udała się Katarzyna do owego drwala i mówi:\n- Albo zaspokoisz mnie 100 razy, albo mój kat zetnie ci głowę.\nDrwal się zgodził i wspólnie z caryca odliczali kolejne orgazmy drwala:\n- 1, 2, 3, ..50, ........, 90, ..... Katarzyna już nie wytrzymuje, ale drwal mówi miało być 100, to będzie 100, i liczą dalej. Gdy doszło do 99 orgazmu Katarzyna kłamiąc krzyczy:\n- 100!\n- Nie, 99 mówi drwal.\n- 100, według moich rachunków jest już setny raz.\n- Caryco, mówi drwal, ja jestem człowiek prosty, ale uczciwy, pogubiliśmy się w rachunkach więc zaczynamy od nowa!",
     "rate": 93,
     "date": "19.08.2009",
     "author": "kaszub"
   },
   {
     "id": "2959",
-    "is_checked": false,
-    "content": "Cała sprawa dzieje się w górach. Turysta przychodzi do baru, siada przy barze i pyta:\n- \"Barman, co polecisz do picia?\"\nBarman - Ano, panoczku drink Góra cy\nTurysta - Jak to góra cy?!\"\nBarman - Widzi pan, bierzemy kruklanecki wina...no dwie...góra cy i wlewamy do garnka.\nPóźniej bierzemy kruklanecki piwa....no dwie....góra cy i wlewamy do tego samego garnka.\nNastępnie kruklanecki wdecki...dwie...no góra cy i wlewamy to tegoż samego Sarnecka.\nNa koniec bierzemy kruklanecki koniaku....no dwie... góra cy i wlewamy do garnka.\nGarnek stawiamy na ogniu i mieszając grzejemy as jakiś.\nPóźniej nalewamy i pijemy kruklanecki....dwie...no góra cy.\nPo wypiciu wstajemy...robimy kroczek....dwa...no góra cy!\"",
+    "is_checked": true,
+    "content": "Cała sprawa dzieje się w górach. Turysta przychodzi do baru, siada przy barze i pyta:\n- Barman, co polecisz do picia?\n- Ano, panoczku drink Góra cy\n- Jak to góra cy?!\n- Widzi pan, bierzemy sklanecke wina...no dwie...góra cy i wlewamy do garnka.\nPóźniej bierzemy sklanecke piwa....no dwie....góra cy i wlewamy do tego samego garnka.\nNastępnie sklanecke wódecki...dwie...no góra cy i wlewamy to tegoż samego garnecka.\nNa koniec bierzemy sklanecke koniaku....no dwie... góra cy i wlewamy do garnka.\nGarnek stawiamy na ogniu i mieszając grzejemy cas jakiś.\nPóźniej nalewamy i pijemy sklanecke....dwie...no góra cy.\nPo wypiciu wstajemy...robimy krocek....dwa...no góra cy!",
     "rate": 91,
     "date": "19.08.2009",
     "author": "kaszub"
@@ -11942,7 +11947,8 @@
   },
   {
     "id": "1945",
-    "is_checked": false,
+    "is_checked": true,
+    "is_duplicate": true,
     "content": "W przedszkolu Jasiu siedzi na nocniczku i płacze. \n- Dlaczego płaczesz? - pyta pani wychowawczyni \n- Bo pani Zosia powiedziała, że jak ktoś nie zrobi kupki to nie pójdzie na spacer. \n- I co? Nie możesz zrobić... \n- Ja zrobiłem, ale Wojtek mi ukradł !",
     "rate": 66,
     "date": "09.05.2009",
