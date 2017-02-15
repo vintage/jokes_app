@@ -27,7 +27,9 @@ def clean_jokes():
 
     for item in data:
         content = item['content']
-        content = content.replace('kurwa', 'kur*a')
+        content = content.replace('kurw', 'kur*')
+        content = content.replace('chuj', 'ch*j')
+        content = content.replace('jeb', 'je*')
         content = content.replace(' ,', ',')
 
         for i in reversed(range(1, 6)):
