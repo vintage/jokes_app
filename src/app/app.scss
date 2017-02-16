@@ -111,6 +111,25 @@ ion-select {
   }
 }
 
+.action-sheet-container {
+  text-align: center;
+  border: 3px solid #fff;
+
+  .action-sheet-title {
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    font-weight: bold;
+  }
+
+  .action-sheet-button {
+    border-bottom: 2px solid #fff;
+
+    &.action-sheet-cancel {
+      border-bottom: none;
+    }
+  }
+}
+
 .loading-spinner {
   display: block;
   margin: 0 auto;
