@@ -36,3 +36,5 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 
 !.keep
+resources/android/
+resources/ios/
