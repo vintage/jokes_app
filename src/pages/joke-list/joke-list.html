@@ -41,7 +41,7 @@
     </ion-item>
   </ion-list>
 
-  <jokes *ngIf="allJokes" [jokes]="jokes" (jokeSelect)="openJoke($event)"></jokes>
-
   <paginator [items]="allJokes" [pageSize]="10" (paginate)="setJokes($event)" *ngIf="allJokes"></paginator>
+
+  <jokes *ngIf="allJokes" [jokes]="jokes" (jokeSelect)="openJoke($event)"></jokes>
 </ion-content>

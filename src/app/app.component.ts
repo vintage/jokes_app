@@ -29,9 +29,9 @@ export class MyApp {
 
       let adKey = null;
       if (this.platform.is('ios')) {
-        adKey = '8bdd31fd8416f9eef80403b5622d77624326adf55758fa2a';
+        adKey = 'ca-app-pub-4764697513834958/2315864060';
       } else {
-        adKey = 'b09006ec29ced78be8edbb0593061bfe0b4a1db066dcdf26';
+        adKey = 'ca-app-pub-4764697513834958/1118332466';
       }
 
       StatusBar.hide();

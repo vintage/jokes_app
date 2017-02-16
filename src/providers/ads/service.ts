@@ -7,12 +7,17 @@ export class AdService {
   initialize(key: string) {
     let engine = this.getEngine();
     if (engine) {
-      engine.initialize(key, engine.BANNER);
+      engine.banner.config({
+        id: key,
+        isTesting: false,
+        autoShow: false,
+        overlap: false
+      });
     }
   }
 
   getEngine() {
-    let engine = window["Appodeal"];
+    let engine = window["admob"];
     return engine;
   }
 
@@ -21,7 +26,8 @@ export class AdService {
     if (!engine) {
       return;
     }
-
-    engine.show(engine.BANNER_BOTTOM);
+    
+    engine.banner.prepare();
+    engine.banner.show();
   }
 }
