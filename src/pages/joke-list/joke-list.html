@@ -18,17 +18,26 @@
 <ion-content>
   <ion-spinner color="yellow" name="dots" *ngIf="!allJokes" class="loading-spinner"></ion-spinner>
 
-  <ion-list class="jokes-sorter" *ngIf="allJokes">
-    <ion-item>
-      <ion-select
-        [(ngModel)]="sortBy"
-        interface="action-sheet"
-        cancelText="Anuluj"
-        (ionChange)="sortByChange()">
-        <ion-option *ngFor="let sortOption of sortByOptions" [value]="sortOption.id">
-          {{ sortOption.title }}
-        </ion-option>
-      </ion-select>
+  <ion-list class="jokes-sorter" *ngIf="allJokes" no-lines>
+    <ion-item class="searchbar-item">
+      <ion-searchbar
+        placeholder="Znajdź słowo"
+        [(ngModel)]="searchPhrase"
+        (ionInput)="onSearch($event)">
+      </ion-searchbar>
+    </ion-item>
+    <ion-item class="sorter-item">
+      <ion-label>
+        <ion-select
+          [(ngModel)]="sortBy"
+          interface="action-sheet"
+          cancelText="Anuluj"
+          (ionChange)="sortByChange()">
+          <ion-option *ngFor="let sortOption of sortByOptions" [value]="sortOption.id">
+            {{ sortOption.title }}
+          </ion-option>
+        </ion-select>
+      </ion-label>
     </ion-item>
   </ion-list>
 

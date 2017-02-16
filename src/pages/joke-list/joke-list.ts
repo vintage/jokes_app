@@ -25,6 +25,7 @@ export class JokeListPage {
     {title: 'Najstarsze',id: 'date'},
   ];
   hasFavorites: boolean;
+  searchPhrase: string = '';
 
   constructor(
     public navCtrl: NavController,
@@ -91,5 +92,17 @@ export class JokeListPage {
     setTimeout(() => {
       this.sortJokes();
     }, 100);
+  }
+
+  onSearch() {
+    this.updateJokes().then(() => {
+      if (this.searchPhrase) {
+        this.allJokes = this.allJokes.filter(joke => {
+          return joke.content.indexOf(this.searchPhrase) !== -1;
+        });
+      }
+
+      this.sortJokes();
+    });
   }
 }

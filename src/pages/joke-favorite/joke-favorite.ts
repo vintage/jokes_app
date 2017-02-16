@@ -15,21 +15,13 @@ import { AboutPage } from '../about/about';
 export class JokeFavoritePage {
   allJokes: Joke[];
   jokes: Joke[] = [];
-
-  sortBy: string;
-  sortByOptions: Object[] = [
-    {title: 'Najlepsze',id: '-rate'},
-    {title: 'Najnowsze',id: '-date'},
-    {title: 'Najgorsze',id: 'rate',},
-    {title: 'Najstarsze',id: 'date'},
-  ];
+  searchPhrase: string = '';
 
   constructor(
     public navCtrl: NavController,
     private jokeService: JokeService,
   ) {
     this.jokes = [];
-    this.sortBy = '-rate';
   }
 
   ionViewWillEnter() { 
@@ -67,17 +59,10 @@ export class JokeFavoritePage {
   }
 
   sortJokes() {
-    let sortField = this.sortBy;
-    let isReverse = sortField.startsWith('-');
-    
-    if (isReverse) {
-      sortField = sortField.slice(1);
-    }
+    let sortField = 'rate';
 
     let jokes = _.sortBy(this.allJokes, sortField);
-    if (isReverse) {
-      jokes.reverse();
-    }
+    jokes.reverse();
 
     this.allJokes = jokes;
   }
@@ -86,5 +71,17 @@ export class JokeFavoritePage {
     setTimeout(() => {
       this.sortJokes();
     }, 100);
+  }
+
+  onSearch() {
+    this.updateJokes().then(() => {
+      if (this.searchPhrase) {
+        this.allJokes = this.allJokes.filter(joke => {
+          return joke.content.indexOf(this.searchPhrase) !== -1;
+        });
+      }
+
+      this.sortJokes();
+    });
   }
 }
