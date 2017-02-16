@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
-import { StatusBar, Splashscreen, Insomnia } from 'ionic-native';
+import { StatusBar, Splashscreen, Insomnia, Keyboard } from 'ionic-native';
 
 import { AdService } from '../providers/ads/service';
 
@@ -36,6 +36,7 @@ export class MyApp {
 
       StatusBar.hide();
       Splashscreen.hide();
+      Keyboard.hideKeyboardAccessoryBar(false);
 
       this.ads.initialize(adKey);
       this.ads.showBanner();

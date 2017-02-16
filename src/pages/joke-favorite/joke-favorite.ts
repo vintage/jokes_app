@@ -76,8 +76,9 @@ export class JokeFavoritePage {
   onSearch() {
     this.updateJokes().then(() => {
       if (this.searchPhrase) {
+        let comparePhrase = this.searchPhrase.toLowerCase();
         this.allJokes = this.allJokes.filter(joke => {
-          return joke.content.indexOf(this.searchPhrase) !== -1;
+          return joke.content.toLowerCase().indexOf(comparePhrase) !== -1;
         });
       }
 
