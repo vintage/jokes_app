@@ -53,6 +53,13 @@ def parse():
     src_dir = '.'
     app_dir = '..'
 
+    export_path = '{}/src/assets/data/jokes.json'.format(app_dir)
+
+    original = {}
+    with open(export_path, 'r') as data_file:
+        original = json.load(data_file)
+    original = {o['id']: o for o in original}
+
     base_url = 'http://perelki.net/'
     response = requests.get(base_url, headers={'User-Agent': generate_user_agent()})
     btree = etree.HTML(response.content)
@@ -99,37 +106,42 @@ def parse():
             except IndexError:
                 joke_author = None
 
-            checker = SpellChecker("pl")
-            checker.set_text(joke_text)
+            joke = original.get(joke_id)
+            if joke:
+                joke.update({
+                    'rate': joke_rate
+                })
+            else:
+                checker = SpellChecker("pl")
+                checker.set_text(joke_text)
 
-            is_valid = True
-            for error in checker:
-                is_valid = False
-                word = error.word
+                is_valid = True
+                for error in checker:
+                    is_valid = False
+                    word = error.word
 
-                suggestions = checker.suggest(word)
-                try:
-                    suggestion = suggestions[0]
-                except:
-                    pass
-                else:
-                    error.replace(suggestion)
+                    suggestions = checker.suggest(word)
+                    try:
+                        suggestion = suggestions[0]
+                    except:
+                        pass
+                    else:
+                        error.replace(suggestion)
 
-            if not is_valid:
-                joke_text = checker.get_text()
+                if not is_valid:
+                    joke_text = checker.get_text()
 
-            joke = {
-                'id': joke_id,
-                'is_checked': False,
-                'content': joke_text,
-                'rate': joke_rate,
-                'date': joke_date,
-                'author': joke_author
-            }
+                joke = {
+                    'id': joke_id,
+                    'is_checked': False,
+                    'content': joke_text,
+                    'rate': joke_rate,
+                    'date': joke_date,
+                    'author': joke_author
+                }
             jokes.append(joke)
 
     # Copy parsed file
-    export_path = '{}/src/assets/data/jokes.json'.format(app_dir)
     with open(export_path, 'w') as outfile:
         json.dump(
             jokes,
