@@ -16,6 +16,7 @@ export class JokeFavoritePage {
   allJokes: Joke[];
   jokes: Joke[] = [];
   searchPhrase: string = '';
+  currentPage: number = 1;
 
   constructor(
     public navCtrl: NavController,

@@ -16,6 +16,7 @@ import { AboutPage } from '../about/about';
 export class JokeListPage {
   allJokes: Joke[];
   jokes: Joke[] = [];
+  currentPage: number = 1;
 
   sortBy: string;
   sortByOptions: Object[] = [

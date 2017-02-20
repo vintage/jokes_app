@@ -1,17 +1,18 @@
-import { Component, EventEmitter } from '@angular/core';
+import { Component, EventEmitter, Input } from '@angular/core';
 
 @Component({
   selector: 'paginator',
   templateUrl: 'paginator.html',
   inputs: ['items', 'pageSize'],
-  outputs: ['paginate'],
+  outputs: ['paginate', 'currentPageChange'],
 })
 export class PaginatorComponent {
   items: any[];
   pageSize: number;
-  currentPage: number;
+  _currentPage: number;
 
   paginate = new EventEmitter(true);
+  currentPageChange = new EventEmitter(true);
 
   constructor() {
 
@@ -26,6 +27,16 @@ export class PaginatorComponent {
     if (items && items['currentValue'] != items['previousValue']) {
       this.startPagination();
     }
+  }
+
+  @Input()
+  get currentPage() {
+    return this._currentPage;
+  }
+
+  set currentPage(value) {
+    this._currentPage = value;
+    this.currentPageChange.emit(this._currentPage);
   }
 
   resetPagination() {
