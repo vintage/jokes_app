@@ -54,8 +54,13 @@ export class PaginatorComponent {
 
   startPagination() {
     let objects = this.getPaginateItems();
-
-    this.paginate.emit(objects);
+    if (objects.length > 0) {
+      this.paginate.emit(objects);
+    } else {
+      this.currentPage = 1;
+      objects = this.getPaginateItems();
+      this.paginate.emit(objects);
+    }
   }
 
   getPaginateItems() {

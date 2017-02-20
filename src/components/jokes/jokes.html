@@ -23,4 +23,12 @@
       </ion-row>
     </ion-card>
   </div>
+
+  <div class="jokes-list__item" *ngIf="jokes.length === 0">
+    <ion-card class="joke-card" text-center>
+      <ion-card-content class="joke-content">
+        Nie znaleziono kawałów spełniających dane kryteria.
+      </ion-card-content>
+    </ion-card>
+  </div>
 </ion-list>
