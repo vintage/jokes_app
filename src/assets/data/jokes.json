@@ -992,7 +992,7 @@
   {
     "id": "8287",
     "is_checked": true,
-    "content": "Wchodzi facet do apteki i cichutkim głosem mówi:\n- Nervosol poproszę...\n- Co proszę?\n- NERVOSOL KURWA!",
+    "content": "Wchodzi facet do apteki i cichutkim głosem mówi:\n- Nervosol poproszę...\n- Co proszę?\n- NERVOSOL KUR*A!",
     "rate": 111,
     "date": "15.12.2016",
     "author": "Grzegorz F."
@@ -1890,7 +1890,8 @@
   {
     "id": "8023",
     "is_checked": true,
-    "content": "Jasiu bawi się swoją kolejką.\n- Kurwa wsiadać, kur*a wysiadać!\nTato usłyszał to z sąsiedniego pokoju.\n- Jasiu, jeśli jeszcze raz przeklniesz przez godzinę zabiorę ci twoją kolejkę.\n5 minut - nic.\n10 minut - nic.\n20 minut - nic.\n40 minut - nic.\n60 minut - nic.\n60 minut i sekunda:\n- Kurwa wsiadać, kur*a wsiadać bo przez tego skur*ysyna mamy godzinę opóźnienia!",
+    "is_duplicate": true,
+    "content": "Jasiu bawi się swoją kolejką.\n- Ku*wa wsiadać, kur*a wysiadać!\nTato usłyszał to z sąsiedniego pokoju.\n- Jasiu, jeśli jeszcze raz przeklniesz przez godzinę zabiorę ci twoją kolejkę.\n5 minut - nic.\n10 minut - nic.\n20 minut - nic.\n40 minut - nic.\n60 minut - nic.\n60 minut i sekunda:\n- Ku*wa wsiadać, kur*a wsiadać bo przez tego skur*ysyna mamy godzinę opóźnienia!",
     "rate": 262,
     "date": "11.10.2016",
     "author": "DZTW"
@@ -2218,7 +2219,7 @@
   {
     "id": "7952",
     "is_checked": true,
-    "content": "- No masz, zjedz kotlecika za babcię.\n- ...\n- No proszę, pół ogóreczka za tatę.\n- ...\n- I jeszcze kawałek kiełbaski za mamę.\n- Kurwa babciu! Ja już mam 30 lat, sam potrafię jeść!\n- Sam, sam... I nie klnij! Wiem, że masz 30 lat, ale strasznie mnie wkur*ia jak pijesz i nie zagryzasz!",
+    "content": "- No masz, zjedz kotlecika za babcię.\n- ...\n- No proszę, pół ogóreczka za tatę.\n- ...\n- I jeszcze kawałek kiełbaski za mamę.\n- Kur*a babciu! Ja już mam 30 lat, sam potrafię jeść!\n- Sam, sam... I nie klnij! Wiem, że masz 30 lat, ale strasznie mnie wkur*ia jak pijesz i nie zagryzasz!",
     "rate": 122,
     "date": "28.08.2016",
     "author": "Robert1987"
@@ -5094,7 +5095,7 @@
   {
     "id": "6944",
     "is_checked": true,
-    "content": "Wpada do sklepu młoda kobieta:\n- Niech mi Pani szybko sprawdzi czy te 200 zł jest prawdziwe czy fałszywe.\n- Fałszywe.\n- Kurwa zgwałcili mnie!",
+    "content": "Wpada do sklepu młoda kobieta:\n- Niech mi Pani szybko sprawdzi czy te 200 zł jest prawdziwe czy fałszywe.\n- Fałszywe.\n- Ku*wa zgwałcili mnie!",
     "rate": 272,
     "date": "05.02.2016",
     "author": null
@@ -8896,7 +8897,7 @@
     "content": "Wchodzi policjant do księgarni, a sprzedawca do niego:\n- Co, pada?",
     "rate": 119,
     "date": "23.05.2012",
-    "author": "Wykop Kurwa"
+    "author": "Wykop"
   },
   {
     "id": "5275",
@@ -8904,7 +8905,7 @@
     "content": "- Nie za grubo wyglądam w tych dżinsach? - pyta dziewczyna chłopaka\n- A nie obrazisz się jak powiem prawdę?\n- Nie\n- Posuwam twoją siostrę",
     "rate": 109,
     "date": "23.05.2012",
-    "author": "Wykop Kurwa"
+    "author": "Wykop"
   },
   {
     "id": "5271",

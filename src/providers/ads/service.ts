@@ -10,7 +10,7 @@ export class AdService {
       engine.banner.config({
         id: key,
         isTesting: false,
-        autoShow: false,
+        autoShow: true,
         overlap: false
       });
     }
@@ -28,6 +28,5 @@ export class AdService {
     }
     
     engine.banner.prepare();
-    engine.banner.show();
   }
 }
