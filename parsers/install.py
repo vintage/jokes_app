@@ -166,7 +166,7 @@ def clean():
     shutil.rmtree("platforms", ignore_errors=True)
     shutil.rmtree("plugins", ignore_errors=True)
     call(["npm", "i"])
-    call(["ionic", "state", "restore"])
+    call(["ionic", "cordova", "prepare"])
 
 
 @cli.command()
@@ -176,10 +176,10 @@ def build():
 
     os.chdir(app_dir)
 
-    call(["ionic", "resources"])
+    call(["ionic", "cordova", "resources"])
 
     # Build android package
-    call(["ionic", "build", "android", "--prod", "--release"])
+    call(["ionic", "cordova", "build", "android", "--prod", "--release"])
 
     def jarsigner(apk_name):
         call([
@@ -213,7 +213,7 @@ def build():
     zipalign(src_apk, "builds/{}_x86.apk".format(provider))
 
     # Build ios package, it's strange but I have to remove/add the platform
-    call(["ionic", "build", "ios"])
+    call(["ionic", "cordova", "build", "ios"])
 
 
 @cli.command()

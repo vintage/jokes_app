@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
-import { StatusBar, Splashscreen, Insomnia, Keyboard } from 'ionic-native';
+import { StatusBar } from '@ionic-native/status-bar';
+import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { AdService } from '../providers/ads/service';
 
@@ -14,18 +15,14 @@ export class MyApp {
 
   constructor(
     private platform: Platform,
+    private splashScreen: SplashScreen,
+    private statusBar: StatusBar,
     private ads: AdService
   ) {
     Promise.all([
       this.platform.ready()
     ]).then(() => {
       this.rootPage = JokeListPage;
-
-      if (window['cordova']) {
-        setInterval(() => {
-          Insomnia.keepAwake();
-        }, 5000);
-      }
 
       let adKey = null;
       if (this.platform.is('ios')) {
@@ -34,9 +31,8 @@ export class MyApp {
         adKey = 'ca-app-pub-4764697513834958/1118332466';
       }
 
-      StatusBar.hide();
-      Splashscreen.hide();
-      Keyboard.hideKeyboardAccessoryBar(false);
+      this.splashScreen.hide();
+      this.statusBar.hide();
 
       this.ads.initialize(adKey);
       this.ads.showBanner();

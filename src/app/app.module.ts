@@ -1,6 +1,11 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { Storage } from '@ionic/storage';
+import { BrowserModule } from '@angular/platform-browser';
+import { HttpModule } from '@angular/http';
+import { StatusBar } from '@ionic-native/status-bar';
+import { SplashScreen } from '@ionic-native/splash-screen';
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 
 import { MyApp } from './app.component';
 
@@ -27,7 +32,9 @@ let appConfig = {
 };
 
 export function provideStorage() {
- return new Storage(['sqlite', 'websql', 'indexeddb']);
+  return new Storage({
+    driverOrder: ['sqlite', 'websql', 'indexeddb']
+  });
 }
 
 @NgModule({
@@ -42,10 +49,12 @@ export function provideStorage() {
     // Components
     PaginatorComponent,
     JokesComponent
-    
+
     // Pipes
   ],
   imports: [
+    BrowserModule,
+    HttpModule,
     IonicModule.forRoot(MyApp, appConfig)
   ],
   bootstrap: [IonicApp],
@@ -59,6 +68,12 @@ export function provideStorage() {
   providers: [
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     {provide: Storage, useFactory: provideStorage},
+
+    // Ionic Native
+    SplashScreen,
+    StatusBar,
+    InAppBrowser,
+
     JokeService,
     AdService
   ]

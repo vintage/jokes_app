@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, AlertController } from 'ionic-angular';
-import { InAppBrowser } from 'ionic-native';
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 
 @Component({
   selector: 'page-about',
@@ -9,7 +9,8 @@ import { InAppBrowser } from 'ionic-native';
 export class AboutPage {
   constructor(
     private navCtrl: NavController,
-    private alertCtrl: AlertController
+    private alertCtrl: AlertController,
+    private iab: InAppBrowser
   ) {}
 
   showContactAlert() {
@@ -23,12 +24,12 @@ export class AboutPage {
 
   openFacebook() {
     let url: string = 'https://www.facebook.com/n/?puppy.box.studio';
-    new InAppBrowser(url, '_system');
+    this.iab.create(url, '_system');
   }
 
   openTwitter() {
     let url: string = 'https://twitter.com/puppybox_mobile';
-    new InAppBrowser(url, '_system');
+    this.iab.create(url, '_system');
   }
 
   openContact() {
