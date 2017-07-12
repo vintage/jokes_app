@@ -1,6 +1,6 @@
 # Jokes App (Perełki)
 
-Jokes App is a fully working hybrid mobile app built with Angular 2 & Ionic 2. The original app has been released to Google Play Store & App Store.
+Jokes App is a fully working hybrid mobile app built with Angular & Ionic. The original app has been released to Google Play Store & App Store.
 
 ### Showcase
 
@@ -21,14 +21,14 @@ You can see how the app works by downloading it from the official stores:
 You need Ionic CLI and cordova installed globally:
 
 ```sh
-$ npm i -g ionic@2.2.3 cordova
+$ npm i -g ionic@latest cordova@latest
 ```
 
 ```sh
 $ git clone https://github.com/vintage/jokes_app
 $ cd jokes_app
 $ npm i
-$ ionic state restore
+$ ionic cordova prepare
 ```
 
 ### Run
